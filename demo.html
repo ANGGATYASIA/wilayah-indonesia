@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Demo — Dropdown Wilayah Indonesia</title>
+<style>
+  body { font-family: system-ui, sans-serif; max-width: 520px; margin: 40px auto; padding: 0 16px; color: #222; }
+  h1 { font-size: 22px; }
+  p { color: #666; font-size: 14px; }
+  label { display: block; font-size: 13px; font-weight: 600; margin: 14px 0 5px; }
+  select { width: 100%; padding: 10px; font-size: 15px; border: 1px solid #ccc; border-radius: 8px; }
+  #hasil { margin-top: 20px; background: #f6f6f6; border-radius: 8px; padding: 14px; font-size: 14px; }
+  #hasil code { background: #e8e8e8; padding: 1px 5px; border-radius: 4px; }
+</style>
+</head>
+<body>
+  <h1>Demo dropdown wilayah</h1>
+  <p>Data diambil langsung dari JSON statis repo ini via CDN. Lihat
+  <a href="examples/javascript.md">contoh kodenya</a>.</p>
+
+  <label>Provinsi</label><select id="provinsi"><option>Memuat...</option></select>
+  <label>Kabupaten/Kota</label><select id="kabupaten"><option value="">Pilih provinsi dulu</option></select>
+  <label>Kecamatan</label><select id="kecamatan"><option value="">Pilih kabupaten/kota dulu</option></select>
+  <label>Desa/Kelurahan</label><select id="desa"><option value="">Pilih kecamatan dulu</option></select>
+
+  <div id="hasil">Pilih sampai desa/kelurahan untuk melihat kode wilayah dan kode pos.</div>
+
+<script>
+const BASE = 'https://cdn.jsdelivr.net/gh/ANGGATYASIA/wilayah-indonesia@main/api';
+const $ = id => document.getElementById(id);
+const get = url => fetch(url).then(r => r.json());
+const isi = (sel, items, label) => {
+  sel.innerHTML = `<option value="">${label}</option>` +
+    items.map(i => `<option value="${i.code}">${i.name}</option>`).join('');
+};
+
+(async () => isi($('provinsi'), await get(`${BASE}/provinces.json`), 'Pilih provinsi'))();
+
+$('provinsi').addEventListener('change', async e => {
+  const prov = e.target.value;
+  if (!prov) return;
+  $('kabupaten').innerHTML = '<option>Memuat...</option>';
+  isi($('kabupaten'), await get(`${BASE}/regencies/${prov}.json`), 'Pilih kabupaten/kota');
+  $('kecamatan').innerHTML = '<option value="">Pilih kabupaten/kota dulu</option>';
+  $('desa').innerHTML = '<option value="">Pilih kecamatan dulu</option>';
+});
+
+$('kabupaten').addEventListener('change', async e => {
+  const kab = e.target.value;
+  if (!kab) return;
+  const prov = kab.split('.')[0];
+  const all = await get(`${BASE}/districts/${prov}.json`);
+  isi($('kecamatan'), all.filter(d => d.regency_code === kab), 'Pilih kecamatan');
+  $('desa').innerHTML = '<option value="">Pilih kecamatan dulu</option>';
+});
+
+$('kecamatan').addEventListener('change', async e => {
+  const kec = e.target.value;
+  if (!kec) return;
+  const kab = kec.split('.').slice(0, 2).join('.');
+  const all = await get(`${BASE}/villages/${kab}.json`);
+  const list = all.filter(v => v.district_code === kec);
+  $('desa').innerHTML = '<option value="">Pilih desa/kelurahan</option>' +
+    list.map(v => `<option value="${v.code}" data-pos="${v.postal_code || ''}">${v.name}</option>`).join('');
+});
+
+$('desa').addEventListener('change', e => {
+  const opt = e.target.selectedOptions[0];
+  if (!e.target.value) return;
+  $('hasil').innerHTML =
+    `Kode wilayah: <code>${e.target.value}</code><br>` +
+    `Kode pos: <code>${opt.dataset.pos || 'tidak tersedia'}</code>`;
+});
+</script>
+</body>
+</html>
