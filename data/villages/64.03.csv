@@ -1,0 +1,111 @@
+code,name,type,postal_code,district_code
+64.03.01.2001,Merabu,Desa,77362,64.03.01
+64.03.01.2002,Panaan,Desa,77362,64.03.01
+64.03.01.2003,Merapun,Desa,77362,64.03.01
+64.03.01.2004,Muara Lesan,Desa,77362,64.03.01
+64.03.01.2005,Merasa,Desa,77362,64.03.01
+64.03.01.2006,Lesan Dayak,Desa,77362,64.03.01
+64.03.01.2007,Long Beliu,Desa,77362,64.03.01
+64.03.01.2008,Long Duhung,Desa,77362,64.03.01
+64.03.01.2009,Long Lamcin,Desa,77362,64.03.01
+64.03.01.2010,Long Keluh,Desa,77362,64.03.01
+64.03.01.2011,Long Pelay,Desa,77362,64.03.01
+64.03.01.2012,Mapulu,Desa,77362,64.03.01
+64.03.01.2013,Long Sului,Desa,77362,64.03.01
+64.03.01.2014,Sido Bangen,Desa,77362,64.03.01
+64.03.02.2002,Dumaring,Desa,77375,64.03.02
+64.03.02.2003,Talisayan,Desa,77375,64.03.02
+64.03.02.2014,Campur Sari,Desa,77375,64.03.02
+64.03.02.2015,Bumi Jaya,Desa,77375,64.03.02
+64.03.02.2016,Tunggal Bumi,Desa,77375,64.03.02
+64.03.02.2017,Sumber Mulya,Desa,77375,64.03.02
+64.03.02.2018,Suka Murya,Desa,77375,64.03.02
+64.03.02.2019,Purna Sari Jaya,Desa,77375,64.03.02
+64.03.02.2021,Eka Sapta,Desa,77375,64.03.02
+64.03.02.2023,Capuak,Desa,77375,64.03.02
+64.03.03.1013,Sambaliung,Kelurahan,77371,64.03.03
+64.03.03.2001,Long Lanuk,Desa,77371,64.03.03
+64.03.03.2002,Tumbit Dayak,Desa,77371,64.03.03
+64.03.03.2004,Inaran,Desa,77371,64.03.03
+64.03.03.2005,Pegat Bukur,Desa,77371,64.03.03
+64.03.03.2006,Rantau Panjang,Desa,77371,64.03.03
+64.03.03.2007,Suaran,Desa,77371,64.03.03
+64.03.03.2008,Pilanjau,Desa,77371,64.03.03
+64.03.03.2009,Pesayan,Desa,77371,64.03.03
+64.03.03.2010,Sei Bebanir Bangun,Desa,77371,64.03.03
+64.03.03.2011,Gurimbang,Desa,77371,64.03.03
+64.03.03.2012,Sukan Tengah,Desa,77371,64.03.03
+64.03.03.2014,Tanjung Perangat,Desa,77371,64.03.03
+64.03.03.2015,Bena Baru,Desa,77371,64.03.03
+64.03.04.2001,Long La'ai,Desa,77361,64.03.04
+64.03.04.2002,Punan Segah,Desa,77361,64.03.04
+64.03.04.2003,Long Ayap,Desa,77361,64.03.04
+64.03.04.2004,Long Ayan,Desa,77361,64.03.04
+64.03.04.2005,Punan Malinau,Desa,77361,64.03.04
+64.03.04.2006,Punan Mahkam,Desa,77361,64.03.04
+64.03.04.2007,Gunung Sari,Desa,77361,64.03.04
+64.03.04.2008,Pandan Sari,Desa,77361,64.03.04
+64.03.04.2009,Bukit Makmur,Desa,77361,64.03.04
+64.03.04.2010,Harapan Jaya,Desa,77361,64.03.04
+64.03.04.2011,Tepian Buah,Desa,77361,64.03.04
+64.03.04.2012,Batu Rajang,Desa,77361,64.03.04
+64.03.04.2013,Siduung Indah,Desa,77361,64.03.04
+64.03.05.1003,Sungai Bedungun,Kelurahan,77315,64.03.05
+64.03.05.1004,Tanjung Redeb,Kelurahan,77315,64.03.05
+64.03.05.1005,Bugis,Kelurahan,77312,64.03.05
+64.03.05.1006,Gayam,Kelurahan,77315,64.03.05
+64.03.05.1007,Karang Ambun,Kelurahan,77315,64.03.05
+64.03.05.1008,Gunung Panjang,Kelurahan,77311,64.03.05
+64.03.06.1003,Gunung Tabur,Kelurahan,77352,64.03.06
+64.03.06.2001,Tasuk,Desa,77352,64.03.06
+64.03.06.2002,Birang,Desa,77352,64.03.06
+64.03.06.2004,Maluang,Desa,77352,64.03.06
+64.03.06.2005,Samburakat,Desa,77352,64.03.06
+64.03.06.2006,Sambakungan,Desa,77352,64.03.06
+64.03.06.2007,Merancang Ulu,Desa,77352,64.03.06
+64.03.06.2008,Merancang Ilir,Desa,77352,64.03.06
+64.03.06.2009,Pulau Besing,Desa,77352,64.03.06
+64.03.06.2010,Melati Jaya,Desa,77352,64.03.06
+64.03.06.2011,Batu-Batu,Desa,77352,64.03.06
+64.03.07.2001,Pegat Batumbuk,Desa,77380,64.03.07
+64.03.07.2002,Teluk Semanting,Desa,77380,64.03.07
+64.03.07.2003,Tanjung Batu,Desa,77380,64.03.07
+64.03.07.2004,Pulau Derawan,Desa,77380,64.03.07
+64.03.07.2009,Kasai,Desa,77380,64.03.07
+64.03.08.2001,Biduk-Biduk,Desa,77373,64.03.08
+64.03.08.2002,Pantai Harapan,Desa,77373,64.03.08
+64.03.08.2003,Tanjung Prepat,Desa,77373,64.03.08
+64.03.08.2004,Teluk Sumbang,Desa,77373,64.03.08
+64.03.08.2008,Teluk Sulaiman,Desa,77373,64.03.08
+64.03.08.2009,Giring-Giring,Desa,77373,64.03.08
+64.03.09.1002,Teluk Bayur,Kelurahan,77315,64.03.09
+64.03.09.1003,Rinding,Kelurahan,77313,64.03.09
+64.03.09.2001,Tumbit Melayu,Desa,77315,64.03.09
+64.03.09.2004,Labanan Jaya,Desa,77352,64.03.09
+64.03.09.2005,Labanan Makmur,Desa,77352,64.03.09
+64.03.09.2006,Labanan Makarti,Desa,77352,64.03.09
+64.03.10.2002,Tabalar Muara,Desa,77374,64.03.10
+64.03.10.2003,Tubaan,Desa,77374,64.03.10
+64.03.10.2004,Tabalar Ulu,Desa,77374,64.03.10
+64.03.10.2005,Semurut,Desa,77374,64.03.10
+64.03.10.2006,Buyung-Buyung,Desa,77374,64.03.10
+64.03.10.2007,Harapan Maju,Desa,77374,64.03.10
+64.03.11.2001,Bohe Silian,Desa,77381,64.03.11
+64.03.11.2002,Payung-Payung,Desa,77381,64.03.11
+64.03.11.2003,Teluk Alulu,Desa,77381,64.03.11
+64.03.11.2004,Teluk Harapan,Desa,77381,64.03.11
+64.03.12.2001,Tembudan,Desa,77372,64.03.12
+64.03.12.2002,Kayu Indah,Desa,77372,64.03.12
+64.03.12.2003,Batu Putih,Desa,77373,64.03.12
+64.03.12.2004,Lobang Kelatak,Desa,77373,64.03.12
+64.03.12.2005,Ampen Medang,Desa,77373,64.03.12
+64.03.12.2006,Balikukup,Desa,77373,64.03.12
+64.03.12.2007,Sumber Agung,Desa,77372,64.03.12
+64.03.13.2001,Biatan Ulu,Desa,77372,64.03.13
+64.03.13.2002,Biatan Ilir,Desa,77372,64.03.13
+64.03.13.2003,Karangan,Desa,77372,64.03.13
+64.03.13.2004,Biatan Lempake,Desa,77372,64.03.13
+64.03.13.2005,Manunggal Jaya,Desa,77372,64.03.13
+64.03.13.2006,Biatan Bapinang,Desa,77372,64.03.13
+64.03.13.2007,Biatan Baru,Desa,77372,64.03.13
+64.03.13.2008,Bukit Makmur Jaya,Desa,77372,64.03.13
