@@ -123,6 +123,8 @@ def main():
 
     data = os.path.join(ROOT, 'data')
     os.makedirs(data, exist_ok=True)
+    os.makedirs(os.path.join(data, 'districts'), exist_ok=True)
+    os.makedirs(os.path.join(data, 'villages'), exist_ok=True)
 
     def wcsv(path, header, rows):
         with open(path, 'w', encoding='utf-8', newline='') as f:
@@ -134,9 +136,15 @@ def main():
          [(c, provinces[c]) for c in sorted(provinces)])
     wcsv(os.path.join(data, 'regencies.csv'), ['code', 'name', 'type', 'province_code'],
          [(c, regencies[c], reg_type[c], c.split('.')[0]) for c in sorted(regencies)])
-    wcsv(os.path.join(data, 'districts.csv'), ['code', 'name', 'regency_code'],
-         [(c, districts[c], '.'.join(c.split('.')[:2])) for c in sorted(districts)])
-    vrows = []
+    # CSV besar dipecah per provinsi / per kabupaten agar tiap file tetap kecil
+    dis_by_prov_csv = defaultdict(list)
+    for c in sorted(districts):
+        dis_by_prov_csv[c.split('.')[0]].append(
+            (c, districts[c], '.'.join(c.split('.')[:2])))
+    for prov, rows_ in dis_by_prov_csv.items():
+        wcsv(os.path.join(data, 'districts', prov + '.csv'),
+             ['code', 'name', 'regency_code'], rows_)
+    vil_by_reg_csv = defaultdict(list)
     for c in sorted(villages):
         p = c.split('.')
         info = kp.get(c)
@@ -146,8 +154,11 @@ def main():
         else:
             vtype = 'Kelurahan' if p[3].startswith('1') else 'Desa'
             pos = ''
-        vrows.append((c, villages[c], vtype, pos, '.'.join(p[:3])))
-    wcsv(os.path.join(data, 'villages.csv'), ['code', 'name', 'type', 'postal_code', 'district_code'], vrows)
+        vil_by_reg_csv['.'.join(p[:2])].append(
+            (c, villages[c], vtype, pos, '.'.join(p[:3])))
+    for reg, rows_ in vil_by_reg_csv.items():
+        wcsv(os.path.join(data, 'villages', reg + '.csv'),
+             ['code', 'name', 'type', 'postal_code', 'district_code'], rows_)
 
     print('provinsi:', len(provinces))
     print('kab/kota:', len(regencies), '(tipe dari data kodepos; fallback heuristik:', missing_type, ')')
