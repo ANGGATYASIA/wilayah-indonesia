@@ -1,0 +1,102 @@
+code,name,type,postal_code,district_code
+14.10.01.1001,Selatpanjang Kota,Kelurahan,28753,14.10.01
+14.10.01.1002,Selatpanjang Barat,Kelurahan,28753,14.10.01
+14.10.01.1003,Selatpanjang Selatan,Kelurahan,28753,14.10.01
+14.10.01.1004,Selatpanjang Timur,Kelurahan,28753,14.10.01
+14.10.01.2005,Banglas,Desa,28753,14.10.01
+14.10.01.2006,Alah Air,Desa,28753,14.10.01
+14.10.01.2007,Alah Air Timur,Desa,28753,14.10.01
+14.10.01.2008,Sesap,Desa,28753,14.10.01
+14.10.01.2016,Banglas Barat,Desa,28753,14.10.01
+14.10.02.2001,Segomeng,Desa,28756,14.10.02
+14.10.02.2002,Bantar,Desa,28756,14.10.02
+14.10.02.2003,Anak Setatah,Desa,28756,14.10.02
+14.10.02.2004,Lemang,Desa,28756,14.10.02
+14.10.02.2005,Bokor,Desa,28756,14.10.02
+14.10.02.2006,Sungai Cina,Desa,28756,14.10.02
+14.10.02.2007,Melai,Desa,28756,14.10.02
+14.10.02.2011,Telaga Baru,Desa,28756,14.10.02
+14.10.02.2012,Bina Maju,Desa,28756,14.10.02
+14.10.02.2015,Sialang Pasung,Desa,28756,14.10.02
+14.10.02.2016,Permai,Desa,28756,14.10.02
+14.10.02.2017,Mekar Baru,Desa,28756,14.10.02
+14.10.03.2001,Tanjung Samak,Desa,28755,14.10.03
+14.10.03.2002,Tanjung Medang,Desa,28755,14.10.03
+14.10.03.2004,Gemala Sari,Desa,28755,14.10.03
+14.10.03.2007,Topang,Desa,28755,14.10.03
+14.10.03.2008,Penyagun,Desa,28755,14.10.03
+14.10.03.2010,Repan,Desa,28755,14.10.03
+14.10.03.2011,Tanjung Bakau,Desa,28755,14.10.03
+14.10.03.2012,Teluk Samak,Desa,28755,14.10.03
+14.10.03.2013,Sungai Gayung Kiri,Desa,28755,14.10.03
+14.10.03.2014,Citra Damai,Desa,28755,14.10.03
+14.10.03.2016,Dwi Tunggal,Desa,28755,14.10.03
+14.10.03.2017,Wonosari,Desa,28755,14.10.03
+14.10.03.2018,Tebun,Desa,28755,14.10.03
+14.10.03.2020,Tanjung Gemuk,Desa,28755,14.10.03
+14.10.04.2001,Alai,Desa,28758,14.10.04
+14.10.04.2002,Tenan,Desa,28758,14.10.04
+14.10.04.2003,Insit,Desa,28758,14.10.04
+14.10.04.2004,Tanjung,Desa,28758,14.10.04
+14.10.04.2005,Tanjung Peranap,Desa,28758,14.10.04
+14.10.04.2006,Kundur,Desa,28758,14.10.04
+14.10.04.2007,Mekong,Desa,28758,14.10.04
+14.10.04.2008,Batang Malas,Desa,28758,14.10.04
+14.10.04.2009,Mantiasa,Desa,28758,14.10.04
+14.10.04.2010,Gogok Darussalam,Desa,28758,14.10.04
+14.10.04.2011,Maini Darul Aman,Desa,28758,14.10.04
+14.10.04.2012,Mengkikip,Desa,28758,14.10.04
+14.10.04.2013,Alai Selatan,Desa,28758,14.10.04
+14.10.04.2014,Tanjung Darul Takzim,Desa,28758,14.10.04
+14.10.05.1001,Teluk Belitung,Kelurahan,28752,14.10.05
+14.10.05.2002,Meranti Bunting,Desa,28752,14.10.05
+14.10.05.2003,Lukit,Desa,28752,14.10.05
+14.10.05.2004,Bagan Melibur,Desa,28752,14.10.05
+14.10.05.2018,Pelantai,Desa,28752,14.10.05
+14.10.05.2019,Tanjung Kulim,Desa,28752,14.10.05
+14.10.05.2021,Mekar Sari,Desa,28752,14.10.05
+14.10.05.2023,Mayang Sari,Desa,28752,14.10.05
+14.10.05.2026,Sungai Anak Kamal,Desa,28752,14.10.05
+14.10.05.2027,Sungai Tengah,Desa,28752,14.10.05
+14.10.06.2001,Kuala Merbau,Desa,28750,14.10.06
+14.10.06.2002,Renak Dungun,Desa,28750,14.10.06
+14.10.06.2003,Baran Melintang,Desa,28750,14.10.06
+14.10.06.2004,Teluk Ketapang,Desa,28750,14.10.06
+14.10.06.2005,Semukut,Desa,28750,14.10.06
+14.10.06.2006,Centai,Desa,28750,14.10.06
+14.10.06.2007,Tanjungbunga,Desa,28750,14.10.06
+14.10.06.2008,Batang Meranti,Desa,28750,14.10.06
+14.10.06.2009,Pangkalan Balai,Desa,28750,14.10.06
+14.10.06.2010,Padang Kamal,Desa,28750,14.10.06
+14.10.06.2011,Ketapang Permai,Desa,28750,14.10.06
+14.10.07.2001,Lukun,Desa,28754,14.10.07
+14.10.07.2002,Sungai Tohor,Desa,28754,14.10.07
+14.10.07.2003,Nipah Sendanu,Desa,28754,14.10.07
+14.10.07.2004,Tanjung Sari,Desa,28754,14.10.07
+14.10.07.2005,Tanjung Gadai,Desa,28754,14.10.07
+14.10.07.2006,Teluk Buntal,Desa,28754,14.10.07
+14.10.07.2007,Kepau Baru,Desa,28754,14.10.07
+14.10.07.2008,Sungai Tohor Barat,Desa,28754,14.10.07
+14.10.07.2009,Sendanu Darul Ihsan,Desa,28754,14.10.07
+14.10.07.2010,Batin Suir,Desa,28754,14.10.07
+14.10.08.2001,Tanjung Padang,Desa,28751,14.10.08
+14.10.08.2002,Putri Puyu,Desa,28751,14.10.08
+14.10.08.2003,Mekar Delima,Desa,28751,14.10.08
+14.10.08.2004,Dedap,Desa,28751,14.10.08
+14.10.08.2005,Kudap,Desa,28751,14.10.08
+14.10.08.2006,Bandul,Desa,28751,14.10.08
+14.10.08.2007,Selat Akar,Desa,28751,14.10.08
+14.10.08.2008,Tanjung Pisang,Desa,28751,14.10.08
+14.10.08.2009,Mengkopot,Desa,28751,14.10.08
+14.10.08.2010,Mengkirau,Desa,28751,14.10.08
+14.10.09.2001,Tanjung Kedabu,Desa,28757,14.10.09
+14.10.09.2002,Beting,Desa,28757,14.10.09
+14.10.09.2003,Sokop,Desa,28757,14.10.09
+14.10.09.2004,Telesung,Desa,28757,14.10.09
+14.10.09.2005,Bungur,Desa,28757,14.10.09
+14.10.09.2006,Tenggayun Raya,Desa,28757,14.10.09
+14.10.09.2007,Sendaur,Desa,28757,14.10.09
+14.10.09.2008,Kayu Ara,Desa,28757,14.10.09
+14.10.09.2009,Sonde,Desa,28757,14.10.09
+14.10.09.2010,Kedabu Rapat,Desa,28757,14.10.09
+14.10.09.2011,Tanah Merah,Desa,28757,14.10.09

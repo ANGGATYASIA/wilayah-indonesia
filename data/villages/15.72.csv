@@ -1,0 +1,70 @@
+code,name,type,postal_code,district_code
+15.72.01.1001,Sungai Penuh,Kelurahan,37111,15.72.01
+15.72.01.1003,Pasar Sungai Penuh,Kelurahan,37113,15.72.01
+15.72.01.2004,Pasar Baru,Desa,37111,15.72.01
+15.72.01.2006,Gedang,Desa,37111,15.72.01
+15.72.01.2014,Amar Sakti,Desa,37111,15.72.01
+15.72.02.2001,Koto Renah,Desa,37111,15.72.02
+15.72.02.2002,Koto Keras,Desa,37111,15.72.02
+15.72.02.2003,Koto Bento,Desa,37111,15.72.02
+15.72.02.2004,Koto Lolo,Desa,37111,15.72.02
+15.72.02.2005,Koto Tengah,Desa,37111,15.72.02
+15.72.02.2008,Koto Duo,Desa,37152,15.72.02
+15.72.02.2010,Sungai Liuk,Desa,37152,15.72.02
+15.72.02.2011,Seberang,Desa,37152,15.72.02
+15.72.02.2015,Sumur Gedang,Desa,37152,15.72.02
+15.72.03.2001,Kampung Diilir,Desa,37151,15.72.03
+15.72.03.2002,Koto Beringin,Desa,37151,15.72.03
+15.72.03.2003,Maliki Air,Desa,37151,15.72.03
+15.72.03.2004,Tanjung,Desa,37151,15.72.03
+15.72.03.2005,Koto Teluk,Desa,37151,15.72.03
+15.72.03.2006,Kampung Dalam,Desa,37151,15.72.03
+15.72.03.2007,Simpang Tiga Rawang,Desa,37151,15.72.03
+15.72.03.2008,Larik Kemahan,Desa,37151,15.72.03
+15.72.03.2009,Dusun Diilir,Desa,37151,15.72.03
+15.72.03.2010,Paling Serumpun,Desa,37151,15.72.03
+15.72.03.2011,Koto Dian,Desa,37151,15.72.03
+15.72.03.2012,Tanjung Muda,Desa,37151,15.72.03
+15.72.03.2013,Cempaka,Desa,37151,15.72.03
+15.72.04.2001,Baru Debai,Desa,37121,15.72.04
+15.72.04.2002,Pendung Hiang,Desa,37121,15.72.04
+15.72.04.2003,Koto Pudung,Desa,37121,15.72.04
+15.72.04.2004,Koto Dumo,Desa,37121,15.72.04
+15.72.04.2005,Sembilan,Desa,37121,15.72.04
+15.72.04.2006,Koto Tuo,Desa,37121,15.72.04
+15.72.04.2007,Koto Panap,Desa,37121,15.72.04
+15.72.04.2008,Koto Tengah,Desa,37121,15.72.04
+15.72.04.2009,Tanjung Bunga,Desa,37121,15.72.04
+15.72.04.2010,Koto Padang,Desa,37121,15.72.04
+15.72.04.2011,Tanjung Karang,Desa,37121,15.72.04
+15.72.04.2012,Kt. Baru Tanah Kampung,Desa,37121,15.72.04
+15.72.04.2013,Mekar Jaya,Desa,37121,15.72.04
+15.72.05.2001,Kumun Hilir,Desa,37111,15.72.05
+15.72.05.2002,Kumun Mudik,Desa,37111,15.72.05
+15.72.05.2003,Air Teluh,Desa,37111,15.72.05
+15.72.05.2004,Sandaran Galeh,Desa,37111,15.72.05
+15.72.05.2005,Debai,Desa,37111,15.72.05
+15.72.05.2006,Pinggir Air,Desa,37111,15.72.05
+15.72.05.2007,Renah Kayu Embun,Desa,37111,15.72.05
+15.72.05.2008,Ulu Air,Desa,37111,15.72.05
+15.72.05.2009,Muara Jaya,Desa,37111,15.72.05
+15.72.06.1008,Pondok Tinggi,Kelurahan,37114,15.72.06
+15.72.06.2001,Sungai Jernih,Desa,37111,15.72.06
+15.72.06.2002,Aur Duri,Desa,37111,15.72.06
+15.72.06.2003,Pondok Agung,Desa,37111,15.72.06
+15.72.06.2004,Permanti,Desa,37111,15.72.06
+15.72.06.2005,Lawang Agung,Desa,37111,15.72.06
+15.72.06.2006,Karya Bakti,Desa,37111,15.72.06
+15.72.06.2007,Koto Lebu,Desa,37111,15.72.06
+15.72.07.2001,Koto Baru,Desa,37152,15.72.07
+15.72.07.2002,Koto Limau Manis,Desa,37152,15.72.07
+15.72.07.2003,Kampung Tengah,Desa,37152,15.72.07
+15.72.07.2004,Dujung Sakti,Desa,37152,15.72.07
+15.72.07.2005,Permai Indah,Desa,37152,15.72.07
+15.72.07.2006,Srimenanti,Desa,37152,15.72.07
+15.72.08.1005,Dusun Baru,Kelurahan,37112,15.72.08
+15.72.08.2001,Sumur Anyir,Desa,37111,15.72.08
+15.72.08.2002,Koto Tinggi,Desa,37111,15.72.08
+15.72.08.2003,Talang Lindung,Desa,37111,15.72.08
+15.72.08.2004,Pelayang Raya,Desa,37111,15.72.08
+15.72.08.2006,Sungai Ning,Desa,37111,15.72.08
