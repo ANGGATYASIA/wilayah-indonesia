@@ -1,0 +1,183 @@
+code,name,type,postal_code,district_code
+13.01.01.2001,Inderapura,Desa,25671,13.01.01
+13.01.01.2002,Muaro Sakai Inderapura,Desa,25671,13.01.01
+13.01.01.2003,Tiga Sepakat Inderapura,Desa,25671,13.01.01
+13.01.01.2004,Inderapura Barat,Desa,25671,13.01.01
+13.01.01.2005,Kudo-Kudo Inderapura,Desa,25671,13.01.01
+13.01.01.2006,Inderapura Selatan,Desa,25671,13.01.01
+13.01.01.2009,Simpang Lama Inderapura,Desa,25671,13.01.01
+13.01.01.2010,Tigo Sungai Inderapura,Desa,25671,13.01.01
+13.01.01.2011,Tluk Amplu Inderapura,Desa,25671,13.01.01
+13.01.01.2012,Inderapura Tengah,Desa,25671,13.01.01
+13.01.02.2001,Pelangai,Desa,25666,13.01.02
+13.01.02.2002,Sungai Tunu,Desa,25666,13.01.02
+13.01.02.2003,Sungai Tunu Utara,Desa,25666,13.01.02
+13.01.02.2004,Sungai Tunu Barat,Desa,25666,13.01.02
+13.01.02.2005,Nyiur Melambai Pelangai,Desa,25666,13.01.02
+13.01.02.2006,Sungai Liku Pelangai,Desa,25666,13.01.02
+13.01.02.2007,Koto VIII Pelangai,Desa,25666,13.01.02
+13.01.02.2008,Pelangai Gadang,Desa,25666,13.01.02
+13.01.02.2009,Pelangai Kaciak,Desa,25666,13.01.02
+13.01.02.2010,Pasia Pelangai,Desa,25666,13.01.02
+13.01.03.2001,Kambang,Desa,25663,13.01.03
+13.01.03.2002,Lakitan,Desa,25663,13.01.03
+13.01.03.2003,Kambang Utara,Desa,25663,13.01.03
+13.01.03.2004,Kambang Timur,Desa,25663,13.01.03
+13.01.03.2005,Kambang Barat,Desa,25663,13.01.03
+13.01.03.2006,Lakitan Utara,Desa,25663,13.01.03
+13.01.03.2007,Lakitan Selatan,Desa,25663,13.01.03
+13.01.03.2008,Lakitan Timur,Desa,25663,13.01.03
+13.01.03.2009,Lakitan Tengah,Desa,25663,13.01.03
+13.01.04.2001,IV Koto Hilie,Desa,25661,13.01.04
+13.01.04.2002,IV Koto Mudiek,Desa,25661,13.01.04
+13.01.04.2003,Taluak,Desa,25661,13.01.04
+13.01.04.2004,Koto Nan Duo IV Koto Hilie,Desa,25661,13.01.04
+13.01.04.2005,Koto Nan Tigo IV Koto Hilie,Desa,25661,13.01.04
+13.01.04.2006,Teratak Tempatih IV Koto Mudiek,Desa,25661,13.01.04
+13.01.04.2007,Tuik IV Koto Mudiek,Desa,25661,13.01.04
+13.01.04.2008,Sungai Nyalo IV Koto Mudiek,Desa,25661,13.01.04
+13.01.04.2009,Taluk Tigo Sakato,Desa,25661,13.01.04
+13.01.05.2001,Painan,Desa,25651,13.01.05
+13.01.05.2002,Tambang,Desa,25651,13.01.05
+13.01.05.2003,Salido,Desa,25651,13.01.05
+13.01.05.2004,Lumpo,Desa,25651,13.01.05
+13.01.05.2005,Bunga Pasang Salido,Desa,25651,13.01.05
+13.01.05.2006,Sago Salido,Desa,25651,13.01.05
+13.01.05.2007,Salido Sari Bulan,Desa,25651,13.01.05
+13.01.05.2008,Koto Rawang,Desa,25651,13.01.05
+13.01.05.2009,Limau Gadang Lumpo,Desa,25651,13.01.05
+13.01.05.2010,Batu Kunik Lumpo,Desa,25651,13.01.05
+13.01.05.2011,Taratak Tangah Lumpo,Desa,25651,13.01.05
+13.01.05.2012,Ampuan Lumpo,Desa,25651,13.01.05
+13.01.05.2013,Ampang Tareh Lumpo,Desa,25651,13.01.05
+13.01.05.2014,Balai Sinayan Lumpo,Desa,25651,13.01.05
+13.01.05.2015,Sungai Gayo Lumpo,Desa,25651,13.01.05
+13.01.05.2016,Sungai Sariak Lumpo,Desa,25651,13.01.05
+13.01.05.2017,Bukik Kaciak Lumpo,Desa,25651,13.01.05
+13.01.05.2018,Gunung Bungkuak Lumpo,Desa,25651,13.01.05
+13.01.05.2019,Painan Selatan Painan,Desa,25651,13.01.05
+13.01.05.2020,Painan Timur Painan,Desa,25651,13.01.05
+13.01.06.2005,Koto Berapak,Desa,25652,13.01.06
+13.01.06.2006,Talaok,Desa,25652,13.01.06
+13.01.06.2007,Pasar Baru,Desa,25652,13.01.06
+13.01.06.2008,Gurun Panjang,Desa,25652,13.01.06
+13.01.06.2009,Api-api Pasar Baru,Desa,25652,13.01.06
+13.01.06.2010,Tanjung Durian Pasar Baru,Desa,25652,13.01.06
+13.01.06.2011,Asam Kamba Pasar Baru,Desa,25652,13.01.06
+13.01.06.2012,Sawah Laweh Pasar Baru,Desa,25652,13.01.06
+13.01.06.2013,Kapeh Panji Jaya Talaok,Desa,25652,13.01.06
+13.01.06.2014,Aur Begalung Talaok,Desa,25652,13.01.06
+13.01.06.2015,Kapelgam Koto Berapak,Desa,25652,13.01.06
+13.01.06.2016,Koto Baru Koto Berapak,Desa,25652,13.01.06
+13.01.06.2017,Kubang Koto Berapak,Desa,25652,13.01.06
+13.01.06.2018,Kapujan Koto Berapak,Desa,25652,13.01.06
+13.01.06.2019,Gurun Panjang Utara,Desa,25652,13.01.06
+13.01.06.2020,Gurun Panjang Barat,Desa,25652,13.01.06
+13.01.06.2021,Gurun Panjang Selatan,Desa,25652,13.01.06
+13.01.07.2001,Siguntur,Desa,25654,13.01.07
+13.01.07.2002,Sungai Pinang,Desa,25654,13.01.07
+13.01.07.2003,Duku,Desa,25654,13.01.07
+13.01.07.2004,Batu Hampa,Desa,25654,13.01.07
+13.01.07.2005,Nanggalo,Desa,25654,13.01.07
+13.01.07.2006,Ampang Pulai,Desa,25654,13.01.07
+13.01.07.2007,Kapuh,Desa,25654,13.01.07
+13.01.07.2008,Barung-Barung Balantai,Desa,25654,13.01.07
+13.01.07.2009,Barung-Barung Balantai Selatan,Desa,25654,13.01.07
+13.01.07.2010,Mandeh,Desa,25654,13.01.07
+13.01.07.2011,Kapuah Utara,Desa,25654,13.01.07
+13.01.07.2012,Taratak Sungai Lundang,Desa,25654,13.01.07
+13.01.07.2013,Siguntur Tua,Desa,25654,13.01.07
+13.01.07.2014,Kampung Baru Korong Nan Ampek,Desa,25654,13.01.07
+13.01.07.2015,Duku Utara,Desa,25654,13.01.07
+13.01.07.2016,Pulau Karam Ampang Pulai,Desa,25654,13.01.07
+13.01.07.2017,Jinang Kampung Pansur Ampang Pulai,Desa,25654,13.01.07
+13.01.07.2018,Cerocok Anau Ampang Pulai,Desa,25654,13.01.07
+13.01.07.2019,Sungai Nyalo Mudiak Aia,Desa,25654,13.01.07
+13.01.07.2020,Batu Hampar Selatan,Desa,25654,13.01.07
+13.01.07.2021,Barung-Barung Balantai Timur,Desa,25654,13.01.07
+13.01.07.2022,Barung-Barung Balantai Tengah,Desa,25654,13.01.07
+13.01.07.2023,Setara Nanggalo,Desa,25654,13.01.07
+13.01.08.2001,Taratak,Desa,25662,13.01.08
+13.01.08.2002,Surantih,Desa,25662,13.01.08
+13.01.08.2003,Amping Parak,Desa,25662,13.01.08
+13.01.08.2004,Amping Parak Timur,Desa,25662,13.01.08
+13.01.08.2005,Koto Taratak,Desa,25662,13.01.08
+13.01.08.2006,Lansano Taratak,Desa,25662,13.01.08
+13.01.08.2007,Aur Duri Surantih,Desa,25662,13.01.08
+13.01.08.2008,Rawang Gunung Malelo Surantih,Desa,25662,13.01.08
+13.01.08.2009,Koto Nan Tigo Selatan Surantih,Desa,25662,13.01.08
+13.01.08.2010,Koto Nan Tigo Utara Surantih,Desa,25662,13.01.08
+13.01.08.2011,Ganting Mudiak Selatan Surantih,Desa,25662,13.01.08
+13.01.08.2012,Ganting Mudiak Utara Surantih,Desa,25662,13.01.08
+13.01.09.2001,Punggasan,Desa,25668,13.01.09
+13.01.09.2002,Air Haji,Desa,25668,13.01.09
+13.01.09.2003,Punggasan Utara,Desa,25668,13.01.09
+13.01.09.2004,Punggasan Timur,Desa,25668,13.01.09
+13.01.09.2005,Padang XI Punggasan,Desa,25668,13.01.09
+13.01.09.2006,Lagan Mudik Punggasan,Desa,25668,13.01.09
+13.01.09.2007,Lagan Hilir Punggasan,Desa,25668,13.01.09
+13.01.09.2008,Air Haji Tenggara,Desa,25668,13.01.09
+13.01.09.2009,Pasar Lama Muara Air Haji,Desa,25668,13.01.09
+13.01.09.2010,Pasar Bukit Air Haji,Desa,25668,13.01.09
+13.01.09.2011,Air Haji Barat,Desa,25668,13.01.09
+13.01.09.2012,Air Haji Tengah,Desa,25668,13.01.09
+13.01.09.2013,Rantau Simalenang Air Haji,Desa,25668,13.01.09
+13.01.09.2014,Muara Gadang Air Haji,Desa,25668,13.01.09
+13.01.09.2015,Sungai Sirah Air Haji,Desa,25668,13.01.09
+13.01.09.2016,Muara Kandis Punggasan,Desa,25668,13.01.09
+13.01.10.2001,Lunang,Desa,25674,13.01.10
+13.01.10.2003,Lunang Utara,Desa,25674,13.01.10
+13.01.10.2004,Lunang Selatan,Desa,25674,13.01.10
+13.01.10.2005,Lunang Barat,Desa,25674,13.01.10
+13.01.10.2015,Sindang Lunang,Desa,25674,13.01.10
+13.01.10.2016,Pondok Parian Lunang,Desa,25674,13.01.10
+13.01.10.2017,Lunang Tengah,Desa,25674,13.01.10
+13.01.10.2018,Lunang Satu,Desa,25674,13.01.10
+13.01.10.2019,Lunang Dua,Desa,25674,13.01.10
+13.01.10.2020,Lunang Tiga,Desa,25674,13.01.10
+13.01.11.2001,Tapan,Desa,25672,13.01.11
+13.01.11.2002,Pasar Tapan,Desa,25672,13.01.11
+13.01.11.2007,Batang Arah Tapan,Desa,25672,13.01.11
+13.01.11.2008,Ampang Tulak Tapan,Desa,25672,13.01.11
+13.01.11.2009,Tanjung Pondok Tapan,Desa,25672,13.01.11
+13.01.11.2010,Batang Betung Tapan,Desa,25672,13.01.11
+13.01.11.2016,Bukit Buai Tapan,Desa,25672,13.01.11
+13.01.11.2017,Riak Danau Tapan,Desa,25672,13.01.11
+13.01.11.2018,Koto Anau Tapan,Desa,25672,13.01.11
+13.01.11.2019,Dusun Baru Tapan,Desa,25672,13.01.11
+13.01.12.2001,Puluik-Puluik,Desa,25653,13.01.12
+13.01.12.2002,Koto Ranah,Desa,25653,13.01.12
+13.01.12.2003,Muaro Aie,Desa,25653,13.01.12
+13.01.12.2004,Pancuang Taba,Desa,25653,13.01.12
+13.01.12.2005,Puluik-Puluik Selatan,Desa,25653,13.01.12
+13.01.12.2006,Limau Gadang Pancung Taba,Desa,25653,13.01.12
+13.01.13.2001,Inderapura Utara,Desa,25673,13.01.13
+13.01.13.2002,Muara Inderapura,Desa,25673,13.01.13
+13.01.13.2003,Damar Lapan Batang Inderapura,Desa,25673,13.01.13
+13.01.13.2004,Lalang Panjang Inderapura,Desa,25673,13.01.13
+13.01.13.2005,Palokan Inderapura,Desa,25673,13.01.13
+13.01.13.2006,Lubuk Betung Inderapura,Desa,25673,13.01.13
+13.01.13.2007,Tluk Kualo Inderapura,Desa,25673,13.01.13
+13.01.13.2008,Tanah Bakali Inderapura,Desa,25673,13.01.13
+13.01.13.2009,Inderapura Timur,Desa,25673,13.01.13
+13.01.13.2010,Pulau Rajo Inderapura,Desa,25673,13.01.13
+13.01.14.2001,Sungai Gambir Sako Tapan,Desa,25670,13.01.14
+13.01.14.2002,Limau Purut Tapan,Desa,25670,13.01.14
+13.01.14.2003,Talang Balarik Tapan,Desa,25670,13.01.14
+13.01.14.2004,Tebing Tinggi Tapan,Desa,25670,13.01.14
+13.01.14.2005,Binjai Tapan,Desa,25670,13.01.14
+13.01.14.2006,Sungai Pinang Tapan,Desa,25670,13.01.14
+13.01.14.2007,Talang Koto Pulai Tapan,Desa,25670,13.01.14
+13.01.14.2008,Kampung Tengah Tapan,Desa,25670,13.01.14
+13.01.14.2009,Kubu Tapan,Desa,25670,13.01.14
+13.01.14.2010,Simpang Gunung Tapan,Desa,25670,13.01.14
+13.01.15.2001,Silaut,Desa,25675,13.01.15
+13.01.15.2002,Sungai Sirah,Desa,25675,13.01.15
+13.01.15.2003,Sungai Sarik,Desa,25675,13.01.15
+13.01.15.2004,Sungai Pulai,Desa,25675,13.01.15
+13.01.15.2005,Pasir Binjai,Desa,25675,13.01.15
+13.01.15.2006,Talang Binjai,Desa,25675,13.01.15
+13.01.15.2007,Durian Seribu,Desa,25675,13.01.15
+13.01.15.2008,Lubuk Bunta,Desa,25675,13.01.15
+13.01.15.2009,Air Hitam,Desa,25675,13.01.15
+13.01.15.2010,Sambungo,Desa,25675,13.01.15

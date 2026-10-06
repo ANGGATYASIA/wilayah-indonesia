@@ -1,0 +1,152 @@
+code,name,type,postal_code,district_code
+12.71.01.1001,Pasar Baru,Kelurahan,20212,12.71.01
+12.71.01.1002,Pusat Pasar,Kelurahan,20212,12.71.01
+12.71.01.1003,Sei Rengas I,Kelurahan,20214,12.71.01
+12.71.01.1004,Mesjid,Kelurahan,20213,12.71.01
+12.71.01.1005,Pandau Hulu I,Kelurahan,20211,12.71.01
+12.71.01.1006,Kotamatsum III,Kelurahan,20215,12.71.01
+12.71.01.1007,Pasar Merah Barat,Kelurahan,20217,12.71.01
+12.71.01.1008,Teladan Timur,Kelurahan,20217,12.71.01
+12.71.01.1009,Teladan Barat,Kelurahan,20217,12.71.01
+12.71.01.1010,Sudirejo 1,Kelurahan,20218,12.71.01
+12.71.01.1011,Sudirejo II,Kelurahan,20218,12.71.01
+12.71.01.1012,Sitirejo I,Kelurahan,20219,12.71.01
+12.71.02.1001,Lalang,Kelurahan,20127,12.71.02
+12.71.02.1002,Sei Sikambing B,Kelurahan,20122,12.71.02
+12.71.02.1003,Sunggal,Kelurahan,20128,12.71.02
+12.71.02.1004,Babura Sunggal,Kelurahan,20121,12.71.02
+12.71.02.1005,Tanjung Rejo,Kelurahan,20122,12.71.02
+12.71.02.1006,Simpang Tanjung,Kelurahan,20122,12.71.02
+12.71.03.1001,Helvetia,Kelurahan,20124,12.71.03
+12.71.03.1002,Helvetia Tengah,Kelurahan,20124,12.71.03
+12.71.03.1003,Helvetia Timur,Kelurahan,20124,12.71.03
+12.71.03.1004,Tanjung Gusta,Kelurahan,20125,12.71.03
+12.71.03.1005,Cinta Damai,Kelurahan,20126,12.71.03
+12.71.03.1006,Dwi Kora,Kelurahan,20123,12.71.03
+12.71.03.1007,Sei Sikambing C II,Kelurahan,20123,12.71.03
+12.71.04.1001,Tegal S Mandala I,Kelurahan,20226,12.71.04
+12.71.04.1002,Tegal S Mandala II,Kelurahan,20226,12.71.04
+12.71.04.1003,Tegal S Mandala III,Kelurahan,20226,12.71.04
+12.71.04.1004,Denai,Kelurahan,20227,12.71.04
+12.71.04.1005,Binjai,Kelurahan,20228,12.71.04
+12.71.04.1006,Medan Tenggara,Kelurahan,20228,12.71.04
+12.71.05.1001,Kesawan,Kelurahan,20111,12.71.05
+12.71.05.1002,Silalas,Kelurahan,20114,12.71.05
+12.71.05.1003,Glugur Kota,Kelurahan,20115,12.71.05
+12.71.05.1004,Pulo Berayan Kota,Kelurahan,20116,12.71.05
+12.71.05.1005,Sei Agul,Kelurahan,20117,12.71.05
+12.71.05.1006,Karang Berombak,Kelurahan,20117,12.71.05
+12.71.06.1001,Titipapan,Kelurahan,20244,12.71.06
+12.71.06.1002,Tanjung Mulia Hilir,Kelurahan,20241,12.71.06
+12.71.06.1003,Tanjung Mulya,Kelurahan,20241,12.71.06
+12.71.06.1004,Kota Bangun,Kelurahan,20243,12.71.06
+12.71.06.1005,Mabar,Kelurahan,20242,12.71.06
+12.71.06.1006,Mabar Hilir,Kelurahan,20242,12.71.06
+12.71.07.1001,Tanjung Selamat,Kelurahan,20134,12.71.07
+12.71.07.1002,Simpang Selayang,Kelurahan,20135,12.71.07
+12.71.07.1003,Namo Gajah,Kelurahan,20136,12.71.07
+12.71.07.1004,Kemenangan Tani,Kelurahan,20136,12.71.07
+12.71.07.1005,Laucih,Kelurahan,20136,12.71.07
+12.71.07.1006,Sidomulyo,Kelurahan,20137,12.71.07
+12.71.07.1007,Ladang Bambu,Kelurahan,20138,12.71.07
+12.71.07.1008,Simalingkar B,Kelurahan,20135,12.71.07
+12.71.07.1009,Mangga,Kelurahan,20141,12.71.07
+12.71.08.1001,Belawan I,Kelurahan,20411,12.71.08
+12.71.08.1002,Belawan II,Kelurahan,20412,12.71.08
+12.71.08.1003,Belawan Bahagia,Kelurahan,20415,12.71.08
+12.71.08.1004,Belawan Bahari,Kelurahan,20414,12.71.08
+12.71.08.1005,Belawan Sicanang,Kelurahan,20412,12.71.08
+12.71.08.1006,Bagan Deli,Kelurahan,20414,12.71.08
+12.71.09.1001,Amplas,Kelurahan,20229,12.71.09
+12.71.09.1002,Sitirejo II,Kelurahan,20219,12.71.09
+12.71.09.1003,Sitirejo III,Kelurahan,20219,12.71.09
+12.71.09.1004,Harjosari I,Kelurahan,20147,12.71.09
+12.71.09.1005,Harjosari II,Kelurahan,20147,12.71.09
+12.71.09.1006,Timbang Deli,Kelurahan,20148,12.71.09
+12.71.09.1007,Bangun Mulia,Kelurahan,20149,12.71.09
+12.71.10.1001,Sukaramai I,Kelurahan,20216,12.71.10
+12.71.10.1002,Sukaramai II,Kelurahan,20216,12.71.10
+12.71.10.1003,Sei Rengas II,Kelurahan,20214,12.71.10
+12.71.10.1004,S. Rengas Permata,Kelurahan,20214,12.71.10
+12.71.10.1005,Pandau Hulu II,Kelurahan,20211,12.71.10
+12.71.10.1006,Kota Matsum I,Kelurahan,20215,12.71.10
+12.71.10.1007,Kota Matsum II,Kelurahan,20215,12.71.10
+12.71.10.1008,Kota Matsum IV,Kelurahan,20215,12.71.10
+12.71.10.1009,Pasar Merah Timur,Kelurahan,20217,12.71.10
+12.71.10.1010,Tegal Sari I,Kelurahan,20216,12.71.10
+12.71.10.1011,Tegal Sari II,Kelurahan,20216,12.71.10
+12.71.10.1012,Tegal Sari III,Kelurahan,20216,12.71.10
+12.71.11.1001,Suka Maju,Kelurahan,20146,12.71.11
+12.71.11.1002,Titi Kuning,Kelurahan,20146,12.71.11
+12.71.11.1003,Kedai Durian,Kelurahan,20145,12.71.11
+12.71.11.1004,Pangkalan Mansur,Kelurahan,20143,12.71.11
+12.71.11.1005,Gedung Johor,Kelurahan,20144,12.71.11
+12.71.11.1006,Kwala Bekala,Kelurahan,20142,12.71.11
+12.71.12.1001,Labuhan Deli,Kelurahan,20254,12.71.12
+12.71.12.1002,Rengas Pulau,Kelurahan,20255,12.71.12
+12.71.12.1003,Terjun,Kelurahan,20256,12.71.12
+12.71.12.1004,Tanah Enam Ratus,Kelurahan,20245,12.71.12
+12.71.12.1005,Paya Pasir,Kelurahan,20250,12.71.12
+12.71.13.1001,Pekan Labuhan,Kelurahan,20253,12.71.13
+12.71.13.1002,Sei Mati,Kelurahan,20252,12.71.13
+12.71.13.1003,Besar,Kelurahan,20251,12.71.13
+12.71.13.1004,Martubung,Kelurahan,20252,12.71.13
+12.71.13.1005,Nelayan Indah,Kelurahan,20524,12.71.13
+12.71.13.1006,Tangkahan,Kelurahan,20525,12.71.13
+12.71.14.1001,Indra Kasih,Kelurahan,20221,12.71.14
+12.71.14.1002,Sidorejo Hilir,Kelurahan,20222,12.71.14
+12.71.14.1003,Sidorejo,Kelurahan,20222,12.71.14
+12.71.14.1004,Bantan,Kelurahan,20224,12.71.14
+12.71.14.1005,Tembung,Kelurahan,20225,12.71.14
+12.71.14.1006,Bandar Selamat,Kelurahan,20223,12.71.14
+12.71.14.1007,Bantan Timur,Kelurahan,20224,12.71.14
+12.71.15.1001,Aur,Kelurahan,20151,12.71.15
+12.71.15.1002,Hamdan,Kelurahan,20151,12.71.15
+12.71.15.1003,Jati,Kelurahan,20152,12.71.15
+12.71.15.1004,Sukaraja,Kelurahan,20159,12.71.15
+12.71.15.1005,Sei Mati,Kelurahan,20159,12.71.15
+12.71.15.1006,Kampung Baru,Kelurahan,20158,12.71.15
+12.71.16.1001,Madras Hulu,Kelurahan,20152,12.71.16
+12.71.16.1002,Polonia,Kelurahan,20157,12.71.16
+12.71.16.1003,Sari Rejo,Kelurahan,20157,12.71.16
+12.71.16.1004,Suka Damai,Kelurahan,20157,12.71.16
+12.71.16.1005,Anggrung,Kelurahan,20152,12.71.16
+12.71.17.1001,Petisah Hulu,Kelurahan,20153,12.71.17
+12.71.17.1002,Babura,Kelurahan,20154,12.71.17
+12.71.17.1003,Merdeka,Kelurahan,20154,12.71.17
+12.71.17.1004,Darat,Kelurahan,20153,12.71.17
+12.71.17.1005,Padang Bulan,Kelurahan,20155,12.71.17
+12.71.17.1006,Titi Rante,Kelurahan,20156,12.71.17
+12.71.18.1001,Pandau Hilir,Kelurahan,20232,12.71.18
+12.71.18.1002,Pahlawan,Kelurahan,20233,12.71.18
+12.71.18.1003,Sei Kera Hilir I,Kelurahan,20233,12.71.18
+12.71.18.1004,Sei Kera Hilir II,Kelurahan,20233,12.71.18
+12.71.18.1005,Sei Kera Hulu,Kelurahan,20233,12.71.18
+12.71.18.1006,Sidorame Timur,Kelurahan,20236,12.71.18
+12.71.18.1007,Sidorame Barat I,Kelurahan,20236,12.71.18
+12.71.18.1008,Sidorame Barat II,Kelurahan,20236,12.71.18
+12.71.18.1009,Tegalrejo,Kelurahan,20237,12.71.18
+12.71.19.1001,Petisah Tengah,Kelurahan,20112,12.71.19
+12.71.19.1002,Sekip,Kelurahan,20113,12.71.19
+12.71.19.1003,Sei Sikambing D,Kelurahan,20119,12.71.19
+12.71.19.1004,Sei Putih Barat,Kelurahan,20118,12.71.19
+12.71.19.1005,Sei Putih Tengah,Kelurahan,20118,12.71.19
+12.71.19.1006,Sei Putih Timur I,Kelurahan,20118,12.71.19
+12.71.19.1007,Sei Putih Timur II,Kelurahan,20118,12.71.19
+12.71.20.1001,Gang Buntu,Kelurahan,20231,12.71.20
+12.71.20.1002,Sidodadi,Kelurahan,20234,12.71.20
+12.71.20.1003,Durian,Kelurahan,20235,12.71.20
+12.71.20.1004,Glugur Darat I,Kelurahan,20238,12.71.20
+12.71.20.1005,Glugur Darat II,Kelurahan,20238,12.71.20
+12.71.20.1006,P Berayan Darat I,Kelurahan,20239,12.71.20
+12.71.20.1007,P Berayan Darat II,Kelurahan,20239,12.71.20
+12.71.20.1008,P Berayan Bengkel,Kelurahan,20239,12.71.20
+12.71.20.1009,PB Bengkel Baru,Kelurahan,20239,12.71.20
+12.71.20.1010,Perintis,Kelurahan,20231,12.71.20
+12.71.20.1011,Gaharu,Kelurahan,20235,12.71.20
+12.71.21.1001,Asam Kumbang,Kelurahan,20133,12.71.21
+12.71.21.1002,Tanjungsari,Kelurahan,20132,12.71.21
+12.71.21.1003,P Bulan Selayang II,Kelurahan,20131,12.71.21
+12.71.21.1004,Beringin,Kelurahan,20131,12.71.21
+12.71.21.1005,P Bulan Selayang I,Kelurahan,20131,12.71.21
+12.71.21.1006,Sempakata,Kelurahan,20132,12.71.21

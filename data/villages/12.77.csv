@@ -1,0 +1,80 @@
+code,name,type,postal_code,district_code
+12.77.01.1001,Wek I,Kelurahan,22715,12.77.01
+12.77.01.1002,Wek II,Kelurahan,22718,12.77.01
+12.77.01.1003,Wek III,Kelurahan,22719,12.77.01
+12.77.01.1004,Wek IV,Kelurahan,22719,12.77.01
+12.77.01.1005,Tanobato,Kelurahan,22716,12.77.01
+12.77.01.1006,Tobat,Kelurahan,22716,12.77.01
+12.77.01.1007,Batang Ayumi Jae,Kelurahan,22716,12.77.01
+12.77.01.1008,Batang Ayumi Julu,Kelurahan,22711,12.77.01
+12.77.01.1009,Sadabuan,Kelurahan,22715,12.77.01
+12.77.01.1010,Panyanggar,Kelurahan,22714,12.77.01
+12.77.01.1011,Bonan Dolok,Kelurahan,22712,12.77.01
+12.77.01.1012,Losung Batu,Kelurahan,22713,12.77.01
+12.77.01.1013,Timbangan,Kelurahan,22711,12.77.01
+12.77.01.1014,Bincar,Kelurahan,22711,12.77.01
+12.77.01.1015,Kantin,Kelurahan,22711,12.77.01
+12.77.01.1016,Kayu Ombun,Kelurahan,22711,12.77.01
+12.77.02.1001,Wek V,Kelurahan,22723,12.77.02
+12.77.02.1002,Wek VI,Kelurahan,22724,12.77.02
+12.77.02.1003,Losung,Kelurahan,22722,12.77.02
+12.77.02.1004,Sitamiang,Kelurahan,22723,12.77.02
+12.77.02.1005,Ujung Padang,Kelurahan,22725,12.77.02
+12.77.02.1006,Aek Tampang,Kelurahan,22726,12.77.02
+12.77.02.1007,Padang Matinggi,Kelurahan,22727,12.77.02
+12.77.02.1008,Silandit,Kelurahan,22728,12.77.02
+12.77.02.1009,Sidangkal,Kelurahan,22721,12.77.02
+12.77.02.1010,Hanopan,Kelurahan,22721,12.77.02
+12.77.02.1011,Padang Matinggi Lestari,Kelurahan,22727,12.77.02
+12.77.02.1012,Sitamiang Baru,Kelurahan,22723,12.77.02
+12.77.03.1001,Batunadua Jae,Kelurahan,22731,12.77.03
+12.77.03.1002,Batunadua Julu,Kelurahan,22731,12.77.03
+12.77.03.2003,Purwodadi,Desa,22731,12.77.03
+12.77.03.2004,Gunung Hasahatan,Desa,22731,12.77.03
+12.77.03.2005,Ujunggurap,Desa,22731,12.77.03
+12.77.03.2006,Aek Tuhul,Desa,22731,12.77.03
+12.77.03.2007,Baruas,Desa,22731,12.77.03
+12.77.03.2008,Siloting,Desa,22731,12.77.03
+12.77.03.2009,Aek Bayur,Desa,22731,12.77.03
+12.77.03.2010,Pudun Jae,Desa,22731,12.77.03
+12.77.03.2011,Pudun Julu,Desa,22731,12.77.03
+12.77.03.2012,Batang Bahal,Desa,22731,12.77.03
+12.77.03.2013,Aek Najaji,Desa,22731,12.77.03
+12.77.03.2014,Simirik,Desa,22731,12.77.03
+12.77.03.2015,Bargottopong,Desa,22731,12.77.03
+12.77.04.1001,Hutaimbaru,Kelurahan,22701,12.77.04
+12.77.04.1002,Lubuk Raya,Kelurahan,22703,12.77.04
+12.77.04.1003,Sabungan Jae,Kelurahan,22706,12.77.04
+12.77.04.1004,Lembah Lubuk Manik,Kelurahan,22702,12.77.04
+12.77.04.1005,Palopat Maria,Kelurahan,22704,12.77.04
+12.77.04.2006,Sabungan Sipabangun,Desa,22707,12.77.04
+12.77.04.2007,Singali,Desa,22708,12.77.04
+12.77.04.2008,Huta Padang,Desa,22700,12.77.04
+12.77.04.2009,Partihaman Saroha,Desa,22705,12.77.04
+12.77.04.2010,Tinjoman Lama,Desa,22709,12.77.04
+12.77.05.1001,Sihitang,Kelurahan,22730,12.77.05
+12.77.05.1002,Pijor Koling,Kelurahan,22730,12.77.05
+12.77.05.2003,Palopat Pijor Koling,Desa,22730,12.77.05
+12.77.05.2004,Salambue,Desa,22730,12.77.05
+12.77.05.2005,Purbatua Pijor Koling,Desa,22730,12.77.05
+12.77.05.2006,Sigulang,Desa,22730,12.77.05
+12.77.05.2007,Manunggang Julu,Desa,22730,12.77.05
+12.77.05.2008,Goti,Desa,22730,12.77.05
+12.77.05.2009,Manegen,Desa,22730,12.77.05
+12.77.05.2010,Huta Koje,Desa,22730,12.77.05
+12.77.05.2011,Hutalimbong,Desa,22730,12.77.05
+12.77.05.2012,Huta Padang,Desa,22730,12.77.05
+12.77.05.2013,Perkebunan Pijor Koling,Desa,22730,12.77.05
+12.77.05.2014,Labuhan Labo,Desa,22730,12.77.05
+12.77.05.2015,Huta Lombang,Desa,22730,12.77.05
+12.77.05.2016,Manunggang Jae,Desa,22730,12.77.05
+12.77.05.2017,Labuhan Rasoki,Desa,22730,12.77.05
+12.77.05.2018,Tarutung Baru,Desa,22730,12.77.05
+12.77.06.2001,Joring Lombang,Desa,22729,12.77.06
+12.77.06.2002,Batu Layan,Desa,22729,12.77.06
+12.77.06.2003,Simasom,Desa,22729,12.77.06
+12.77.06.2004,Pintu Langit Jae,Desa,22729,12.77.06
+12.77.06.2005,Mompang,Desa,22729,12.77.06
+12.77.06.2006,Rimba Soping,Desa,22729,12.77.06
+12.77.06.2007,Simatohir,Desa,22729,12.77.06
+12.77.06.2008,Joring Natobang,Desa,22729,12.77.06
