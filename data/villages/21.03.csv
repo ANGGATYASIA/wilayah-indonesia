@@ -1,0 +1,78 @@
+code,name,type,postal_code,district_code
+21.03.04.1003,Sabang Barat,Kelurahan,29784,21.03.04
+21.03.04.2001,Sebelat,Desa,29784,21.03.04
+21.03.04.2005,Air Putih,Desa,29784,21.03.04
+21.03.05.1008,Sedanau,Kelurahan,29782,21.03.05
+21.03.05.2007,Mekar Jaya,Desa,29782,21.03.05
+21.03.05.2012,Binjai,Desa,29782,21.03.05
+21.03.05.2013,Piantengah,Desa,29782,21.03.05
+21.03.05.2015,Selaut,Desa,29782,21.03.05
+21.03.06.1003,Serasan,Kelurahan,29781,21.03.06
+21.03.06.2002,Kampung Hilir,Desa,29781,21.03.06
+21.03.06.2005,Batu Berlian,Desa,29781,21.03.06
+21.03.06.2006,Tanjung Setelung,Desa,29781,21.03.06
+21.03.06.2007,Tanjung Balau,Desa,29781,21.03.06
+21.03.06.2010,Pangkalan,Desa,29781,21.03.06
+21.03.06.2011,Jermalik,Desa,29781,21.03.06
+21.03.07.1011,Ranai Kota,Kelurahan,29777,21.03.07
+21.03.07.1016,Ranai Darat,Kelurahan,29777,21.03.07
+21.03.07.1017,Bandarsyah,Kelurahan,29777,21.03.07
+21.03.07.1019,Batu Hitam,Kelurahan,29777,21.03.07
+21.03.07.2002,Sungai Ulu,Desa,29777,21.03.07
+21.03.07.2004,Sepempang,Desa,29777,21.03.07
+21.03.07.2014,Batu Gajah,Desa,29777,21.03.07
+21.03.08.2001,Kelarik Utara,Desa,29775,21.03.08
+21.03.08.2002,Kelarik,Desa,29775,21.03.08
+21.03.08.2004,Kelarik Air Mali,Desa,29775,21.03.08
+21.03.08.2005,Teluk Buton,Desa,29775,21.03.08
+21.03.08.2006,Belakang Gunung,Desa,29775,21.03.08
+21.03.08.2008,Gunung Durian,Desa,29775,21.03.08
+21.03.09.2001,Subi,Desa,29779,21.03.09
+21.03.09.2002,Subi Besar,Desa,29779,21.03.09
+21.03.09.2003,Meliah,Desa,29779,21.03.09
+21.03.09.2005,Terayak,Desa,29779,21.03.09
+21.03.09.2007,Subi Besar Timur,Desa,29779,21.03.09
+21.03.09.2008,Meliah Selatan,Desa,29779,21.03.09
+21.03.10.2001,Tanjung Pala,Desa,29789,21.03.10
+21.03.10.2002,Air Payang,Desa,29789,21.03.10
+21.03.10.2003,Kadur,Desa,29789,21.03.10
+21.03.11.2001,Sabang Mawang,Desa,29788,21.03.11
+21.03.11.2003,Sededap,Desa,29788,21.03.11
+21.03.11.2004,Tanjung Batang,Desa,29788,21.03.11
+21.03.11.2005,Serantas,Desa,29788,21.03.11
+21.03.11.2006,Sabang Mawang Barat,Desa,29788,21.03.11
+21.03.11.2010,Teluk Labuh,Desa,29788,21.03.11
+21.03.15.2001,Tanjung,Desa,29776,21.03.15
+21.03.15.2002,Ceruk,Desa,29776,21.03.15
+21.03.15.2003,Kelanga,Desa,29776,21.03.15
+21.03.15.2004,Pengadah,Desa,29776,21.03.15
+21.03.15.2005,Sebadai Ulu,Desa,29776,21.03.15
+21.03.15.2006,Limau Manis,Desa,29776,21.03.15
+21.03.15.2007,Seleman,Desa,29776,21.03.15
+21.03.16.2001,Tapau,Desa,29778,21.03.16
+21.03.16.2002,Harapan Jaya,Desa,29778,21.03.16
+21.03.16.2003,Air Lengit,Desa,29778,21.03.16
+21.03.18.2001,Cemaga,Desa,29783,21.03.18
+21.03.18.2002,Cemaga Selatan (Setengar),Desa,29783,21.03.18
+21.03.18.2003,Cemaga Utara (Singgang Bulan),Desa,29783,21.03.18
+21.03.18.2004,Cemaga Tengah,Desa,29783,21.03.18
+21.03.19.2001,Arung Ayam,Desa,29780,21.03.19
+21.03.19.2002,Air Nusa,Desa,29780,21.03.19
+21.03.19.2004,Air Ringau,Desa,29780,21.03.19
+21.03.19.2005,Payak,Desa,29780,21.03.19
+21.03.20.2001,Batubi Jaya,Desa,29787,21.03.20
+21.03.20.2002,Gunung Putri,Desa,29787,21.03.20
+21.03.20.2003,Sedarat Baru,Desa,29787,21.03.20
+21.03.20.2004,Sedanau Timur,Desa,29787,21.03.20
+21.03.20.2005,Semedang,Desa,29787,21.03.20
+21.03.21.2001,Pulau Tiga,Desa,29786,21.03.21
+21.03.21.2002,Tanjung Kumbik Utara,Desa,29786,21.03.21
+21.03.21.2003,Setumuk,Desa,29786,21.03.21
+21.03.21.2004,Selading,Desa,29786,21.03.21
+21.03.22.2001,Air Kumpai,Desa,29785,21.03.22
+21.03.22.2002,Batu Belanak,Desa,29785,21.03.22
+21.03.22.2003,Gunung Jambat,Desa,29785,21.03.22
+21.03.23.2001,Pulau Panjang,Desa,29779,21.03.23
+21.03.23.2002,Pulau Kerdau,Desa,29779,21.03.23
+21.03.24.2001,Kelarik Barat,Desa,29775,21.03.24
+21.03.24.2002,Seluan Barat,Desa,29775,21.03.24

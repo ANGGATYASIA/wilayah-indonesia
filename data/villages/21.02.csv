@@ -1,0 +1,72 @@
+code,name,type,postal_code,district_code
+21.02.01.1003,Moro,Kelurahan,29663,21.02.01
+21.02.01.1010,Moro Timur,Kelurahan,29663,21.02.01
+21.02.01.2004,Pauh,Desa,29663,21.02.01
+21.02.01.2009,Jang,Desa,29663,21.02.01
+21.02.01.2014,Pulau Moro,Desa,29663,21.02.01
+21.02.02.1001,Tanjung Batu Barat,Kelurahan,29662,21.02.02
+21.02.02.1002,Tanjung Batu Kota,Kelurahan,29662,21.02.02
+21.02.02.1009,Gading Sari,Kelurahan,29662,21.02.02
+21.02.02.2004,Sungai Sebesi,Desa,29662,21.02.02
+21.02.02.2005,Sungai Ungar,Desa,29662,21.02.02
+21.02.02.2006,Lubuk,Desa,29662,21.02.02
+21.02.03.1001,Tanjung Balai,Kelurahan,29661,21.02.03
+21.02.03.1002,Teluk Air,Kelurahan,29661,21.02.03
+21.02.03.1003,Sungai Lakam Timur,Kelurahan,29661,21.02.03
+21.02.03.1006,Lubuk Semut,Kelurahan,29661,21.02.03
+21.02.03.1007,Tanjung Balai Kota,Kelurahan,29661,21.02.03
+21.02.03.1008,Sungai Lakam Barat,Kelurahan,29661,21.02.03
+21.02.04.1001,Meral Kota,Kelurahan,29666,21.02.04
+21.02.04.1002,Baran Barat,Kelurahan,29666,21.02.04
+21.02.04.1003,Sungai Raya,Kelurahan,29666,21.02.04
+21.02.04.1006,Baran Timur,Kelurahan,29666,21.02.04
+21.02.04.1007,Sungai Pasir,Kelurahan,29666,21.02.04
+21.02.04.1008,Parit Benut,Kelurahan,29666,21.02.04
+21.02.05.1001,Tebing,Kelurahan,29668,21.02.05
+21.02.05.1002,Teluk Uma,Kelurahan,29668,21.02.05
+21.02.05.1003,Kapling,Kelurahan,29668,21.02.05
+21.02.05.1004,Pamak,Kelurahan,29668,21.02.05
+21.02.05.1008,Harjosari,Kelurahan,29668,21.02.05
+21.02.05.2007,Pongkar,Desa,29668,21.02.05
+21.02.06.1001,Buru,Kelurahan,29664,21.02.06
+21.02.06.1002,Lubuk Puding,Kelurahan,29664,21.02.06
+21.02.06.2003,Tanjung Hutan,Desa,29664,21.02.06
+21.02.06.2004,Tanjung Batu Kecil,Desa,29664,21.02.06
+21.02.07.1012,Tanjung Berlian Kota,Kelurahan,29662,21.02.07
+21.02.07.2003,Sungai Ungar Utara,Desa,29662,21.02.07
+21.02.07.2004,Teluk Radang,Desa,29662,21.02.07
+21.02.07.2010,Perayun,Desa,29662,21.02.07
+21.02.07.2013,Tanjung Berlian Barat,Desa,29662,21.02.07
+21.02.08.1001,Sawang,Kelurahan,29662,21.02.08
+21.02.08.2002,Sawang Selatan,Desa,29662,21.02.08
+21.02.08.2003,Sawang Laut,Desa,29662,21.02.08
+21.02.08.2004,Kundur,Desa,29662,21.02.08
+21.02.08.2005,Gemuruh,Desa,29662,21.02.08
+21.02.09.2002,Sanglar,Desa,29665,21.02.09
+21.02.09.2003,Tanjung Kilang,Desa,29665,21.02.09
+21.02.09.2004,Semembang,Desa,29665,21.02.09
+21.02.09.2005,Telaga Tujuh,Desa,29665,21.02.09
+21.02.10.1001,Pasir Panjang,Kelurahan,29667,21.02.10
+21.02.10.1002,Darussalam,Kelurahan,29667,21.02.10
+21.02.10.2003,Pangke,Desa,29667,21.02.10
+21.02.10.2004,Pangke Barat,Desa,29667,21.02.10
+21.02.11.1001,Alai,Kelurahan,29669,21.02.11
+21.02.11.2002,Batu Limau,Desa,29669,21.02.11
+21.02.11.2003,Ngal,Desa,29669,21.02.11
+21.02.11.2004,Sungai Buluh,Desa,29669,21.02.11
+21.02.12.2001,Sebele,Desa,29660,21.02.12
+21.02.12.2002,Lebuh,Desa,29660,21.02.12
+21.02.12.2003,Penarah,Desa,29660,21.02.12
+21.02.12.2004,Sungai Asam,Desa,29660,21.02.12
+21.02.12.2005,Tebias,Desa,29660,21.02.12
+21.02.12.2006,Degong,Desa,29660,21.02.12
+21.02.13.2001,Parit,Desa,29661,21.02.13
+21.02.13.2002,Tulang,Desa,29661,21.02.13
+21.02.13.2003,Selat Mendaun,Desa,29661,21.02.13
+21.02.14.2001,Sugie,Desa,29663,21.02.14
+21.02.14.2002,Niur Permai,Desa,29663,21.02.14
+21.02.14.2003,Keban,Desa,29663,21.02.14
+21.02.14.2004,Rawa Jaya,Desa,29663,21.02.14
+21.02.14.2005,Tanjung Pelanduk,Desa,29663,21.02.14
+21.02.14.2006,Buluh Patah,Desa,29663,21.02.14
+21.02.14.2007,Selat Mie,Desa,29663,21.02.14
