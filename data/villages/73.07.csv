@@ -1,0 +1,81 @@
+code,name,type,postal_code,district_code
+73.07.01.1001,Tassililu,Kelurahan,92653,73.07.01
+73.07.01.1002,Balakia,Kelurahan,92653,73.07.01
+73.07.01.2003,Gunung Perak,Desa,92653,73.07.01
+73.07.01.2004,Arabika,Desa,92653,73.07.01
+73.07.01.2005,Bonto Salama,Desa,92653,73.07.01
+73.07.01.2006,Turungan Baji,Desa,92653,73.07.01
+73.07.01.2007,Barania,Desa,92653,73.07.01
+73.07.01.2008,Boto Lempangan,Desa,92653,73.07.01
+73.07.01.2009,Terasa,Desa,92653,73.07.01
+73.07.02.1001,Sangiaseri,Kelurahan,92661,73.07.02
+73.07.02.2002,Puncak,Desa,92661,73.07.02
+73.07.02.2003,Songing,Desa,92661,73.07.02
+73.07.02.2004,Aska,Desa,92661,73.07.02
+73.07.02.2005,Talle,Desa,92661,73.07.02
+73.07.02.2006,Palae,Desa,92661,73.07.02
+73.07.02.2007,Bulu Kamase,Desa,92661,73.07.02
+73.07.02.2008,Palangka,Desa,92661,73.07.02
+73.07.02.2009,Polewali,Desa,92661,73.07.02
+73.07.02.2010,Gareccing,Desa,92661,73.07.02
+73.07.02.2011,Alenangka,Desa,92661,73.07.02
+73.07.03.1001,Samataring,Kelurahan,92671,73.07.03
+73.07.03.2002,Sanjai,Desa,92671,73.07.03
+73.07.03.2003,Pattalassang,Desa,92671,73.07.03
+73.07.03.2004,Panaikang,Desa,92671,73.07.03
+73.07.03.2005,Saukang,Desa,92671,73.07.03
+73.07.03.2006,Kampala,Desa,92671,73.07.03
+73.07.03.2007,Lasiai,Desa,92671,73.07.03
+73.07.03.2008,Biroro,Desa,92671,73.07.03
+73.07.03.2009,Kaloling,Desa,92671,73.07.03
+73.07.03.2010,Pasimarannu,Desa,92671,73.07.03
+73.07.03.2011,Tongke-Tongke,Desa,92671,73.07.03
+73.07.03.2012,Salohe,Desa,92671,73.07.03
+73.07.03.2013,Bongki Lengkese,Desa,92671,73.07.03
+73.07.04.1001,Samaenre,Kelurahan,92652,73.07.04
+73.07.04.2002,Mattunreng Tellue,Desa,92652,73.07.04
+73.07.04.2003,Kompang,Desa,92652,73.07.04
+73.07.04.2004,Baru,Desa,92652,73.07.04
+73.07.04.2005,Pattongko,Desa,92652,73.07.04
+73.07.04.2006,Saotengnga,Desa,92652,73.07.04
+73.07.04.2007,Saohiring,Desa,92652,73.07.04
+73.07.04.2008,Kanrung,Desa,92652,73.07.04
+73.07.04.2009,Saotanre,Desa,92652,73.07.04
+73.07.04.2010,Bonto,Desa,92652,73.07.04
+73.07.04.2011,Gantarang,Desa,92652,73.07.04
+73.07.05.1001,Biringere,Kelurahan,92611,73.07.05
+73.07.05.1002,Lamatti Rilau,Kelurahan,92613,73.07.05
+73.07.05.1003,Balangnipa,Kelurahan,92612,73.07.05
+73.07.05.1004,Lappa,Kelurahan,92614,73.07.05
+73.07.05.1005,Bongki,Kelurahan,92615,73.07.05
+73.07.05.1006,Alehanuae,Kelurahan,92616,73.07.05
+73.07.06.2001,Lamatti Riattang,Desa,92654,73.07.06
+73.07.06.2002,Lamatti Riaja,Desa,92654,73.07.06
+73.07.06.2003,Bulu Tellue,Desa,92654,73.07.06
+73.07.06.2004,Duampanuae,Desa,92654,73.07.06
+73.07.06.2005,Tompobulu,Desa,92654,73.07.06
+73.07.06.2006,Lamatti Riawang,Desa,92654,73.07.06
+73.07.06.2007,Lappacinrana,Desa,92654,73.07.06
+73.07.07.1001,Pasir Putih,Kelurahan,92662,73.07.07
+73.07.07.2002,Batu Belerang,Desa,92662,73.07.07
+73.07.07.2003,Biji Nangka,Desa,92662,73.07.07
+73.07.07.2004,Barambang,Desa,92662,73.07.07
+73.07.07.2005,Bonto Sinala,Desa,92662,73.07.07
+73.07.07.2006,Kassi Buleng,Desa,92662,73.07.07
+73.07.07.2007,Bonto Katute,Desa,92662,73.07.07
+73.07.07.2008,Bonto Tengnga,Desa,92662,73.07.07
+73.07.08.1001,Mannanti,Kelurahan,92681,73.07.08
+73.07.08.2002,Saotengah,Desa,92681,73.07.08
+73.07.08.2003,Kalobba,Desa,92681,73.07.08
+73.07.08.2004,Tellu Limpoe,Desa,92681,73.07.08
+73.07.08.2005,Massaile,Desa,92681,73.07.08
+73.07.08.2006,Lembang Lohe,Desa,92681,73.07.08
+73.07.08.2007,Pattongko,Desa,92681,73.07.08
+73.07.08.2008,Bua,Desa,92681,73.07.08
+73.07.08.2009,Suka Maju,Desa,92681,73.07.08
+73.07.08.2010,Erabaru,Desa,92681,73.07.08
+73.07.08.2011,Samaturue,Desa,92681,73.07.08
+73.07.09.2001,Pulau Harapan,Desa,92616,73.07.09
+73.07.09.2002,Pulau Buhung Pitue,Desa,92616,73.07.09
+73.07.09.2003,Pulau Padaelo,Desa,92616,73.07.09
+73.07.09.2004,Pulau Persatuan,Desa,92616,73.07.09

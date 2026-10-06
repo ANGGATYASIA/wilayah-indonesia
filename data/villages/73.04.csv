@@ -1,0 +1,114 @@
+code,name,type,postal_code,district_code
+73.04.01.1001,Benteng,Kelurahan,92352,73.04.01
+73.04.01.1002,Pallengu,Kelurahan,92352,73.04.01
+73.04.01.1003,Pantai Bahari,Kelurahan,92352,73.04.01
+73.04.01.1004,Bontorannu,Kelurahan,92352,73.04.01
+73.04.01.2005,Pallantikang,Desa,92352,73.04.01
+73.04.01.2006,Kalimporo,Desa,92352,73.04.01
+73.04.01.2007,Punagaya,Desa,92352,73.04.01
+73.04.01.2008,Mallasoro,Desa,92352,73.04.01
+73.04.01.2009,Kapita,Desa,92352,73.04.01
+73.04.01.2010,Marayoka,Desa,92352,73.04.01
+73.04.01.2011,Jenetallasa,Desa,92352,73.04.01
+73.04.01.2012,Tombo Tombolo,Desa,92352,73.04.01
+73.04.01.2013,Gunung Silanu,Desa,92352,73.04.01
+73.04.01.2014,Bontomanai,Desa,92352,73.04.01
+73.04.02.1001,Bonto Tangnga,Kelurahan,92350,73.04.02
+73.04.02.1002,Tonro Kassi,Kelurahan,92350,73.04.02
+73.04.02.1003,Tonro Kassi Barat,Kelurahan,92350,73.04.02
+73.04.02.1004,Tonro Kassi Timur,Kelurahan,92350,73.04.02
+73.04.02.1005,Taman Roya,Kelurahan,92350,73.04.02
+73.04.02.1006,Manjangloe,Kelurahan,92350,73.04.02
+73.04.02.2007,Borongtala,Desa,92350,73.04.02
+73.04.02.2008,Bontosunggu,Desa,92350,73.04.02
+73.04.02.2009,Turatea,Desa,92350,73.04.02
+73.04.02.2010,Karelayu,Desa,92350,73.04.02
+73.04.02.2011,Bontojai,Desa,92350,73.04.02
+73.04.02.2012,Turatea Timur,Desa,92350,73.04.02
+73.04.03.1001,Pabiringa,Kelurahan,92316,73.04.03
+73.04.03.1002,Balang,Kelurahan,92315,73.04.03
+73.04.03.1003,Empoang,Kelurahan,92311,73.04.03
+73.04.03.1004,Balang Toa,Kelurahan,92311,73.04.03
+73.04.03.1005,Balang Beru,Kelurahan,92316,73.04.03
+73.04.03.1006,Empoang Selatan,Kelurahan,92311,73.04.03
+73.04.03.1007,Sidenre,Kelurahan,92311,73.04.03
+73.04.03.1008,Empoang Utara,Kelurahan,92316,73.04.03
+73.04.03.1009,Monro Monro,Kelurahan,92316,73.04.03
+73.04.03.1010,Biring Kassi,Kelurahan,92311,73.04.03
+73.04.03.1011,Panaikang,Kelurahan,92311,73.04.03
+73.04.03.1012,Bontoa,Kelurahan,92316,73.04.03
+73.04.03.2013,Sapanang,Desa,92314,73.04.03
+73.04.04.1001,Togo Togo,Kelurahan,92360,73.04.04
+73.04.04.1002,Bonto Raya,Kelurahan,92360,73.04.04
+73.04.04.2003,Maccinibaji,Desa,92360,73.04.04
+73.04.04.2008,Camba Camba,Desa,92360,73.04.04
+73.04.04.2009,Kaluku,Desa,92360,73.04.04
+73.04.04.2014,Bungeng,Desa,92360,73.04.04
+73.04.05.1001,Tolo,Kelurahan,92371,73.04.05
+73.04.05.1002,Tolo Utara,Kelurahan,92371,73.04.05
+73.04.05.1003,Tolo Selatan,Kelurahan,92371,73.04.05
+73.04.05.1004,Tolo Timur,Kelurahan,92371,73.04.05
+73.04.05.1005,Tolo Barat,Kelurahan,92371,73.04.05
+73.04.05.2006,Gantarang,Desa,92371,73.04.05
+73.04.05.2009,Bontolebang,Desa,92371,73.04.05
+73.04.05.2010,Bontonompo,Desa,92371,73.04.05
+73.04.05.2014,Samataring,Desa,92371,73.04.05
+73.04.05.2021,Tombolo,Desa,92371,73.04.05
+73.04.06.1002,Bulu Jaya,Kelurahan,92353,73.04.06
+73.04.06.2001,Banrimanurung,Desa,92353,73.04.06
+73.04.06.2003,Barana,Desa,92353,73.04.06
+73.04.06.2004,Beroanging,Desa,92353,73.04.06
+73.04.06.2005,Tuju,Desa,92353,73.04.06
+73.04.06.2006,Garassikang,Desa,92353,73.04.06
+73.04.06.2007,Pattiro,Desa,92353,73.04.06
+73.04.06.2008,Pappalluang,Desa,92353,73.04.06
+73.04.07.1002,Bontoramba,Kelurahan,92351,73.04.07
+73.04.07.2001,Bulusibatang,Desa,92351,73.04.07
+73.04.07.2003,Balumbungan,Desa,92351,73.04.07
+73.04.07.2004,Bangkalaloe,Desa,92351,73.04.07
+73.04.07.2005,Datara,Desa,92351,73.04.07
+73.04.07.2006,Maero,Desa,92351,73.04.07
+73.04.07.2007,Kareloe,Desa,92351,73.04.07
+73.04.07.2008,Batujala,Desa,92351,73.04.07
+73.04.07.2009,Bulusuka,Desa,92351,73.04.07
+73.04.07.2010,Tanammawang,Desa,92351,73.04.07
+73.04.07.2011,Lentu,Desa,92351,73.04.07
+73.04.07.2012,Baraya,Desa,92351,73.04.07
+73.04.08.2001,Paitana,Desa,92313,73.04.08
+73.04.08.2002,Bonto Mate'ne,Desa,92313,73.04.08
+73.04.08.2003,Mangepong,Desa,92313,73.04.08
+73.04.08.2004,Bululoe,Desa,92313,73.04.08
+73.04.08.2005,Kayuloe Barat,Desa,92312,73.04.08
+73.04.08.2006,Langkura,Desa,92313,73.04.08
+73.04.08.2007,Bungungloe,Desa,92313,73.04.08
+73.04.08.2008,Kayuloe Timur,Desa,92313,73.04.08
+73.04.08.2009,Jombe,Desa,92313,73.04.08
+73.04.08.2010,Tanjonga,Desa,92313,73.04.08
+73.04.08.2011,Parasanganberu,Desa,92313,73.04.08
+73.04.09.2001,Bulo Bulo,Desa,92361,73.04.09
+73.04.09.2002,Arungkeke,Desa,92361,73.04.09
+73.04.09.2003,Palajau,Desa,92361,73.04.09
+73.04.09.2004,Boronglamu,Desa,92361,73.04.09
+73.04.09.2005,Arungkeke Pallantikang,Desa,92361,73.04.09
+73.04.09.2006,Kalumpangloe,Desa,92361,73.04.09
+73.04.09.2007,Kampala,Desa,92361,73.04.09
+73.04.10.2001,Rumbia,Desa,92371,73.04.10
+73.04.10.2002,Lebangmanai,Desa,92371,73.04.10
+73.04.10.2003,Bontomanai,Desa,92371,73.04.10
+73.04.10.2004,Bontotiro,Desa,92572,73.04.10
+73.04.10.2005,Loka,Desa,92516,73.04.10
+73.04.10.2006,Tompobulu,Desa,92371,73.04.10
+73.04.10.2007,Kassi,Desa,92371,73.04.10
+73.04.10.2008,Pallantikang,Desa,92371,73.04.10
+73.04.10.2009,Lebangmanai Utara,Desa,92371,73.04.10
+73.04.10.2010,Bontocini,Desa,92371,73.04.10
+73.04.10.2011,Janetallasa,Desa,92314,73.04.10
+73.04.10.2012,Ujung Bulu,Desa,92371,73.04.10
+73.04.11.2001,Pao,Desa,92362,73.04.11
+73.04.11.2002,Bontorappo,Desa,92362,73.04.11
+73.04.11.2003,Tarowang,Desa,92362,73.04.11
+73.04.11.2004,Allu Tarowang,Desa,92362,73.04.11
+73.04.11.2005,Balangbaru,Desa,92362,73.04.11
+73.04.11.2006,Balangloe Tarowang,Desa,92362,73.04.11
+73.04.11.2007,Bonto Ujung,Desa,92362,73.04.11
+73.04.11.2008,Tino,Desa,92362,73.04.11

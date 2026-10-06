@@ -1,0 +1,104 @@
+code,name,type,postal_code,district_code
+73.10.01.1001,Sapuka,Kelurahan,90673,73.10.01
+73.10.01.2002,Sabaru,Desa,90673,73.10.01
+73.10.01.2003,Balo Baloang,Desa,90673,73.10.01
+73.10.01.2004,Sabalana,Desa,90673,73.10.01
+73.10.01.2005,Tampaang,Desa,90673,73.10.01
+73.10.01.2006,Sailus,Desa,90673,73.10.01
+73.10.01.2007,Satanger,Desa,90673,73.10.01
+73.10.01.2008,Kapoposang Bali,Desa,90673,73.10.01
+73.10.01.2009,Poleonro,Desa,90673,73.10.01
+73.10.02.1001,Kalu-Kalukuang,Kelurahan,90672,73.10.02
+73.10.02.2002,Pammas,Desa,90672,73.10.02
+73.10.02.2003,Sabaru,Desa,90672,73.10.02
+73.10.02.2004,Kanyurang,Desa,90672,73.10.02
+73.10.02.2005,Doang-Doangan Lompo,Desa,90672,73.10.02
+73.10.02.2006,Marasende,Desa,90672,73.10.02
+73.10.02.2007,Dewakang,Desa,90672,73.10.02
+73.10.03.1001,Mattiro Sompe,Kelurahan,90671,73.10.03
+73.10.03.1016,Mattiro Bintang,Kelurahan,90671,73.10.03
+73.10.03.2002,Mattiro Deceng,Desa,90671,73.10.03
+73.10.03.2003,Mattiro Langi,Desa,90671,73.10.03
+73.10.03.2009,Mattiro Matae,Desa,90671,73.10.03
+73.10.03.2010,Mattiro Ujung,Desa,90671,73.10.03
+73.10.03.2011,Mattiro Dolangeng,Desa,90671,73.10.03
+73.10.03.2013,Mattiro Bone,Desa,90671,73.10.03
+73.10.03.2015,Mattaro Adae,Desa,90671,73.10.03
+73.10.04.1001,Jagong,Kelurahan,90611,73.10.04
+73.10.04.1002,Mappasaile,Kelurahan,90617,73.10.04
+73.10.04.1003,Pabundukang,Kelurahan,90616,73.10.04
+73.10.04.1004,Anrong Appaka,Kelurahan,90612,73.10.04
+73.10.04.1005,Sibatua,Kelurahan,90613,73.10.04
+73.10.04.1006,Padoang Doangan,Kelurahan,90617,73.10.04
+73.10.04.1007,Tumampua,Kelurahan,90611,73.10.04
+73.10.04.1008,Tekolabbua,Kelurahan,90617,73.10.04
+73.10.04.1009,Bonto Perak,Kelurahan,90617,73.10.04
+73.10.05.1001,Balleangin,Kelurahan,90661,73.10.05
+73.10.05.1002,Balocci Baru,Kelurahan,90661,73.10.05
+73.10.05.1003,Kassi,Kelurahan,90661,73.10.05
+73.10.05.1004,Tonasa,Kelurahan,90661,73.10.05
+73.10.05.2005,Tompo Bulu,Desa,90661,73.10.05
+73.10.06.1001,Bori Appaka,Kelurahan,90651,73.10.06
+73.10.06.1002,Samalewa,Kelurahan,90651,73.10.06
+73.10.06.1003,Sapanang,Kelurahan,90651,73.10.06
+73.10.06.2004,Bowong Cindea,Desa,90651,73.10.06
+73.10.06.2005,Tabo-Tabo,Desa,90651,73.10.06
+73.10.06.2006,Mangilu,Desa,90651,73.10.06
+73.10.06.2007,Bulu Cindea,Desa,90651,73.10.06
+73.10.06.2008,Biring Ere,Desa,90651,73.10.06
+73.10.07.1001,Labakkang,Kelurahan,90653,73.10.07
+73.10.07.1002,Mangallekana,Kelurahan,90653,73.10.07
+73.10.07.1003,Pundata Baji,Kelurahan,90653,73.10.07
+73.10.07.1004,Borimasunggu,Kelurahan,90653,73.10.07
+73.10.07.2005,Patallassang,Desa,90653,73.10.07
+73.10.07.2006,Manakku,Desa,90653,73.10.07
+73.10.07.2007,Gentung,Desa,90653,73.10.07
+73.10.07.2008,Batara,Desa,90653,73.10.07
+73.10.07.2009,Taraweang,Desa,90653,73.10.07
+73.10.07.2010,Kanaungan,Desa,90653,73.10.07
+73.10.07.2011,Bonto Manai,Desa,90653,73.10.07
+73.10.07.2012,Kassiloe,Desa,90653,73.10.07
+73.10.07.2013,Bara Batu,Desa,90653,73.10.07
+73.10.08.1001,Bonto-Bonto,Kelurahan,90654,73.10.08
+73.10.08.1002,Talaka,Kelurahan,90654,73.10.08
+73.10.08.1003,Ma'rang,Kelurahan,90654,73.10.08
+73.10.08.1004,Attang Salo,Kelurahan,90654,73.10.08
+73.10.08.2005,Padang Lampe,Desa,90654,73.10.08
+73.10.08.2006,Tamangapa,Desa,90654,73.10.08
+73.10.08.2007,Pitusunggu,Desa,90654,73.10.08
+73.10.08.2008,Pitue,Desa,90654,73.10.08
+73.10.08.2009,Punranga,Desa,90654,73.10.08
+73.10.08.2010,Alesipitto,Desa,90654,73.10.08
+73.10.09.1001,Bonto Matene,Kelurahan,90656,73.10.09
+73.10.09.1002,Segeri,Kelurahan,90656,73.10.09
+73.10.09.1003,Bone,Kelurahan,90656,73.10.09
+73.10.09.1004,Bawasalo,Kelurahan,90656,73.10.09
+73.10.09.2005,Baring,Desa,90656,73.10.09
+73.10.09.2006,Parenreng,Desa,90656,73.10.09
+73.10.10.1001,Minasa Te'ne,Kelurahan,90615,73.10.10
+73.10.10.1002,Kalabbirang,Kelurahan,90615,73.10.10
+73.10.10.1003,Biraeng,Kelurahan,90614,73.10.10
+73.10.10.1004,Bonto Kio,Kelurahan,90614,73.10.10
+73.10.10.1005,Bontoa,Kelurahan,90615,73.10.10
+73.10.10.1006,Bonto Langkasa,Kelurahan,90618,73.10.10
+73.10.10.2007,Kabba,Desa,90619,73.10.10
+73.10.10.2008,Panaikang,Desa,90619,73.10.10
+73.10.11.2001,Benteng,Desa,90655,73.10.11
+73.10.11.2002,Manggalung,Desa,90655,73.10.11
+73.10.11.2003,Tamarupa,Desa,90655,73.10.11
+73.10.11.2004,Mandalle,Desa,90655,73.10.11
+73.10.11.2005,Boddie,Desa,90655,73.10.11
+73.10.11.2006,Coppo Tompong,Desa,90655,73.10.11
+73.10.12.2001,Bantimurung,Desa,90566,73.10.12
+73.10.12.2002,Tondongkura,Desa,90566,73.10.12
+73.10.12.2003,Lanne,Desa,90566,73.10.12
+73.10.12.2004,Bulu Tellue,Desa,90566,73.10.12
+73.10.12.2005,Malaka,Desa,90566,73.10.12
+73.10.12.2006,Bonto Birao,Desa,90566,73.10.12
+73.10.13.2001,Mattiro Kanja,Desa,90670,73.10.13
+73.10.13.2002,Mattiro Baji,Desa,90670,73.10.13
+73.10.13.2003,Mattiro Bulu,Desa,90670,73.10.13
+73.10.13.2004,Mattiro Bombang,Desa,90670,73.10.13
+73.10.13.2005,Mattiro Labangeng,Desa,90670,73.10.13
+73.10.13.2006,Mattiro Uleng,Desa,90670,73.10.13
+73.10.13.2007,Mattiro Walie,Desa,90670,73.10.13
