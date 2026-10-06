@@ -1,0 +1,216 @@
+code,name,type,postal_code,district_code
+12.01.01.1001,Pasar Batu Gerigis,Kelurahan,22564,12.01.01
+12.01.01.1002,Padang Masiang,Kelurahan,22564,12.01.01
+12.01.01.2003,Kampung Solok,Desa,22564,12.01.01
+12.01.01.2004,Pasar Terandam,Desa,22564,12.01.01
+12.01.01.2005,Sigambo Gambo,Desa,22564,12.01.01
+12.01.01.2006,Ujung Batu,Desa,22564,12.01.01
+12.01.01.2007,Kinali,Desa,22564,12.01.01
+12.01.01.2008,Kampung Mudik,Desa,22564,12.01.01
+12.01.01.2009,Aek Dakka,Desa,22564,12.01.01
+12.01.01.2010,Patupangan,Desa,22564,12.01.01
+12.01.01.2011,Gabungan Hasang,Desa,22564,12.01.01
+12.01.01.2017,Bungo Tanjung,Desa,22564,12.01.01
+12.01.01.2018,Kedai Gedang,Desa,22564,12.01.01
+12.01.02.1001,Sorkam,Kelurahan,22560,12.01.02
+12.01.02.1002,Pargarutan,Kelurahan,22560,12.01.02
+12.01.02.1004,Tarutung Bolak,Kelurahan,22560,12.01.02
+12.01.02.1009,Naipospos Barat,Kelurahan,22560,12.01.02
+12.01.02.2003,Teluk Roban,Desa,22560,12.01.02
+12.01.02.2005,Fajar,Desa,22560,12.01.02
+12.01.02.2006,Pardamean,Desa,22560,12.01.02
+12.01.02.2007,Pelita,Desa,22560,12.01.02
+12.01.02.2008,Rianiate,Desa,22560,12.01.02
+12.01.02.2010,Gonting Mahe,Desa,22560,12.01.02
+12.01.02.2011,Dolok Pantis,Desa,22560,12.01.02
+12.01.02.2014,Pea Raja,Desa,22560,12.01.02
+12.01.02.2015,Bottot,Desa,22560,12.01.02
+12.01.02.2016,Sorkam Tengah,Desa,22560,12.01.02
+12.01.02.2017,Sorkam Kiri,Desa,22560,12.01.02
+12.01.02.2018,Pananggahan,Desa,22560,12.01.02
+12.01.02.2019,Pagaran Julu,Desa,22560,12.01.02
+12.01.02.2020,Hite Urat,Desa,22560,12.01.02
+12.01.02.2021,Sihapas,Desa,22560,12.01.02
+12.01.02.2022,Nauli,Desa,22560,12.01.02
+12.01.02.2023,Muara Nauli,Desa,22560,12.01.02
+12.01.03.1001,Pandan,Kelurahan,22611,12.01.03
+12.01.03.1002,Hajoran,Kelurahan,22612,12.01.03
+12.01.03.1003,Aek Tolang,Kelurahan,22613,12.01.03
+12.01.03.1004,Lubuk Tukko,Kelurahan,22615,12.01.03
+12.01.03.1005,Sibuluan Indah,Kelurahan,22614,12.01.03
+12.01.03.1006,Sibuluan Nauli,Kelurahan,22616,12.01.03
+12.01.03.1011,Aek Sitio-tio,Kelurahan,22613,12.01.03
+12.01.03.1012,Sibuluan Raya,Kelurahan,22616,12.01.03
+12.01.03.1013,Kalangan,Kelurahan,22616,12.01.03
+12.01.03.1016,Pandan Wangi,Kelurahan,22616,12.01.03
+12.01.03.1017,Lubuk Tukko Baru,Kelurahan,22616,12.01.03
+12.01.03.1018,Sibuluan Baru,Kelurahan,22616,12.01.03
+12.01.03.1019,Sibuluan Terpadu,Kelurahan,22616,12.01.03
+12.01.03.1020,Sihaporas Nauli,Kelurahan,22616,12.01.03
+12.01.03.1021,Pasar Baru,Kelurahan,22616,12.01.03
+12.01.03.1022,Budi Luhur,Kelurahan,22616,12.01.03
+12.01.03.1023,Kalangan Indah,Kelurahan,22616,12.01.03
+12.01.03.1024,Mangga Dua,Kelurahan,22616,12.01.03
+12.01.03.1025,Muara Nibung,Kelurahan,22616,12.01.03
+12.01.03.1026,Hajoran Indah,Kelurahan,22616,12.01.03
+12.01.03.2014,Aek Garut,Desa,22616,12.01.03
+12.01.03.2015,Sitio-Tio Hilir,Desa,22616,12.01.03
+12.01.04.1001,Pinangsori,Kelurahan,22653,12.01.04
+12.01.04.1004,Sitonong Bangun,Kelurahan,22653,12.01.04
+12.01.04.1007,Pinangbaru,Kelurahan,22653,12.01.04
+12.01.04.1009,Albion Prancis,Kelurahan,22653,12.01.04
+12.01.04.1010,Sori Nauli,Kelurahan,22653,12.01.04
+12.01.04.2002,Gunung Marijo,Desa,22653,12.01.04
+12.01.04.2003,Sihaporas,Desa,22653,12.01.04
+12.01.04.2005,Toga Basir,Desa,22653,12.01.04
+12.01.04.2006,Parjalihotan Baru,Desa,22653,12.01.04
+12.01.04.2008,Danau Pandan,Desa,22653,12.01.04
+12.01.05.1001,P.O. Manduamas,Kelurahan,22565,12.01.05
+12.01.05.1003,Binjohara,Kelurahan,22565,12.01.05
+12.01.05.1020,Perluasan,Kelurahan,22565,12.01.05
+12.01.05.2002,Saragih,Desa,22565,12.01.05
+12.01.05.2004,Pagaran Nauli,Desa,22565,12.01.05
+12.01.05.2005,Sarma Nauli,Desa,22565,12.01.05
+12.01.05.2006,Manduamas Lama,Desa,22565,12.01.05
+12.01.05.2007,Tumba,Desa,22565,12.01.05
+12.01.05.2008,Tumba Jae,Desa,22565,12.01.05
+12.01.05.2009,Lae Monong,Desa,22565,12.01.05
+12.01.05.2010,Saragih Barat,Desa,22565,12.01.05
+12.01.05.2011,Saragih Timur,Desa,22565,12.01.05
+12.01.05.2012,Binjohara Uruk,Desa,22565,12.01.05
+12.01.05.2013,Binjohara Baru,Desa,22565,12.01.05
+12.01.05.2014,Tumba Nauli,Desa,22565,12.01.05
+12.01.05.2015,Manduamas Baru,Desa,22565,12.01.05
+12.01.05.2016,Muara Tapus,Desa,22565,12.01.05
+12.01.05.2017,Pagaran Baru,Desa,22565,12.01.05
+12.01.05.2018,Parsihotangan,Desa,22565,12.01.05
+12.01.05.2019,Tambahan Nanjur,Desa,22565,12.01.05
+12.01.06.1006,P.O. Hurlang,Kelurahan,22562,12.01.06
+12.01.06.1007,Kolang Nauli,Kelurahan,22562,12.01.06
+12.01.06.2001,Unte Mungkur IV,Desa,22562,12.01.06
+12.01.06.2002,Unte Mungkur III,Desa,22562,12.01.06
+12.01.06.2003,Unte Mungkur II,Desa,22562,12.01.06
+12.01.06.2004,Unte Mungkur I,Desa,22562,12.01.06
+12.01.06.2005,Satahi Nauli,Desa,22562,12.01.06
+12.01.06.2008,Hurlang Muara Nauli,Desa,22562,12.01.06
+12.01.06.2009,Sipakpahi Aek Lobu,Desa,22562,12.01.06
+12.01.06.2010,Hodopa Nauli,Desa,22562,12.01.06
+12.01.06.2011,Makarti Nauli,Desa,22562,12.01.06
+12.01.06.2012,Rawa Makmur,Desa,22562,12.01.06
+12.01.06.2013,Simarpinggang,Desa,22562,12.01.06
+12.01.06.2014,Pargaringan,Desa,22562,12.01.06
+12.01.07.1001,Tapian Nauli II,Kelurahan,22618,12.01.07
+12.01.07.2002,Tapian Nauli I,Desa,22618,12.01.07
+12.01.07.2003,Tapian Nauli III,Desa,22618,12.01.07
+12.01.07.2004,Tapian Nauli IV,Desa,22618,12.01.07
+12.01.07.2005,Aloban Bair,Desa,22618,12.01.07
+12.01.07.2006,Mela Dolok,Desa,22618,12.01.07
+12.01.07.2007,Mela I,Desa,22618,12.01.07
+12.01.07.2008,Mela II,Desa,22618,12.01.07
+12.01.07.2009,Bair,Desa,22618,12.01.07
+12.01.08.1002,Sibabangun,Kelurahan,22655,12.01.08
+12.01.08.2005,Mombang Boru,Desa,22655,12.01.08
+12.01.08.2006,Anggoli,Desa,22655,12.01.08
+12.01.08.2007,Muara Sibuntuon,Desa,22655,12.01.08
+12.01.08.2008,Sibio bio,Desa,22655,12.01.08
+12.01.08.2010,Simanosor,Desa,22655,12.01.08
+12.01.08.2011,Hutagur-gur,Desa,22655,12.01.08
+12.01.09.1001,Sosor Gadong,Kelurahan,22568,12.01.09
+12.01.09.2002,Unte Boang,Desa,22568,12.01.09
+12.01.09.2003,Sibintang,Desa,22568,12.01.09
+12.01.09.2004,Barambang,Desa,22568,12.01.09
+12.01.09.2005,Siantar Ca,Desa,22568,12.01.09
+12.01.09.2006,Muara Bolak,Desa,22568,12.01.09
+12.01.09.2007,Huta Tombak,Desa,22568,12.01.09
+12.01.09.2008,Siantar Dolok,Desa,22568,12.01.09
+12.01.09.2009,Baringin,Desa,22568,12.01.09
+12.01.10.1001,Sorkam Kanan,Kelurahan,22561,12.01.10
+12.01.10.1019,Binasi,Kelurahan,22561,12.01.10
+12.01.10.2002,Sipea Pea,Desa,22561,12.01.10
+12.01.10.2003,Pahieme I,Desa,22561,12.01.10
+12.01.10.2004,Pasar Sorkam,Desa,22561,12.01.10
+12.01.10.2005,Aek Raso,Desa,22561,12.01.10
+12.01.10.2006,Pasaribu Tobing Jae,Desa,22561,12.01.10
+12.01.10.2014,Maduma,Desa,22561,12.01.10
+12.01.10.2016,Sidikalang,Desa,22561,12.01.10
+12.01.10.2017,Pahieme II,Desa,22561,12.01.10
+12.01.10.2018,Sorkam Kanan,Desa,22561,12.01.10
+12.01.10.2020,Madani,Desa,22561,12.01.10
+12.01.11.1001,Bajamas,Kelurahan,22566,12.01.11
+12.01.11.2002,Sampang Maruhur,Desa,22566,12.01.11
+12.01.11.2003,Siordang,Desa,22566,12.01.11
+12.01.11.2004,Pardomuan,Desa,22566,12.01.11
+12.01.11.2005,Simpang III Lae Bingke,Desa,22566,12.01.11
+12.01.11.2006,Sigodung,Desa,22566,12.01.11
+12.01.11.2007,Masnauli,Desa,22566,12.01.11
+12.01.11.2008,Muara Ode,Desa,22566,12.01.11
+12.01.12.1007,Rina Bolak,Kelurahan,22651,12.01.12
+12.01.12.2001,Sijungkang,Desa,22651,12.01.12
+12.01.12.2002,Pangaribuan,Desa,22651,12.01.12
+12.01.12.2003,Sogar,Desa,22651,12.01.12
+12.01.12.2004,Sirami Ramian,Desa,22651,12.01.12
+12.01.12.2005,Sigolang,Desa,22651,12.01.12
+12.01.12.2006,Sosor Gonting,Desa,22651,12.01.12
+12.01.12.2008,Bondar Sihudon I,Desa,22651,12.01.12
+12.01.12.2009,Uratan,Desa,22651,12.01.12
+12.01.12.2010,Ladang Tengah,Desa,22651,12.01.12
+12.01.12.2011,Lobu Tua,Desa,22651,12.01.12
+12.01.12.2012,Bondar Sihudon II,Desa,22651,12.01.12
+12.01.12.2013,Sitiris-Tiris,Desa,22651,12.01.12
+12.01.12.2014,Sawah Lamo,Desa,22651,12.01.12
+12.01.13.1003,Nauli,Kelurahan,22611,12.01.13
+12.01.13.2001,Bonandolok,Desa,22611,12.01.13
+12.01.13.2002,Rampa,Desa,22611,12.01.13
+12.01.13.2004,Mardame,Desa,22611,12.01.13
+12.01.13.2005,Naga Timbul,Desa,22611,12.01.13
+12.01.13.2006,Simaninggir,Desa,22611,12.01.13
+12.01.14.1001,Tukka,Kelurahan,22617,12.01.14
+12.01.14.1002,Bona Lumban,Kelurahan,22617,12.01.14
+12.01.14.1003,Huta Nabolon,Kelurahan,22617,12.01.14
+12.01.14.1007,Sipange,Kelurahan,22617,12.01.14
+12.01.14.1009,Aek Tolang Induk,Kelurahan,22617,12.01.14
+12.01.14.2004,Sigiring Giring,Desa,22617,12.01.14
+12.01.14.2005,Tapian Nauli/ Saurmanggita,Desa,22617,12.01.14
+12.01.14.2006,Sait Kalangan II,Desa,22618,12.01.14
+12.01.14.2008,Aek Bottar,Desa,22617,12.01.14
+12.01.15.1001,Hutabalang,Kelurahan,22654,12.01.15
+12.01.15.1002,Lopian,Kelurahan,22654,12.01.15
+12.01.15.2003,Jago Jago,Desa,22654,12.01.15
+12.01.15.2004,Aek Horsik,Desa,22654,12.01.15
+12.01.15.2005,Gunung Kelambu,Desa,22654,12.01.15
+12.01.15.2006,Kebun Pisang,Desa,22654,12.01.15
+12.01.15.2007,Lubuk Ampolu,Desa,22654,12.01.15
+12.01.15.2008,Pagaran Honas,Desa,22654,12.01.15
+12.01.15.2009,Sitardas,Desa,22654,12.01.15
+12.01.16.2001,Suga Suga Hutagodang,Desa,22563,12.01.16
+12.01.16.2002,Suka Maju,Desa,22563,12.01.16
+12.01.16.2003,Makmur,Desa,22563,12.01.16
+12.01.16.2004,Pasaribu Tobing,Desa,22563,12.01.16
+12.01.16.2005,Aek Nadua,Desa,22563,12.01.16
+12.01.16.2006,Simargarap,Desa,22563,12.01.16
+12.01.16.2007,Sidaling,Desa,22563,12.01.16
+12.01.16.2008,Sipakpahi,Desa,22563,12.01.16
+12.01.16.2009,PO Simargarap,Desa,22563,12.01.16
+12.01.17.2001,Hutaginjang,Desa,22567,12.01.17
+12.01.17.2002,Sihorbo,Desa,22567,12.01.17
+12.01.17.2003,Parik Sinomba,Desa,22567,12.01.17
+12.01.17.2004,Purba Tua,Desa,22567,12.01.17
+12.01.17.2005,Pananggahan,Desa,22567,12.01.17
+12.01.17.2006,Siharbangan,Desa,22567,12.01.17
+12.01.18.2001,Pulo Pakkat,Desa,22656,12.01.18
+12.01.18.2002,Tebing Tinggi,Desa,22656,12.01.18
+12.01.18.2003,Pulo Pakkat II,Desa,22656,12.01.18
+12.01.18.2004,Janji Maria,Desa,22656,12.01.18
+12.01.18.2005,Sihadatuon,Desa,22656,12.01.18
+12.01.18.2006,Sihapas,Desa,22656,12.01.18
+12.01.19.1001,Lumut,Kelurahan,22652,12.01.19
+12.01.19.2002,Aek Gambir,Desa,22652,12.01.19
+12.01.19.2003,Masundung,Desa,22652,12.01.19
+12.01.19.2005,Lumut Nauli,Desa,22652,12.01.19
+12.01.19.2006,Lumut Maju,Desa,22652,12.01.19
+12.01.19.2007,Sialogo,Desa,22652,12.01.19
+12.01.20.1001,Sibuluan Nalambok,Kelurahan,22616,12.01.20
+12.01.20.1002,Sarudik,Kelurahan,22616,12.01.20
+12.01.20.1004,Pasir Bidang,Kelurahan,22611,12.01.20
+12.01.20.1005,Pondok Batu,Kelurahan,22616,12.01.20
+12.01.20.2003,Sipan,Desa,22616,12.01.20
