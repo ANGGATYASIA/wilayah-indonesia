@@ -1,0 +1,72 @@
+code,name,type,postal_code,district_code
+16.12.01.1003,Talang Ubi Timur,Kelurahan,31213,16.12.01
+16.12.01.1010,Talang Ubi Barat,Kelurahan,31211,16.12.01
+16.12.01.1011,Talang Ubi Utara,Kelurahan,31214,16.12.01
+16.12.01.1012,Talang Ubi Selatan,Kelurahan,31212,16.12.01
+16.12.01.1017,Pasar Bhayangkara,Kelurahan,31214,16.12.01
+16.12.01.1018,Handayani Mulya,Kelurahan,31214,16.12.01
+16.12.01.2001,Talang Bulang,Desa,31214,16.12.01
+16.12.01.2002,Benuang,Desa,31214,16.12.01
+16.12.01.2004,Talang Akar,Desa,31214,16.12.01
+16.12.01.2005,Sungai Ibul,Desa,31214,16.12.01
+16.12.01.2006,Karta Dewa,Desa,31214,16.12.01
+16.12.01.2007,Panta Dewa,Desa,31214,16.12.01
+16.12.01.2008,Sungai Baung,Desa,31214,16.12.01
+16.12.01.2009,Semangus,Desa,31214,16.12.01
+16.12.01.2013,Sinar Dewa,Desa,31214,16.12.01
+16.12.01.2014,Benakat Minyak,Desa,31214,16.12.01
+16.12.01.2015,Suka Maju,Desa,31214,16.12.01
+16.12.01.2016,Suka Damai,Desa,31214,16.12.01
+16.12.01.2019,Beruge Darat,Desa,31214,16.12.01
+16.12.01.2020,Simpang Tais,Desa,31214,16.12.01
+16.12.02.2001,Sukarami,Desa,31317,16.12.02
+16.12.02.2002,Tanjung Baru,Desa,31317,16.12.02
+16.12.02.2003,Prabu Menang,Desa,31317,16.12.02
+16.12.02.2004,Tanding Marga,Desa,31317,16.12.02
+16.12.02.2005,Karang Tanding,Desa,31317,16.12.02
+16.12.02.2006,Lubuk Tampui,Desa,31317,16.12.02
+16.12.02.2007,Tempirai,Desa,31317,16.12.02
+16.12.02.2008,Tempirai Selatan,Desa,31317,16.12.02
+16.12.02.2009,Kota Baru,Desa,31317,16.12.02
+16.12.02.2010,Tempirai Utara,Desa,31317,16.12.02
+16.12.02.2011,Tempirai Timur,Desa,31317,16.12.02
+16.12.02.2012,Tambak,Desa,31317,16.12.02
+16.12.02.2013,Muara Ikan,Desa,31317,16.12.02
+16.12.03.2001,Purun,Desa,31316,16.12.03
+16.12.03.2002,Gunung Menang,Desa,31316,16.12.03
+16.12.03.2003,Mangkunegara,Desa,31316,16.12.03
+16.12.03.2004,Raja Jaya,Desa,31316,16.12.03
+16.12.03.2005,Air Itam,Desa,31316,16.12.03
+16.12.03.2006,Gunung Raja,Desa,31316,16.12.03
+16.12.03.2007,Air Itam Timur,Desa,31316,16.12.03
+16.12.03.2008,Sungai Langan,Desa,31316,16.12.03
+16.12.03.2009,Spantan Jaya,Desa,31316,16.12.03
+16.12.03.2010,Babat,Desa,31316,16.12.03
+16.12.03.2011,Suka Raja,Desa,31316,16.12.03
+16.12.03.2012,Purun Timur,Desa,31316,16.12.03
+16.12.03.2013,Mangkunegara Timur,Desa,31316,16.12.03
+16.12.04.2001,Betung,Desa,31315,16.12.04
+16.12.04.2002,Betung Barat,Desa,31315,16.12.04
+16.12.04.2003,Karang Agung,Desa,31315,16.12.04
+16.12.04.2004,Tanjung Kurung,Desa,31315,16.12.04
+16.12.04.2005,Pengabuan,Desa,31315,16.12.04
+16.12.04.2006,Prambatan,Desa,31315,16.12.04
+16.12.04.2007,Pengabuan Timur,Desa,31315,16.12.04
+16.12.04.2008,Betung Selatan,Desa,31315,16.12.04
+16.12.05.2001,Bumi Ayu,Desa,31314,16.12.05
+16.12.05.2002,Muara Sungai,Desa,31314,16.12.05
+16.12.05.2003,Tanah Abang Utara,Desa,31314,16.12.05
+16.12.05.2004,Sedupi,Desa,31314,16.12.05
+16.12.05.2005,Sukaraja,Desa,31314,16.12.05
+16.12.05.2006,Curup,Desa,31314,16.12.05
+16.12.05.2007,Raja,Desa,31314,16.12.05
+16.12.05.2008,Pandan,Desa,31314,16.12.05
+16.12.05.2009,Modong,Desa,31314,16.12.05
+16.12.05.2010,Tanah Abang Selatan,Desa,31314,16.12.05
+16.12.05.2011,Harapan Jaya,Desa,31314,16.12.05
+16.12.05.2012,Tanjung Dalam,Desa,31314,16.12.05
+16.12.05.2013,Lunas Jaya,Desa,31314,16.12.05
+16.12.05.2014,Raja Barat,Desa,31314,16.12.05
+16.12.05.2015,Tanah Abang Jaya,Desa,31314,16.12.05
+16.12.05.2016,Muara Dua,Desa,31314,16.12.05
+16.12.05.2017,Sukamanis,Desa,31314,16.12.05

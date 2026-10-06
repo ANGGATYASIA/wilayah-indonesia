@@ -1,0 +1,242 @@
+code,name,type,postal_code,district_code
+16.10.01.1011,Muara Kuang,Kelurahan,30865,16.10.01
+16.10.01.2005,Munggu,Desa,30865,16.10.01
+16.10.01.2006,Seri Menanti,Desa,30865,16.10.01
+16.10.01.2007,Rantau Sialang,Desa,30865,16.10.01
+16.10.01.2008,Kuang Anyar,Desa,30865,16.10.01
+16.10.01.2009,Kasah,Desa,30865,16.10.01
+16.10.01.2012,Tanabang Ulu,Desa,30865,16.10.01
+16.10.01.2013,Seri Kembang,Desa,30865,16.10.01
+16.10.01.2014,Nagasari,Desa,30865,16.10.01
+16.10.01.2015,Suka Cinta,Desa,30865,16.10.01
+16.10.01.2016,Kelampadu,Desa,30865,16.10.01
+16.10.01.2029,Sukajadi,Desa,30865,16.10.01
+16.10.01.2030,Ramakasih,Desa,30865,16.10.01
+16.10.01.2031,Tanabang Ilir,Desa,30865,16.10.01
+16.10.02.1017,Tanjung Batu,Kelurahan,,16.10.02
+16.10.02.1037,Tanjung Batu Timur,Kelurahan,30665,16.10.02
+16.10.02.2010,Seri Bandung,Desa,30665,16.10.02
+16.10.02.2011,Seri Tanjung,Desa,30665,16.10.02
+16.10.02.2012,Tanjung Tambak,Desa,30665,16.10.02
+16.10.02.2013,Senuro Timur,Desa,30665,16.10.02
+16.10.02.2014,Tanjung Baru Petai,Desa,30665,16.10.02
+16.10.02.2015,Tanjung Batu Seberang,Desa,30665,16.10.02
+16.10.02.2016,Pajar Bulan,Desa,30665,16.10.02
+16.10.02.2018,Tanjung Atap,Desa,30665,16.10.02
+16.10.02.2019,Tanjung Pinang I,Desa,30665,16.10.02
+16.10.02.2020,Limbang Jaya I,Desa,30665,16.10.02
+16.10.02.2021,Tanjung Laut,Desa,30665,16.10.02
+16.10.02.2026,Burai,Desa,30665,16.10.02
+16.10.02.2027,Sentul,Desa,30665,16.10.02
+16.10.02.2031,Bangun Jaya,Desa,30665,16.10.02
+16.10.02.2032,Tanjung Tambak Baru,Desa,30665,16.10.02
+16.10.02.2033,Limbang Jaya II,Desa,30665,16.10.02
+16.10.02.2034,Senuro Barat,Desa,30665,16.10.02
+16.10.02.2035,Tanjung Pinang II,Desa,30665,16.10.02
+16.10.02.2036,Tanjung Atap Barat,Desa,30665,16.10.02
+16.10.03.1001,Tanjung Raja,Kelurahan,30663,16.10.03
+16.10.03.1027,Tanjung Raja Barat,Kelurahan,30663,16.10.03
+16.10.03.1028,Tanjung Raja Utara,Kelurahan,30663,16.10.03
+16.10.03.1035,Tanjung Raja Timur,Kelurahan,30663,16.10.03
+16.10.03.2002,Suka Pindah,Desa,30663,16.10.03
+16.10.03.2007,Tanjung Temiang,Desa,30663,16.10.03
+16.10.03.2008,Seri Dalam,Desa,30663,16.10.03
+16.10.03.2018,Kerinjing,Desa,30663,16.10.03
+16.10.03.2019,Ulak Kerbau Baru,Desa,30663,16.10.03
+16.10.03.2020,Ulak Kerbau Lama,Desa,30663,16.10.03
+16.10.03.2021,Tanjung Agas,Desa,30663,16.10.03
+16.10.03.2022,Siring Alam,Desa,30663,16.10.03
+16.10.03.2023,Talang Balai Baru I,Desa,30663,16.10.03
+16.10.03.2024,Talang Balai Lama,Desa,30663,16.10.03
+16.10.03.2030,Skonjing,Desa,30663,16.10.03
+16.10.03.2031,Tanjung Raja Selatan,Desa,30663,16.10.03
+16.10.03.2032,Belanti,Desa,30663,16.10.03
+16.10.03.2033,Tanjung Harapan,Desa,30663,16.10.03
+16.10.03.2034,Talang Balai Baru II,Desa,30663,16.10.03
+16.10.04.1030,Indralaya Raya,Kelurahan,30862,16.10.04
+16.10.04.1031,Indralaya Indah,Kelurahan,30862,16.10.04
+16.10.04.1032,Indralaya Mulia,Kelurahan,30862,16.10.04
+16.10.04.2005,Lubuk Sakti,Desa,30862,16.10.04
+16.10.04.2006,Tanjung Gelam,Desa,30862,16.10.04
+16.10.04.2007,Tanjung Agung,Desa,30862,16.10.04
+16.10.04.2008,Tanjung Sejaro,Desa,30815,16.10.04
+16.10.04.2009,Sakatiga Seberang,Desa,30814,16.10.04
+16.10.04.2010,Muara P. Ulu,Desa,30862,16.10.04
+16.10.04.2012,Tanjung Seteko,Desa,30817,16.10.04
+16.10.04.2013,Saka Tiga,Desa,30816,16.10.04
+16.10.04.2014,Ulak Banding,Desa,30862,16.10.04
+16.10.04.2015,Muara P. Ilir,Desa,30862,16.10.04
+16.10.04.2016,Talang Aur,Desa,30862,16.10.04
+16.10.04.2017,Ulak Bedil,Desa,30862,16.10.04
+16.10.04.2018,Penyandingan,Desa,30862,16.10.04
+16.10.04.2019,Sudimampir,Desa,30862,16.10.04
+16.10.04.2027,Ulak Segelung,Desa,30862,16.10.04
+16.10.04.2028,Sejaro Sakti,Desa,30862,16.10.04
+16.10.04.2029,Tunas Aur,Desa,30862,16.10.04
+16.10.05.2015,Aurstanding,Desa,30653,16.10.05
+16.10.05.2016,Sukarami,Desa,30653,16.10.05
+16.10.05.2017,Muara Dua,Desa,30653,16.10.05
+16.10.05.2018,Palu,Desa,30653,16.10.05
+16.10.05.2019,Teluk Kecapi,Desa,30653,16.10.05
+16.10.05.2020,Pelabuhan Dalam,Desa,30653,16.10.05
+16.10.05.2021,Pemulutan Ulu,Desa,30653,16.10.05
+16.10.05.2022,Pemulutan Ilir,Desa,30653,16.10.05
+16.10.05.2023,Sungai Rasau,Desa,30653,16.10.05
+16.10.05.2024,Ibul Besar I,Desa,30653,16.10.05
+16.10.05.2025,Pegayut,Desa,30653,16.10.05
+16.10.05.2029,S. Pelabuhan Dlm,Desa,30653,16.10.05
+16.10.05.2030,Ibul Besar II,Desa,30653,16.10.05
+16.10.05.2031,Ibul Besar III,Desa,30653,16.10.05
+16.10.05.2032,Mekar Jaya,Desa,30653,16.10.05
+16.10.05.2033,Kedukan Bujang,Desa,30653,16.10.05
+16.10.05.2034,Rawa Jaya,Desa,30653,16.10.05
+16.10.05.2035,Babatan Saudagar,Desa,30653,16.10.05
+16.10.05.2036,Tanjung Pasir,Desa,30653,16.10.05
+16.10.05.2037,Harapan,Desa,30653,16.10.05
+16.10.05.2038,Pipa Putih,Desa,30653,16.10.05
+16.10.05.2039,Sungai Buaya,Desa,30653,16.10.05
+16.10.05.2040,Muara Baru,Desa,30653,16.10.05
+16.10.05.2041,Sembadak,Desa,30653,16.10.05
+16.10.05.2042,Lebung Jangkar,Desa,30653,16.10.05
+16.10.06.2006,Sirah Pulau Kilip,Desa,30866,16.10.06
+16.10.06.2011,Kelampaian,Desa,30866,16.10.06
+16.10.06.2012,Sukananti,Desa,30866,16.10.06
+16.10.06.2013,Sukamarga,Desa,30866,16.10.06
+16.10.06.2014,Rantau Alai,Desa,30866,16.10.06
+16.10.06.2015,Kerta Bayang,Desa,30866,16.10.06
+16.10.06.2016,Tanjung Mas,Desa,30866,16.10.06
+16.10.06.2017,Talang Sari,Desa,30866,16.10.06
+16.10.06.2018,Lebung Bandung,Desa,30866,16.10.06
+16.10.06.2020,Sanding Marga,Desa,30866,16.10.06
+16.10.06.2021,Sukamaju,Desa,30866,16.10.06
+16.10.06.2022,Mekar Sari,Desa,30866,16.10.06
+16.10.06.2023,Sukananti Baru,Desa,30866,16.10.06
+16.10.07.1016,Timbangan,Kelurahan,30862,16.10.07
+16.10.07.2001,Tanjung Pering,Desa,30813,16.10.07
+16.10.07.2002,Bakung,Desa,30862,16.10.07
+16.10.07.2003,Lorok,Desa,30862,16.10.07
+16.10.07.2004,Parit,Desa,30862,16.10.07
+16.10.07.2005,Payakabung,Desa,30812,16.10.07
+16.10.07.2006,Sungai Rambutan,Desa,30862,16.10.07
+16.10.07.2007,Purna Jaya,Desa,30862,16.10.07
+16.10.07.2008,Soak Batok,Desa,30862,16.10.07
+16.10.07.2009,Tanjung Baru,Desa,30862,16.10.07
+16.10.07.2010,Tanjung Pule,Desa,30862,16.10.07
+16.10.07.2011,Permata Baru,Desa,30862,16.10.07
+16.10.07.2012,Suka Mulia,Desa,30862,16.10.07
+16.10.07.2013,Pulau Kabai,Desa,30862,16.10.07
+16.10.07.2014,Pulau Semambu,Desa,30862,16.10.07
+16.10.07.2015,Palem Raya,Desa,30862,16.10.07
+16.10.08.2001,Mandi Angin,Desa,30862,16.10.08
+16.10.08.2002,Tanjung Lubuk,Desa,30862,16.10.08
+16.10.08.2003,Tebing Gerinting Selatan,Desa,30862,16.10.08
+16.10.08.2004,Arisan Gading,Desa,30862,16.10.08
+16.10.08.2005,Tanjung Dayang Selatan,Desa,30862,16.10.08
+16.10.08.2006,Beti,Desa,30862,16.10.08
+16.10.08.2007,Meranjat I,Desa,30862,16.10.08
+16.10.08.2008,Meranjat Ilir,Desa,30862,16.10.08
+16.10.08.2009,Meranjat II,Desa,30862,16.10.08
+16.10.08.2010,Sukaraja Lama,Desa,30862,16.10.08
+16.10.08.2011,Sukaraja Baru,Desa,30862,16.10.08
+16.10.08.2012,Tebing Gerinting Utara,Desa,30862,16.10.08
+16.10.08.2013,Tanjung Dayang Utara,Desa,30862,16.10.08
+16.10.08.2014,Meranjat III,Desa,30862,16.10.08
+16.10.09.2001,Pematang Bangsal,Desa,30653,16.10.09
+16.10.09.2002,Maya Pati,Desa,30653,16.10.09
+16.10.09.2003,Sungai Lebung,Desa,30653,16.10.09
+16.10.09.2005,Kapuk,Desa,30653,16.10.09
+16.10.09.2006,Ulak Aurstanding,Desa,30653,16.10.09
+16.10.09.2007,Maju Jaya,Desa,30653,16.10.09
+16.10.09.2008,Naikan Tembakang,Desa,30653,16.10.09
+16.10.09.2009,Segayam,Desa,30653,16.10.09
+16.10.09.2010,Cahaya Marga,Desa,30653,16.10.09
+16.10.09.2011,S. Lebung Ulu,Desa,30653,16.10.09
+16.10.09.2012,Sungai Keli,Desa,30653,16.10.09
+16.10.09.2013,Lebak Pering,Desa,30653,16.10.09
+16.10.09.2014,Sungai Ondok,Desa,30653,16.10.09
+16.10.09.2015,Harimau Tandang,Desa,30653,16.10.09
+16.10.09.2016,Pematang Bungur,Desa,30653,16.10.09
+16.10.10.2001,Suka Merindu,Desa,30653,16.10.10
+16.10.10.2002,Sarang Lang,Desa,30653,16.10.10
+16.10.10.2003,Kamal,Desa,30653,16.10.10
+16.10.10.2004,Pulau Negara,Desa,30653,16.10.10
+16.10.10.2005,Talang Pangeran Ulu,Desa,30653,16.10.10
+16.10.10.2006,Ulak Kembahang I,Desa,30653,16.10.10
+16.10.10.2007,Ulak Petangisan,Desa,30653,16.10.10
+16.10.10.2008,Sribanding,Desa,30653,16.10.10
+16.10.10.2009,Ulak Kembahang II,Desa,30653,16.10.10
+16.10.10.2010,Talang Pangeran Ilir,Desa,30653,16.10.10
+16.10.10.2011,Arisan Jaya,Desa,30653,16.10.10
+16.10.11.2001,Kotadaro I,Desa,30661,16.10.11
+16.10.11.2002,Ketapang I,Desa,30661,16.10.11
+16.10.11.2003,Rantau Panjang Ilir,Desa,30661,16.10.11
+16.10.11.2004,Jagaraja,Desa,30661,16.10.11
+16.10.11.2005,Jagalano,Desa,30661,16.10.11
+16.10.11.2006,Sejangko I,Desa,30661,16.10.11
+16.10.11.2007,Kota Daro II,Desa,30661,16.10.11
+16.10.11.2008,Sungai Rotan,Desa,30661,16.10.11
+16.10.11.2009,Rantau Panjang Ulu,Desa,30661,16.10.11
+16.10.11.2010,Ketapang II,Desa,30661,16.10.11
+16.10.11.2011,Sejangko II,Desa,30661,16.10.11
+16.10.11.2012,Arisan Deras,Desa,30661,16.10.11
+16.10.12.1007,Sungai Pinang,Kelurahan,30662,16.10.12
+16.10.12.2001,Serijabo,Desa,30662,16.10.12
+16.10.12.2002,Sungai Pinang II,Desa,30662,16.10.12
+16.10.12.2003,Talang Dukun,Desa,30662,16.10.12
+16.10.12.2004,Tanjung Serian,Desa,30662,16.10.12
+16.10.12.2005,Penyandingan,Desa,30662,16.10.12
+16.10.12.2006,Sungai Pinang III,Desa,30662,16.10.12
+16.10.12.2008,Pinang Jaya,Desa,30662,16.10.12
+16.10.12.2009,Sungai Pinang I,Desa,30662,16.10.12
+16.10.12.2010,Pinang Mas,Desa,30662,16.10.12
+16.10.12.2011,S. Pinang Lagati,Desa,30662,16.10.12
+16.10.12.2012,S. Pinang Nibung,Desa,30662,16.10.12
+16.10.12.2013,Seri Jabo Baru,Desa,30662,16.10.12
+16.10.13.2001,Lubuk Rukam,Desa,30867,16.10.13
+16.10.13.2002,Tanjung Alai,Desa,30867,16.10.13
+16.10.13.2003,Kandis I,Desa,30867,16.10.13
+16.10.13.2004,Kumbang Ulu,Desa,30867,16.10.13
+16.10.13.2005,Kumbang Ilir,Desa,30867,16.10.13
+16.10.13.2006,Miji,Desa,30867,16.10.13
+16.10.13.2007,Santapan Barat,Desa,30867,16.10.13
+16.10.13.2008,Pandan Arang,Desa,30867,16.10.13
+16.10.13.2009,Muara Kumbang,Desa,30867,16.10.13
+16.10.13.2010,Kandis II,Desa,30867,16.10.13
+16.10.13.2011,Santapan Timur,Desa,30867,16.10.13
+16.10.13.2012,Lubuk Segonang,Desa,30867,16.10.13
+16.10.14.2001,Ibul Dalam,Desa,30869,16.10.14
+16.10.14.2002,Beringin Dalam,Desa,30869,16.10.14
+16.10.14.2003,Kuang Dalam Barat,Desa,30869,16.10.14
+16.10.14.2004,Lubuk Tunggal,Desa,30869,16.10.14
+16.10.14.2005,Ulak Segara,Desa,30869,16.10.14
+16.10.14.2006,Tanjung Bulan,Desa,30869,16.10.14
+16.10.14.2007,Tambang Rambang,Desa,30869,16.10.14
+16.10.14.2008,Sukananti,Desa,30869,16.10.14
+16.10.14.2009,Kayu Ara,Desa,30869,16.10.14
+16.10.14.2010,Tanjung Miring,Desa,30869,16.10.14
+16.10.14.2011,Sunur,Desa,30869,16.10.14
+16.10.14.2012,Kuang Dalam Timur,Desa,30869,16.10.14
+16.10.14.2013,Tangai,Desa,30869,16.10.14
+16.10.15.2001,Ulak Kembahang,Desa,30868,16.10.15
+16.10.15.2002,Lubuk Keliat,Desa,30868,16.10.15
+16.10.15.2003,Embacang,Desa,30868,16.10.15
+16.10.15.2004,Kasih Raja,Desa,30868,16.10.15
+16.10.15.2005,Talang Tengah Darat,Desa,30868,16.10.15
+16.10.15.2006,Betung II,Desa,30868,16.10.15
+16.10.15.2007,Ketiau,Desa,30868,16.10.15
+16.10.15.2008,Payalingkung,Desa,30868,16.10.15
+16.10.15.2009,Betung I,Desa,30868,16.10.15
+16.10.15.2010,Talang Tengah Laut,Desa,30868,16.10.15
+16.10.16.1012,Payaraman Barat,Kelurahan,30664,16.10.16
+16.10.16.1013,Payaraman Timur,Kelurahan,30664,16.10.16
+16.10.16.2001,Tebedak I,Desa,30664,16.10.16
+16.10.16.2002,Lubuk Bandung,Desa,30664,16.10.16
+16.10.16.2003,Talang Seleman,Desa,30664,16.10.16
+16.10.16.2004,Tebedak II,Desa,30664,16.10.16
+16.10.16.2005,Tanjung lalang,Desa,30664,16.10.16
+16.10.16.2006,Seri Kembang I,Desa,30664,16.10.16
+16.10.16.2007,Rengas I,Desa,30664,16.10.16
+16.10.16.2008,Paya Besar,Desa,30664,16.10.16
+16.10.16.2009,Rengas II,Desa,30664,16.10.16
+16.10.16.2010,Seri Kembang II,Desa,30664,16.10.16
+16.10.16.2011,Seri Kembang III,Desa,30664,16.10.16

@@ -1,0 +1,73 @@
+code,name,type,postal_code,district_code
+16.73.01.1001,Air Kuti,Kelurahan,31628,16.73.01
+16.73.01.1002,Majapahit,Kelurahan,31628,16.73.01
+16.73.01.1003,Taba Jemekeh,Kelurahan,31628,16.73.01
+16.73.01.1004,Nikan Jaya,Kelurahan,31628,16.73.01
+16.73.01.1005,Taba Lestari,Kelurahan,31628,16.73.01
+16.73.01.1007,Batu Urip Taba,Kelurahan,31628,16.73.01
+16.73.01.1015,Taba Koji,Kelurahan,31628,16.73.01
+16.73.01.1016,Watervang,Kelurahan,31628,16.73.01
+16.73.02.1001,Kayu Ara,Kelurahan,31615,16.73.02
+16.73.02.1002,Lubuk Tanjung,Kelurahan,31614,16.73.02
+16.73.02.1003,Tanjung Indah,Kelurahan,31611,16.73.02
+16.73.02.1004,Bandung Ujung,Kelurahan,31611,16.73.02
+16.73.02.1008,Bandung Kiri,Kelurahan,31611,16.73.02
+16.73.02.1009,Sukajadi,Kelurahan,31613,16.73.02
+16.73.02.1010,Muara Enim,Kelurahan,31611,16.73.02
+16.73.02.1015,Watas Lubuk Durian,Kelurahan,31611,16.73.02
+16.73.02.1016,Lubuk Aman,Kelurahan,31614,16.73.02
+16.73.02.1018,Tanjung Aman,Kelurahan,31611,16.73.02
+16.73.02.1019,Pelita Jaya,Kelurahan,31611,16.73.02
+16.73.03.1001,Lubuk Kupang,Kelurahan,31629,16.73.03
+16.73.03.1003,Rahmah,Kelurahan,31629,16.73.03
+16.73.03.1008,Jukung,Kelurahan,31629,16.73.03
+16.73.03.1009,Air Kati,Kelurahan,31629,16.73.03
+16.73.03.1010,Air Teman,Kelurahan,31629,16.73.03
+16.73.03.1011,Perumnas Rahmah,Kelurahan,31629,16.73.03
+16.73.03.1012,Lubuk Binjai,Kelurahan,31629,16.73.03
+16.73.04.1001,Durian Rampak,Kelurahan,31619,16.73.04
+16.73.04.1002,Tanjung Raya,Kelurahan,31619,16.73.04
+16.73.04.1003,Sumber Agung,Kelurahan,31619,16.73.04
+16.73.04.1004,Marga Bakti,Kelurahan,31619,16.73.04
+16.73.04.1005,Belalau I,Kelurahan,31619,16.73.04
+16.73.04.1006,Belalau II,Kelurahan,31619,16.73.04
+16.73.04.1007,Taba Baru,Kelurahan,31619,16.73.04
+16.73.04.1008,Margorejo,Kelurahan,31619,16.73.04
+16.73.04.1009,Petanang Ulu,Kelurahan,31618,16.73.04
+16.73.04.1010,Petanang Ilir,Kelurahan,31618,16.73.04
+16.73.05.1001,Jawa Kanan,Kelurahan,31621,16.73.05
+16.73.05.1002,Jawa Kanan SS,Kelurahan,31621,16.73.05
+16.73.05.1003,Wira Karya,Kelurahan,31623,16.73.05
+16.73.05.1004,Dempo,Kelurahan,31623,16.73.05
+16.73.05.1005,Jawa Kiri,Kelurahan,31622,16.73.05
+16.73.05.1006,Karya Bakti,Kelurahan,31623,16.73.05
+16.73.05.1007,Mesat Jaya,Kelurahan,31624,16.73.05
+16.73.05.1008,Mesat Seni,Kelurahan,31623,16.73.05
+16.73.05.1009,Cereme Taba,Kelurahan,31623,16.73.05
+16.73.06.1001,Sidorejo,Kelurahan,31616,16.73.06
+16.73.06.1002,Ulak Lebar,Kelurahan,31611,16.73.06
+16.73.06.1003,Tapak Lebar,Kelurahan,31611,16.73.06
+16.73.06.1004,Bandung Kanan,Kelurahan,31611,16.73.06
+16.73.06.1005,Keputraan,Kelurahan,31611,16.73.06
+16.73.06.1006,Lubuklinggau Ilir,Kelurahan,31611,16.73.06
+16.73.06.1007,Lubuklinggau Ulu,Kelurahan,31611,16.73.06
+16.73.06.1008,Pasar Permiri,Kelurahan,31611,16.73.06
+16.73.07.1001,Tanah Periuk,Kelurahan,31627,16.73.07
+16.73.07.1002,Simpang Periuk,Kelurahan,31627,16.73.07
+16.73.07.1003,Karang Ketuan,Kelurahan,31627,16.73.07
+16.73.07.1004,Siring Agung,Kelurahan,31627,16.73.07
+16.73.07.1005,Eka Marga,Kelurahan,31627,16.73.07
+16.73.07.1006,Marga Mulya,Kelurahan,31627,16.73.07
+16.73.07.1007,Marga Rahayu,Kelurahan,31627,16.73.07
+16.73.07.1008,Taba Pingin,Kelurahan,31627,16.73.07
+16.73.07.1009,Moneng Sepati,Kelurahan,31627,16.73.07
+16.73.08.1001,Batu Urip,Kelurahan,31627,16.73.08
+16.73.08.1002,Ulak Surung,Kelurahan,31617,16.73.08
+16.73.08.1003,Kenanga,Kelurahan,31619,16.73.08
+16.73.08.1004,Pasar Satelit,Kelurahan,31619,16.73.08
+16.73.08.1005,Senalang,Kelurahan,31619,16.73.08
+16.73.08.1006,Megang,Kelurahan,31628,16.73.08
+16.73.08.1007,Jogoboyo,Kelurahan,31619,16.73.08
+16.73.08.1008,Puncak Kemuning,Kelurahan,31619,16.73.08
+16.73.08.1009,Ponorogo,Kelurahan,31619,16.73.08
+16.73.08.1010,Kali Serayu,Kelurahan,31619,16.73.08
