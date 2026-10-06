@@ -1,0 +1,232 @@
+code,name,type,postal_code,district_code
+62.03.01.1006,Murung Keramat,Kelurahan,73512,62.03.01
+62.03.01.1007,Selat Hilir,Kelurahan,73513,62.03.01
+62.03.01.1008,Selat Tengah,Kelurahan,73514,62.03.01
+62.03.01.1009,Selat Hulu,Kelurahan,73515,62.03.01
+62.03.01.1010,Selat Dalam,Kelurahan,73516,62.03.01
+62.03.01.1021,Selat Utara,Kelurahan,73516,62.03.01
+62.03.01.1022,Selat Barat,Kelurahan,73514,62.03.01
+62.03.01.1023,Panamas,Kelurahan,73514,62.03.01
+62.03.01.2011,Pulau Telo,Desa,73516,62.03.01
+62.03.01.2020,Pulau Telo Baru,Desa,73516,62.03.01
+62.03.02.1001,Mambulau,Kelurahan,73521,62.03.02
+62.03.02.1002,Hampatung,Kelurahan,73522,62.03.02
+62.03.02.1003,Dahirang,Kelurahan,73523,62.03.02
+62.03.02.1004,Barimba,Kelurahan,73524,62.03.02
+62.03.02.1005,Sei Pasah,Kelurahan,73525,62.03.02
+62.03.02.2006,Bakungin,Desa,73525,62.03.02
+62.03.02.2007,Sei Asam,Desa,73525,62.03.02
+62.03.02.2008,Saka Batur,Desa,73525,62.03.02
+62.03.03.2001,Anjir Serapat Timur,Desa,73581,62.03.03
+62.03.03.2002,Anjir Serapat Tengah,Desa,73581,62.03.03
+62.03.03.2003,Anjir Serapat Barat,Desa,73581,62.03.03
+62.03.03.2004,Anjir Mambulau Timur,Desa,73581,62.03.03
+62.03.03.2005,Anjir Mambulau Tengah,Desa,73581,62.03.03
+62.03.03.2006,Anjir Mambulau Barat,Desa,73581,62.03.03
+62.03.03.2007,Anjir Serapat Baru,Desa,73581,62.03.03
+62.03.04.2001,Batanjung,Desa,73583,62.03.04
+62.03.04.2002,Cemara Labat,Desa,73583,62.03.04
+62.03.04.2003,Palampai,Desa,73583,62.03.04
+62.03.04.2004,Sei Teras,Desa,73583,62.03.04
+62.03.04.2005,Lupak Dalam,Desa,73583,62.03.04
+62.03.04.2008,Tamban Baru Selatan,Desa,73583,62.03.04
+62.03.04.2011,Tamban Lupak,Desa,73583,62.03.04
+62.03.04.2014,Lupak Timur,Desa,73583,62.03.04
+62.03.04.2015,Wargo Mulyo,Desa,73583,62.03.04
+62.03.04.2016,Sei Bakut,Desa,73583,62.03.04
+62.03.04.2018,Pematang,Desa,73583,62.03.04
+62.03.04.2019,Simpang Bunga Tanjung,Desa,73583,62.03.04
+62.03.04.2020,Baranggau,Desa,73583,62.03.04
+62.03.05.1004,Mandomai,Kelurahan,73552,62.03.05
+62.03.05.2001,Sei Kayu,Desa,73552,62.03.05
+62.03.05.2002,Saka Mangkahai,Desa,73552,62.03.05
+62.03.05.2003,Anjir Kalampan,Desa,73552,62.03.05
+62.03.05.2005,Pantai,Desa,73552,62.03.05
+62.03.05.2006,Saka Tamiang,Desa,73552,62.03.05
+62.03.05.2007,Penda Katapi,Desa,73552,62.03.05
+62.03.05.2008,Teluk Hiri,Desa,73552,62.03.05
+62.03.05.2009,Sei Dusun,Desa,73552,62.03.05
+62.03.05.2010,Sei Pitung,Desa,73552,62.03.05
+62.03.05.2011,Maju Bersama,Desa,73552,62.03.05
+62.03.05.2012,Basuta Raya,Desa,73552,62.03.05
+62.03.06.2001,Saka Lagon,Desa,73592,62.03.06
+62.03.06.2002,Bunga Mawar,Desa,73592,62.03.06
+62.03.06.2003,Sei Tatas,Desa,73592,62.03.06
+62.03.06.2004,Narahan,Desa,73592,62.03.06
+62.03.06.2005,Handiwung,Desa,73592,62.03.06
+62.03.06.2006,Anjir Palambang,Desa,73592,62.03.06
+62.03.06.2007,Palangkai,Desa,73592,62.03.06
+62.03.06.2008,Teluk Palinget,Desa,73592,62.03.06
+62.03.06.2009,Sei Tatas Hilir,Desa,73592,62.03.06
+62.03.06.2010,Mawar Mekar,Desa,73592,62.03.06
+62.03.06.2011,Banama,Desa,73592,62.03.06
+62.03.06.2012,Narahan Baru,Desa,73592,62.03.06
+62.03.07.1001,Palingkau Baru,Kelurahan,73594,62.03.07
+62.03.07.1002,Palingkau Lama,Kelurahan,73594,62.03.07
+62.03.07.2003,Tajepan,Desa,73594,62.03.07
+62.03.07.2004,Mampai,Desa,73594,62.03.07
+62.03.07.2005,Muara Dadahup,Desa,73594,62.03.07
+62.03.07.2006,Belawang,Desa,73594,62.03.07
+62.03.07.2008,Palangkau Lama,Desa,73594,62.03.07
+62.03.07.2010,Palangkau Baru,Desa,73594,62.03.07
+62.03.07.2014,Talekung Punei,Desa,73594,62.03.07
+62.03.07.2015,Karya Bersama,Desa,73594,62.03.07
+62.03.07.2016,Palingkau Jaya,Desa,73594,62.03.07
+62.03.07.2017,Palingkau Asri,Desa,73594,62.03.07
+62.03.07.2018,Palingkau Sejahtera,Desa,73594,62.03.07
+62.03.07.2019,Saka Binjai,Desa,73594,62.03.07
+62.03.07.2020,Bina Sejahtera,Desa,73594,62.03.07
+62.03.07.2021,Suka Reja,Desa,73594,62.03.07
+62.03.07.2022,Suka Mukti,Desa,73594,62.03.07
+62.03.07.2023,Bina Karya,Desa,73594,62.03.07
+62.03.07.2024,Bina Mekar,Desa,73594,62.03.07
+62.03.07.2025,Rawa Subur,Desa,73594,62.03.07
+62.03.07.2026,Sumber Mulya,Desa,73594,62.03.07
+62.03.07.2027,Bumi Rahayu,Desa,73594,62.03.07
+62.03.07.2028,Manggala Permai,Desa,73594,62.03.07
+62.03.08.2001,Pangkalan Rekan,Desa,73564,62.03.08
+62.03.08.2002,Batuah,Desa,73564,62.03.08
+62.03.08.2003,Basarang,Desa,73564,62.03.08
+62.03.08.2004,Basungkai,Desa,73564,62.03.08
+62.03.08.2005,Maluen,Desa,73564,62.03.08
+62.03.08.2006,Pangkalan Sari,Desa,73564,62.03.08
+62.03.08.2007,Lunuk Ramba,Desa,73564,62.03.08
+62.03.08.2008,Batu Nindan,Desa,73564,62.03.08
+62.03.08.2009,Basarang Jaya,Desa,73564,62.03.08
+62.03.08.2010,Bungai Jaya,Desa,73564,62.03.08
+62.03.08.2011,Panarung,Desa,73564,62.03.08
+62.03.08.2012,Tarung Manuah,Desa,73564,62.03.08
+62.03.08.2013,Tambun Raya,Desa,73564,62.03.08
+62.03.08.2014,Naning,Desa,73564,62.03.08
+62.03.09.2001,Manusup,Desa,73553,62.03.09
+62.03.09.2002,Sei Kapar,Desa,73553,62.03.09
+62.03.09.2003,Tarantang,Desa,73553,62.03.09
+62.03.09.2004,Lamunti,Desa,73553,62.03.09
+62.03.09.2005,Pulau Kaladan,Desa,73553,62.03.09
+62.03.09.2006,Mantangai Hilir,Desa,73553,62.03.09
+62.03.09.2007,Mantangai Tengah,Desa,73553,62.03.09
+62.03.09.2008,Mantangai Hulu,Desa,73553,62.03.09
+62.03.09.2009,Kalumpang,Desa,73553,62.03.09
+62.03.09.2010,Sei Ahas,Desa,73553,62.03.09
+62.03.09.2011,Katunjung,Desa,73553,62.03.09
+62.03.09.2012,Lahei Mangkutup,Desa,73553,62.03.09
+62.03.09.2013,Tumbang Muroi,Desa,73553,62.03.09
+62.03.09.2014,Danau Rawah,Desa,73553,62.03.09
+62.03.09.2015,Muroi Raya,Desa,73553,62.03.09
+62.03.09.2016,Katimpun,Desa,73553,62.03.09
+62.03.09.2017,Manusup Hilir,Desa,73553,62.03.09
+62.03.09.2018,Sei Gita,Desa,73553,62.03.09
+62.03.09.2019,Bukit Batu,Desa,73553,62.03.09
+62.03.09.2020,Sei Gawing,Desa,73553,62.03.09
+62.03.09.2021,Humbang Raya,Desa,73553,62.03.09
+62.03.09.2022,Tabore,Desa,73553,62.03.09
+62.03.09.2023,Tumbang Mangkutup,Desa,73553,62.03.09
+62.03.09.2024,Lapetan,Desa,73553,62.03.09
+62.03.09.2025,Lamunti Permai,Desa,73553,62.03.09
+62.03.09.2026,Manyahi,Desa,73553,62.03.09
+62.03.09.2027,Sekata Makmur,Desa,73553,62.03.09
+62.03.09.2028,Kaladan Jaya,Desa,73553,62.03.09
+62.03.09.2029,Rantau Jaya,Desa,73553,62.03.09
+62.03.09.2030,Warga Mulya,Desa,73553,62.03.09
+62.03.09.2031,Lamunti Baru,Desa,73553,62.03.09
+62.03.09.2032,Sriwidadi,Desa,73553,62.03.09
+62.03.09.2033,Sumber Makmur,Desa,73553,62.03.09
+62.03.09.2034,Sidomulyo,Desa,73553,62.03.09
+62.03.09.2035,Harapan Jaya,Desa,73553,62.03.09
+62.03.09.2036,Sekata Bangun,Desa,73553,62.03.09
+62.03.09.2037,Sari Makmur,Desa,73553,62.03.09
+62.03.09.2038,Suka Maju,Desa,73553,62.03.09
+62.03.10.2001,Petak Puti,Desa,73554,62.03.10
+62.03.10.2002,Aruk,Desa,73554,62.03.10
+62.03.10.2003,Lawang Kajang,Desa,73554,62.03.10
+62.03.10.2004,Timpah,Desa,73554,62.03.10
+62.03.10.2005,Lungkuh Layang,Desa,73554,62.03.10
+62.03.10.2006,Lawang Kamah,Desa,73554,62.03.10
+62.03.10.2007,Tumbang Randang,Desa,73554,62.03.10
+62.03.10.2008,Batapah,Desa,73554,62.03.10
+62.03.10.2009,Danau Pantau,Desa,73554,62.03.10
+62.03.11.2001,Masaran,Desa,73555,62.03.11
+62.03.11.2002,Kayu Bulan,Desa,73555,62.03.11
+62.03.11.2003,Kota Baru,Desa,73555,62.03.11
+62.03.11.2004,Penda Muntei,Desa,73555,62.03.11
+62.03.11.2005,Tapen,Desa,73555,62.03.11
+62.03.11.2006,Pujon,Desa,73555,62.03.11
+62.03.11.2007,Marapit,Desa,73555,62.03.11
+62.03.11.2008,Manis,Desa,73555,62.03.11
+62.03.11.2009,Karukus,Desa,73555,62.03.11
+62.03.11.2010,Bajuh,Desa,73555,62.03.11
+62.03.11.2011,Barunang,Desa,73555,62.03.11
+62.03.11.2019,Buhut Jaya,Desa,73555,62.03.11
+62.03.11.2021,Hurung Pukung,Desa,73555,62.03.11
+62.03.12.2001,Sei Hanyo,Desa,74581,62.03.12
+62.03.12.2002,Hurung Tabengan,Desa,74581,62.03.12
+62.03.12.2003,Rahung Bungai,Desa,74581,62.03.12
+62.03.12.2005,Bulau Ngandung,Desa,74581,62.03.12
+62.03.12.2006,Tumbang Puroh,Desa,74581,62.03.12
+62.03.12.2008,Tangirang,Desa,74581,62.03.12
+62.03.12.2013,Barunang II,Desa,74581,62.03.12
+62.03.12.2014,Hurung Tampang,Desa,74581,62.03.12
+62.03.12.2015,Supang,Desa,74581,62.03.12
+62.03.12.2016,Katanjung,Desa,74581,62.03.12
+62.03.12.2018,Jakatan Pari,Desa,74581,62.03.12
+62.03.12.2019,Tumbang Sirat,Desa,74581,62.03.12
+62.03.12.2021,Dirung Koram,Desa,74581,62.03.12
+62.03.12.2022,Mampai Jaya,Desa,74581,62.03.12
+62.03.13.2001,Tamban Baru Timur,Desa,73582,62.03.13
+62.03.13.2002,Tamban Baru Tengah,Desa,73582,62.03.13
+62.03.13.2003,Tamban Baru Mekar,Desa,73582,62.03.13
+62.03.13.2004,Bandaraya,Desa,73582,62.03.13
+62.03.13.2005,Sidorejo,Desa,73582,62.03.13
+62.03.13.2006,Warna Sari,Desa,73582,62.03.13
+62.03.13.2007,Bandar Mekar,Desa,73582,62.03.13
+62.03.13.2008,Tamban Makmur,Desa,73582,62.03.13
+62.03.13.2009,Sidomulyo,Desa,73582,62.03.13
+62.03.13.2010,Tamban Jaya,Desa,73582,62.03.13
+62.03.14.2001,Jangkang,Desa,73557,62.03.14
+62.03.14.2002,Tumbang Tukun,Desa,73557,62.03.14
+62.03.14.2003,Sei Ringin,Desa,73557,62.03.14
+62.03.14.2004,Kaburan,Desa,73557,62.03.14
+62.03.14.2005,Balai Banjang,Desa,73557,62.03.14
+62.03.14.2006,Tumbang Diring,Desa,73557,62.03.14
+62.03.14.2007,Dandang,Desa,73557,62.03.14
+62.03.14.2008,Hurung Kampin,Desa,73557,62.03.14
+62.03.14.2009,Batu Sambung,Desa,73557,62.03.14
+62.03.14.2010,Tumbang Nusa,Desa,73557,62.03.14
+62.03.15.2001,Masaha,Desa,73556,62.03.15
+62.03.15.2002,Sei Pinang,Desa,73556,62.03.15
+62.03.15.2003,Lawang Tamang,Desa,73556,62.03.15
+62.03.15.2004,Karetau Manta'a,Desa,73556,62.03.15
+62.03.15.2005,Tumbang Bukoi,Desa,73556,62.03.15
+62.03.15.2006,Tumbang Tihis,Desa,73556,62.03.15
+62.03.15.2007,Tumbang Manyarung,Desa,73556,62.03.15
+62.03.15.2008,Tanjung Rendan,Desa,73556,62.03.15
+62.03.15.2009,Jakatan Masaha,Desa,73556,62.03.15
+62.03.15.2010,Masupa Ria,Desa,73556,62.03.15
+62.03.16.2001,Dadahup,Desa,73593,62.03.16
+62.03.16.2002,Tambak Bajai,Desa,73593,62.03.16
+62.03.16.2003,Bina Jaya,Desa,73593,62.03.16
+62.03.16.2004,Harapan Baru,Desa,73593,62.03.16
+62.03.16.2005,Bentuk Jaya,Desa,73593,62.03.16
+62.03.16.2006,Sumber Agung,Desa,73593,62.03.16
+62.03.16.2007,Petak Batuah,Desa,73593,62.03.16
+62.03.16.2008,Manuntung,Desa,73593,62.03.16
+62.03.16.2009,Sumber Alaska,Desa,73593,62.03.16
+62.03.16.2010,Menteng Karya,Desa,73593,62.03.16
+62.03.16.2011,Tanjung Harapan,Desa,73593,62.03.16
+62.03.16.2012,Kahuripan Permai,Desa,73593,62.03.16
+62.03.16.2013,Dadahup Raya,Desa,73593,62.03.16
+62.03.17.1001,Pulau Kupang,Kelurahan,73511,62.03.17
+62.03.17.2002,Pulau Mambulau,Desa,73516,62.03.17
+62.03.17.2003,Sei Lunuk,Desa,73516,62.03.17
+62.03.17.2004,Sei Jangkit,Desa,73516,62.03.17
+62.03.17.2005,Tamban Luar,Desa,73516,62.03.17
+62.03.17.2006,Terusan Raya,Desa,73516,62.03.17
+62.03.17.2007,Terusan Karya,Desa,73516,62.03.17
+62.03.17.2008,Terusan Makmur,Desa,73516,62.03.17
+62.03.17.2009,Terusan Mulya,Desa,73516,62.03.17
+62.03.17.2010,Bamban Raya,Desa,73516,62.03.17
+62.03.17.2011,Bangun Harjo,Desa,73516,62.03.17
+62.03.17.2012,Terusan Baguntan Raya,Desa,73516,62.03.17
+62.03.17.2013,Terusan Raya Barat,Desa,73516,62.03.17
+62.03.17.2014,Terusan Raya Hulu,Desa,73516,62.03.17
+62.03.17.2015,Budi Mufakat,Desa,73516,62.03.17

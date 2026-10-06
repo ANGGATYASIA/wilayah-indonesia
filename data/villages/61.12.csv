@@ -1,0 +1,124 @@
+code,name,type,postal_code,district_code
+61.12.01.2001,Sungai Raya,Desa,78391,61.12.01
+61.12.01.2002,Sungai Ambangah,Desa,78391,61.12.01
+61.12.01.2003,Arang Limbung,Desa,78391,61.12.01
+61.12.01.2004,Kuala Dua,Desa,78391,61.12.01
+61.12.01.2005,Tebang Kacang,Desa,78391,61.12.01
+61.12.01.2006,Sungai Asam,Desa,78391,61.12.01
+61.12.01.2007,Pulau Limbung,Desa,78391,61.12.01
+61.12.01.2008,Kapur,Desa,78234,61.12.01
+61.12.01.2009,Gunung Tamang,Desa,78391,61.12.01
+61.12.01.2010,Sungai Bulan,Desa,78391,61.12.01
+61.12.01.2011,Limbung,Desa,78391,61.12.01
+61.12.01.2012,Teluk Kapuas,Desa,78391,61.12.01
+61.12.01.2013,Madu Sari,Desa,78391,61.12.01
+61.12.01.2014,Mekar Sari,Desa,78391,61.12.01
+61.12.01.2015,Mekar Baru,Desa,78391,61.12.01
+61.12.01.2016,Sungai Raya Dalam,Desa,78391,61.12.01
+61.12.01.2017,Parit Baru,Desa,78391,61.12.01
+61.12.01.2018,Pulau Jambu,Desa,78391,61.12.01
+61.12.01.2019,Kalibandung,Desa,78391,61.12.01
+61.12.01.2020,Muara Baru,Desa,78391,61.12.01
+61.12.01.2021,Sukulanting,Desa,78391,61.12.01
+61.12.01.2022,Permata Jaya,Desa,78391,61.12.01
+61.12.02.2001,Kuala Mandor B,Desa,78355,61.12.02
+61.12.02.2002,Kubu Padi,Desa,78355,61.12.02
+61.12.02.2003,Kuala Mandor A,Desa,78355,61.12.02
+61.12.02.2004,Retok,Desa,78355,61.12.02
+61.12.02.2005,Sungai Enau,Desa,78355,61.12.02
+61.12.02.2006,Padi Jaya,Desa,78355,61.12.02
+61.12.03.2001,Simpang Kanan,Desa,78393,61.12.03
+61.12.03.2002,Mega Timur,Desa,78393,61.12.03
+61.12.03.2003,Bengkarek,Desa,78393,61.12.03
+61.12.03.2004,Lingga,Desa,78393,61.12.03
+61.12.03.2005,Sungai Ambawang Kuala,Desa,78393,61.12.03
+61.12.03.2006,Jawa Tengah,Desa,78393,61.12.03
+61.12.03.2007,Durian,Desa,78393,61.12.03
+61.12.03.2008,Pancaroba,Desa,78393,61.12.03
+61.12.03.2009,Puguk,Desa,78393,61.12.03
+61.12.03.2010,Korek,Desa,78393,61.12.03
+61.12.03.2011,Pasak,Desa,78393,61.12.03
+61.12.03.2012,Pasak Piang,Desa,78393,61.12.03
+61.12.03.2013,Teluk Bakung,Desa,78393,61.12.03
+61.12.03.2014,Ampera Raya,Desa,78393,61.12.03
+61.12.03.2015,Sungai Malaya,Desa,78393,61.12.03
+61.12.04.2002,Teluk Empening,Desa,78392,61.12.04
+61.12.04.2003,Terentang Hilir,Desa,78392,61.12.04
+61.12.04.2004,Terentang Hulu,Desa,78392,61.12.04
+61.12.04.2005,Permata,Desa,78392,61.12.04
+61.12.04.2006,Betuah,Desa,78392,61.12.04
+61.12.04.2007,Sungai Radak Satu,Desa,78392,61.12.04
+61.12.04.2008,Sungai Radak Dua,Desa,78392,61.12.04
+61.12.04.2009,Sungai Dungun,Desa,78392,61.12.04
+61.12.04.2010,Teluk Bayur,Desa,78392,61.12.04
+61.12.04.2011,Radak Baru,Desa,78392,61.12.04
+61.12.05.2001,Tanjung Beringin,Desa,78385,61.12.05
+61.12.05.2002,Batu Ampar,Desa,78385,61.12.05
+61.12.05.2003,Teluk Nibung,Desa,78385,61.12.05
+61.12.05.2004,Padang Tikar Satu,Desa,78385,61.12.05
+61.12.05.2005,Padang Tikar Dua,Desa,78385,61.12.05
+61.12.05.2006,Tasik Malaya,Desa,78385,61.12.05
+61.12.05.2007,Sungai Besar,Desa,78385,61.12.05
+61.12.05.2008,Sungai Jawi,Desa,78385,61.12.05
+61.12.05.2009,Nipah Panjang,Desa,78385,61.12.05
+61.12.05.2010,Ambarawa,Desa,78385,61.12.05
+61.12.05.2011,Tanjung Harapan,Desa,78385,61.12.05
+61.12.05.2012,Sungai Kerawang,Desa,78385,61.12.05
+61.12.05.2013,Sumber Agung,Desa,78385,61.12.05
+61.12.05.2014,Muara Tiga,Desa,78385,61.12.05
+61.12.05.2015,Medan Mas,Desa,78385,61.12.05
+61.12.06.2001,Kubu,Desa,78384,61.12.06
+61.12.06.2002,Olak-Olak Kubu,Desa,78384,61.12.06
+61.12.06.2003,Sungai Selamat,Desa,78384,61.12.06
+61.12.06.2004,Sungai Bemban,Desa,78384,61.12.06
+61.12.06.2005,Pinang Luar,Desa,78384,61.12.06
+61.12.06.2006,Seruat Dua,Desa,78384,61.12.06
+61.12.06.2007,Seruat Tiga,Desa,78384,61.12.06
+61.12.06.2008,Dabong,Desa,78384,61.12.06
+61.12.06.2009,Ambawang,Desa,78384,61.12.06
+61.12.06.2010,Sepakat Baru,Desa,78384,61.12.06
+61.12.06.2011,Kampung Baru,Desa,78384,61.12.06
+61.12.06.2012,Air Putih,Desa,78384,61.12.06
+61.12.06.2013,Teluk Nangka,Desa,78384,61.12.06
+61.12.06.2014,Jangkang Satu,Desa,78384,61.12.06
+61.12.06.2015,Jangkang Dua,Desa,78384,61.12.06
+61.12.06.2016,Pinang Dalam,Desa,78384,61.12.06
+61.12.06.2017,Sungai Terus,Desa,78384,61.12.06
+61.12.06.2018,Pelita Jaya,Desa,78384,61.12.06
+61.12.06.2019,Mengkalang,Desa,78384,61.12.06
+61.12.06.2020,Mengkalang Jambu,Desa,78384,61.12.06
+61.12.07.2001,Rasau Jaya Umum,Desa,78382,61.12.07
+61.12.07.2002,Rasau Jaya Satu,Desa,78381,61.12.07
+61.12.07.2003,Rasau Jaya Dua,Desa,78382,61.12.07
+61.12.07.2004,Rasau Jaya Tiga,Desa,78382,61.12.07
+61.12.07.2005,Bintang Mas,Desa,78382,61.12.07
+61.12.07.2006,Pematang Tujuh,Desa,78382,61.12.07
+61.12.08.2001,Teluk Pakedai Hulu,Desa,78383,61.12.08
+61.12.08.2002,Teluk Pakedai Satu,Desa,78383,61.12.08
+61.12.08.2003,Teluk Pakedai Dua,Desa,78383,61.12.08
+61.12.08.2004,Kuala Karang,Desa,78383,61.12.08
+61.12.08.2005,Seruat Satu,Desa,78383,61.12.08
+61.12.08.2006,Sungai Deras,Desa,78383,61.12.08
+61.12.08.2007,Selat Remis,Desa,78383,61.12.08
+61.12.08.2008,Madura,Desa,78383,61.12.08
+61.12.08.2009,Pasir Putih,Desa,78383,61.12.08
+61.12.08.2010,Teluk Gelam,Desa,78383,61.12.08
+61.12.08.2011,Tanjung Bunga,Desa,78383,61.12.08
+61.12.08.2012,Sungai Nibung,Desa,78383,61.12.08
+61.12.08.2013,Arus Deras,Desa,78383,61.12.08
+61.12.08.2014,Sungai Nipah,Desa,78383,61.12.08
+61.12.09.2001,Sungai Kakap,Desa,78380,61.12.09
+61.12.09.2002,Sungai Itik,Desa,78380,61.12.09
+61.12.09.2003,Jeruju Besar,Desa,78380,61.12.09
+61.12.09.2004,Sungai Kupah,Desa,78380,61.12.09
+61.12.09.2005,Sungai Rengas,Desa,78380,61.12.09
+61.12.09.2006,Pal Sembilan,Desa,78380,61.12.09
+61.12.09.2007,Sungai Belidak,Desa,78380,61.12.09
+61.12.09.2008,Kalimas,Desa,78380,61.12.09
+61.12.09.2009,Punggur Kecil,Desa,78380,61.12.09
+61.12.09.2010,Punggur Besar,Desa,78380,61.12.09
+61.12.09.2011,Tanjung Saleh,Desa,78380,61.12.09
+61.12.09.2012,Sepuk Laut,Desa,78380,61.12.09
+61.12.09.2013,Punggur Kapuas,Desa,78380,61.12.09
+61.12.09.2014,Rengas Kapuas,Desa,78380,61.12.09
+61.12.09.2015,Parit Keladi,Desa,78380,61.12.09
