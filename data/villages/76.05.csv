@@ -1,0 +1,83 @@
+code,name,type,postal_code,district_code
+76.05.01.1001,Banggae,Kelurahan,91411,76.05.01
+76.05.01.1003,Baru,Kelurahan,91415,76.05.01
+76.05.01.1007,Pangali Ali,Kelurahan,91411,76.05.01
+76.05.01.1009,Totoli,Kelurahan,91415,76.05.01
+76.05.01.1010,Rangas,Kelurahan,91415,76.05.01
+76.05.01.1013,Galung,Kelurahan,91411,76.05.01
+76.05.01.2011,Palipi Soreang,Desa,91415,76.05.01
+76.05.01.2012,Pamboborang,Desa,91415,76.05.01
+76.05.02.1001,Lalampanua,Kelurahan,91451,76.05.02
+76.05.02.1002,Sirindu,Kelurahan,91451,76.05.02
+76.05.02.2003,Adolang,Desa,91451,76.05.02
+76.05.02.2004,Bababulo,Desa,91451,76.05.02
+76.05.02.2005,Bonde,Desa,91451,76.05.02
+76.05.02.2006,Betteng,Desa,91451,76.05.02
+76.05.02.2007,Simbang,Desa,91451,76.05.02
+76.05.02.2008,Bonde Utara,Desa,91451,76.05.02
+76.05.02.2009,Bababulo Utara,Desa,91451,76.05.02
+76.05.02.2010,Buttu Pamboang,Desa,91451,76.05.02
+76.05.02.2011,Banua Adolang,Desa,91451,76.05.02
+76.05.02.2012,Adolang Dhua,Desa,91451,76.05.02
+76.05.02.2013,Tinambung,Desa,91451,76.05.02
+76.05.02.2014,Pesuloang,Desa,91451,76.05.02
+76.05.02.2015,Balombong,Desa,91451,76.05.02
+76.05.03.1001,Mosso,Kelurahan,91452,76.05.03
+76.05.03.1002,Mosso Dhua,Kelurahan,91452,76.05.03
+76.05.03.2004,Totolisi Sendana,Desa,91452,76.05.03
+76.05.03.2007,Tallubanua,Desa,91452,76.05.03
+76.05.03.2015,Lalatedzong,Desa,91452,76.05.03
+76.05.03.2016,Binanga,Desa,91452,76.05.03
+76.05.03.2017,Puttada,Desa,91452,76.05.03
+76.05.03.2018,Paminggalan,Desa,91452,76.05.03
+76.05.03.2019,Leppangang,Desa,91452,76.05.03
+76.05.03.2020,Pundau,Desa,91452,76.05.03
+76.05.03.2021,Sendana,Desa,91452,76.05.03
+76.05.03.2022,Banua Sendana,Desa,91452,76.05.03
+76.05.03.2023,Tallubanua Utara,Desa,91452,76.05.03
+76.05.03.2024,Limboro Rambu-Rambu,Desa,91452,76.05.03
+76.05.03.2025,Limbua,Desa,91452,76.05.03
+76.05.03.2026,Bukit Samang,Desa,91452,76.05.03
+76.05.04.1001,Malunda,Kelurahan,91453,76.05.04
+76.05.04.1015,Lamungang Batu,Kelurahan,91453,76.05.04
+76.05.04.2002,Bambangan,Desa,91453,76.05.04
+76.05.04.2004,Lombang,Desa,91453,76.05.04
+76.05.04.2005,Lombong,Desa,91453,76.05.04
+76.05.04.2006,Mekkatta,Desa,91453,76.05.04
+76.05.04.2010,Maliaya,Desa,91453,76.05.04
+76.05.04.2011,Lombang Timur,Desa,91453,76.05.04
+76.05.04.2012,Salutahongan,Desa,91453,76.05.04
+76.05.04.2013,Lombong Timur,Desa,91453,76.05.04
+76.05.04.2014,Mekkatta Selatan,Desa,91453,76.05.04
+76.05.04.2016,Kayuangin,Desa,91453,76.05.04
+76.05.05.2001,Kabiraan,Desa,91454,76.05.05
+76.05.05.2002,Sambabo,Desa,91454,76.05.05
+76.05.05.2003,Tandeallo,Desa,91454,76.05.05
+76.05.05.2004,Ulumanda,Desa,91454,76.05.05
+76.05.05.2005,Salutambung,Desa,91454,76.05.05
+76.05.05.2006,Popenga,Desa,91454,76.05.05
+76.05.05.2007,Sulai,Desa,91454,76.05.05
+76.05.05.2008,Panggalo,Desa,91454,76.05.05
+76.05.06.2001,Seppong,Desa,91450,76.05.06
+76.05.06.2002,Tammerodo,Desa,91450,76.05.06
+76.05.06.2003,Ulidang,Desa,91450,76.05.06
+76.05.06.2004,Tallambalao,Desa,91450,76.05.06
+76.05.06.2005,Tammerodo Utara,Desa,91450,76.05.06
+76.05.06.2006,Manyamba,Desa,91450,76.05.06
+76.05.06.2007,Awo,Desa,91450,76.05.06
+76.05.07.2001,Onang,Desa,91455,76.05.07
+76.05.07.2002,Tubo,Desa,91455,76.05.07
+76.05.07.2003,Onang Utara,Desa,91455,76.05.07
+76.05.07.2004,Tubo Selatan,Desa,91455,76.05.07
+76.05.07.2005,Bonde bonde,Desa,91455,76.05.07
+76.05.07.2006,Tubo Tengah,Desa,91455,76.05.07
+76.05.07.2007,Tubo Poang,Desa,91455,76.05.07
+76.05.08.1001,Baurung,Kelurahan,91412,76.05.08
+76.05.08.1002,Baruga,Kelurahan,91414,76.05.08
+76.05.08.1003,Baruga Dhua,Kelurahan,91411,76.05.08
+76.05.08.1004,Labuang,Kelurahan,91412,76.05.08
+76.05.08.1005,Tande,Kelurahan,91413,76.05.08
+76.05.08.1006,Lembang,Kelurahan,91413,76.05.08
+76.05.08.1007,Labuang Utara,Kelurahan,91413,76.05.08
+76.05.08.1008,Tande Timur,Kelurahan,91413,76.05.08
+76.05.08.2009,Buttu Baruga,Desa,91413,76.05.08
