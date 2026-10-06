@@ -78,8 +78,8 @@ Untuk diimpor ke database atau diolah dengan pandas/spreadsheet:
 |---|---|
 | `data/provinces.csv` | code, name |
 | `data/regencies.csv` | code, name, type, province_code |
-| `data/districts.csv` | code, name, regency_code |
-| `data/villages.csv` | code, name, type, postal_code, district_code |
+| `data/districts/{kode_prov}.csv` | code, name, regency_code |
+| `data/villages/{kode_kab}.csv` | code, name, type, postal_code, district_code |
 
 Contoh seeder Laravel dan skrip Python ada di folder [`examples/`](examples/).
 

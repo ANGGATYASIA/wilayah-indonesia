@@ -19,8 +19,9 @@ Schema::create('wilayah', function (Blueprint $table) {
 
 ## 2. Seeder
 
-Taruh keempat CSV dari folder `data/` ke `database/seeders/csv/`,
-lalu:
+Taruh CSV dari folder `data/` ke `database/seeders/csv/`
+(`provinces.csv` dan `regencies.csv` langsung, sisanya per wilayah —
+`districts/*.csv` dan `villages/*.csv`), lalu:
 
 ```php
 // database/seeders/WilayahSeeder.php
@@ -33,37 +34,43 @@ class WilayahSeeder extends Seeder
 {
     public function run(): void
     {
-        $files = [
-            'provinsi'  => ['provinces.csv',  fn($r) => [null, null]],
-            'kabupaten' => ['regencies.csv',  fn($r) => [$r['type'], $r['province_code']]],
-            'kecamatan' => ['districts.csv',  fn($r) => [null, $r['regency_code']]],
-            'desa'      => ['villages.csv',   fn($r) => [$r['type'], $r['district_code']]],
+        $levels = [
+            'provinsi'  => ['pattern' => 'provinces.csv',    'map' => fn($r) => [null, null]],
+            'kabupaten' => ['pattern' => 'regencies.csv',    'map' => fn($r) => [$r['type'], $r['province_code']]],
+            'kecamatan' => ['pattern' => 'districts/*.csv', 'map' => fn($r) => [null, $r['regency_code']]],
+            'desa'      => ['pattern' => 'villages/*.csv',  'map' => fn($r) => [$r['type'], $r['district_code']]],
         ];
 
-        foreach ($files as $level => [$file, $map]) {
-            $path = database_path("seeders/csv/{$file}");
-            $rows = array_map('str_getcsv', file($path));
-            $head = array_shift($rows);
-
-            $batch = [];
-            foreach ($rows as $row) {
-                $r = array_combine($head, $row);
-                [$type, $parent] = $map($r);
-                $batch[] = [
-                    'code'        => $r['code'],
-                    'name'        => $r['name'],
-                    'level'       => $level,
-                    'type'        => $type,
-                    'postal_code' => $r['postal_code'] ?? null,
-                    'parent_code' => $parent,
-                ];
-                if (count($batch) === 1000) {
-                    DB::table('wilayah')->upsert($batch, 'code');
-                    $batch = [];
-                }
+        foreach ($levels as $level => ['pattern' => $pattern, 'map' => $map]) {
+            foreach (glob(database_path("seeders/csv/{$pattern}")) as $path) {
+                $this->seedFile($path, $level, $map);
             }
-            if ($batch) DB::table('wilayah')->upsert($batch, 'code');
         }
+    }
+
+    private function seedFile(string $path, string $level, callable $map): void
+    {
+        $rows = array_map('str_getcsv', file($path));
+        $head = array_shift($rows);
+
+        $batch = [];
+        foreach ($rows as $row) {
+            $r = array_combine($head, $row);
+            [$type, $parent] = $map($r);
+            $batch[] = [
+                'code'        => $r['code'],
+                'name'        => $r['name'],
+                'level'       => $level,
+                'type'        => $type,
+                'postal_code' => $r['postal_code'] ?? null,
+                'parent_code' => $parent,
+            ];
+            if (count($batch) === 1000) {
+                DB::table('wilayah')->upsert($batch, 'code');
+                $batch = [];
+            }
+        }
+        if ($batch) DB::table('wilayah')->upsert($batch, 'code');
     }
 }
 ```
