@@ -1,0 +1,146 @@
+code,name,type,postal_code,district_code
+14.06.01.1001,Ujung Batu,Kelurahan,28553,14.06.01
+14.06.01.2002,Suka Damai,Desa,28553,14.06.01
+14.06.01.2003,Ngaso,Desa,28553,14.06.01
+14.06.01.2004,Ujung Batu Timur,Desa,28553,14.06.01
+14.06.01.2005,Pematang Tebih,Desa,28553,14.06.01
+14.06.02.1001,Rokan,Kelurahan,28551,14.06.02
+14.06.02.2002,Cipang Kanan,Desa,28551,14.06.02
+14.06.02.2003,Cipang Kiri Hulu,Desa,28551,14.06.02
+14.06.02.2004,Cipang Kiri Hilir,Desa,28551,14.06.02
+14.06.02.2006,Tanjung Medan,Desa,28551,14.06.02
+14.06.02.2007,Lubuk Bendahara Timur,Desa,28551,14.06.02
+14.06.02.2008,Lubuk Bendahara,Desa,28551,14.06.02
+14.06.02.2010,Sikebau Jaya,Desa,28551,14.06.02
+14.06.02.2013,Rokan Koto Ruang,Desa,28551,14.06.02
+14.06.02.2014,Rokan Timur,Desa,28551,14.06.02
+14.06.02.2016,Lubuk Betung,Desa,28551,14.06.02
+14.06.02.2017,Pemandang,Desa,28551,14.06.02
+14.06.02.2018,Alahan,Desa,28551,14.06.02
+14.06.02.2019,Tibawan,Desa,28551,14.06.02
+14.06.03.1001,Pasir Pengarayan,Kelurahan,28560,14.06.03
+14.06.03.2002,Rambah Tengah Utara,Desa,28560,14.06.03
+14.06.03.2003,Rambah Tengah Hilir,Desa,28560,14.06.03
+14.06.03.2004,Rambah Tengah Hulu,Desa,28560,14.06.03
+14.06.03.2005,Rambah Tengah Barat,Desa,28560,14.06.03
+14.06.03.2006,Menaming,Desa,28560,14.06.03
+14.06.03.2007,Pasir Baru,Desa,28560,14.06.03
+14.06.03.2008,Sialang Jaya,Desa,28560,14.06.03
+14.06.03.2009,Tanjung Belit,Desa,28560,14.06.03
+14.06.03.2010,Koto Tinggi,Desa,28560,14.06.03
+14.06.03.2011,Suka Maju,Desa,28560,14.06.03
+14.06.03.2012,Pematang Berangan,Desa,28560,14.06.03
+14.06.03.2013,Babussalam,Desa,28560,14.06.03
+14.06.03.2014,Pasir Maju,Desa,28560,14.06.03
+14.06.04.1001,Tambusai Tengah,Kelurahan,28558,14.06.04
+14.06.04.2002,Tambusai Barat,Desa,28558,14.06.04
+14.06.04.2003,Tambusai Timur,Desa,28558,14.06.04
+14.06.04.2004,Batas,Desa,28558,14.06.04
+14.06.04.2005,Talikumain,Desa,28558,14.06.04
+14.06.04.2006,Rantau Panjang,Desa,28558,14.06.04
+14.06.04.2007,Sungai Kumango,Desa,28558,14.06.04
+14.06.04.2008,Batang Kumu,Desa,28558,14.06.04
+14.06.04.2009,Sialang Rindang,Desa,28558,14.06.04
+14.06.04.2010,Suka Maju,Desa,28558,14.06.04
+14.06.04.2011,Lubuk Soting,Desa,28558,14.06.04
+14.06.04.2012,Tingkok,Desa,28558,14.06.04
+14.06.05.1001,KepenuhanTengah,Kelurahan,28563,14.06.05
+14.06.05.2003,Kepenuhan Barat,Desa,28563,14.06.05
+14.06.05.2004,Kepenuhan Hilir,Desa,28563,14.06.05
+14.06.05.2005,Kepenuhan Timur,Desa,28563,14.06.05
+14.06.05.2006,Kepenuhan Barat Sei Rokan Jaya,Desa,28563,14.06.05
+14.06.05.2007,Kepenuhan Raya,Desa,28563,14.06.05
+14.06.05.2008,Kepenuhan Baru,Desa,28563,14.06.05
+14.06.05.2009,Kepenuhan Barat Mulya,Desa,28563,14.06.05
+14.06.05.2010,Ulak Patian,Desa,28563,14.06.05
+14.06.05.2012,Rantau Binuang Sakti,Desa,28563,14.06.05
+14.06.06.1001,Kota Lama,Kelurahan,28556,14.06.06
+14.06.06.2003,Kota Intan,Desa,28556,14.06.06
+14.06.06.2004,Muara Dilam,Desa,28556,14.06.06
+14.06.06.2008,Kota Raya,Desa,28556,14.06.06
+14.06.06.2009,Kota Baru,Desa,28556,14.06.06
+14.06.06.2010,Sungai Kuti,Desa,28556,14.06.06
+14.06.06.2011,Pasir Indah,Desa,28556,14.06.06
+14.06.06.2012,Pasir Luhur,Desa,28556,14.06.06
+14.06.06.2017,Bukit Intan Makmur,Desa,28556,14.06.06
+14.06.06.2018,Bagan Tujuh,Desa,28556,14.06.06
+14.06.07.2001,Rambah Samo,Desa,28565,14.06.07
+14.06.07.2002,Rambah Samo Barat,Desa,28565,14.06.07
+14.06.07.2003,Rambah Baru,Desa,28565,14.06.07
+14.06.07.2004,Rambah Utama,Desa,28565,14.06.07
+14.06.07.2005,Pasir Makmur,Desa,28565,14.06.07
+14.06.07.2006,Karya Mulya,Desa,28565,14.06.07
+14.06.07.2007,Marga Mulya,Desa,28565,14.06.07
+14.06.07.2008,Langkitin,Desa,28565,14.06.07
+14.06.07.2009,Masda Makmur,Desa,28565,14.06.07
+14.06.07.2010,Lubuk Napal,Desa,28565,14.06.07
+14.06.07.2011,Teluk Aur,Desa,28565,14.06.07
+14.06.07.2012,Sei Salak,Desa,28565,14.06.07
+14.06.07.2013,Sei Kuning,Desa,28565,14.06.07
+14.06.07.2014,Lubuk Bilang,Desa,28565,14.06.07
+14.06.08.2001,Rambah Hilir,Desa,28561,14.06.08
+14.06.08.2002,Rambah Hilir Tengah,Desa,28561,14.06.08
+14.06.08.2003,Rambah Hilir Timur,Desa,28561,14.06.08
+14.06.08.2004,Pasir Utama,Desa,28561,14.06.08
+14.06.08.2005,Pasir Jaya,Desa,28561,14.06.08
+14.06.08.2006,Rambah Muda,Desa,28561,14.06.08
+14.06.08.2007,Sungai Sitolang,Desa,28561,14.06.08
+14.06.08.2008,Lubuk Kerapat,Desa,28561,14.06.08
+14.06.08.2009,Rambah,Desa,28561,14.06.08
+14.06.08.2010,Serombou Indah,Desa,28561,14.06.08
+14.06.08.2011,Sungai Dua Indah,Desa,28561,14.06.08
+14.06.08.2012,Muara Musu,Desa,28561,14.06.08
+14.06.08.2013,Sejati,Desa,28561,14.06.08
+14.06.09.2001,Tambusai Utara,Desa,28562,14.06.09
+14.06.09.2002,Mahato,Desa,28562,14.06.09
+14.06.09.2003,Bangun Jaya,Desa,28562,14.06.09
+14.06.09.2004,Simpang Harapan,Desa,28562,14.06.09
+14.06.09.2005,Pagar Mayang,Desa,28562,14.06.09
+14.06.09.2006,Payung Sekaki,Desa,28562,14.06.09
+14.06.09.2007,Mekar Jaya,Desa,28562,14.06.09
+14.06.09.2008,Tanjung Medan,Desa,28562,14.06.09
+14.06.09.2009,Suka Damai,Desa,28562,14.06.09
+14.06.09.2010,Rantau Sakti,Desa,28562,14.06.09
+14.06.09.2011,Mahato Sakti,Desa,28562,14.06.09
+14.06.10.2001,Pasir Agung,Desa,28557,14.06.10
+14.06.10.2002,Pasir Intan,Desa,28557,14.06.10
+14.06.10.2003,Rambah Jaya,Desa,28557,14.06.10
+14.06.10.2004,Bangun Purba,Desa,28557,14.06.10
+14.06.10.2005,Bangun Purba Timur Jaya,Desa,28557,14.06.10
+14.06.10.2006,Bangun Purba Barat,Desa,28557,14.06.10
+14.06.10.2007,Tangun,Desa,28557,14.06.10
+14.06.11.2001,Tandun,Desa,28552,14.06.11
+14.06.11.2002,Kumain,Desa,28552,14.06.11
+14.06.11.2003,Bono Tapung,Desa,28552,14.06.11
+14.06.11.2004,Dayo,Desa,28552,14.06.11
+14.06.11.2005,Tapung Jaya,Desa,28552,14.06.11
+14.06.11.2006,Puo Raya,Desa,28552,14.06.11
+14.06.11.2007,Sei Kuning,Desa,28552,14.06.11
+14.06.11.2008,Koto Tandun,Desa,28552,14.06.11
+14.06.11.2009,Tandun Barat,Desa,28552,14.06.11
+14.06.12.2001,Kabun,Desa,28554,14.06.12
+14.06.12.2002,Aliantan,Desa,28554,14.06.12
+14.06.12.2003,Koto Ranah,Desa,28554,14.06.12
+14.06.12.2004,Boncah Kesuma,Desa,28554,14.06.12
+14.06.12.2005,Batu Langkah Besar,Desa,28554,14.06.12
+14.06.12.2006,Giti,Desa,28554,14.06.12
+14.06.13.2001,Teluk Sono,Desa,28559,14.06.13
+14.06.13.2002,Sontang,Desa,28559,14.06.13
+14.06.13.2003,Bonai,Desa,28559,14.06.13
+14.06.13.2004,Rawa Makmur,Desa,28559,14.06.13
+14.06.13.2005,Pauh,Desa,28559,14.06.13
+14.06.13.2006,Kasang Padang,Desa,28559,14.06.13
+14.06.13.2007,Kasang Mungkal,Desa,28559,14.06.13
+14.06.14.2001,Pagaran Tapah,Desa,28550,14.06.14
+14.06.14.2002,Kembang Damai,Desa,28550,14.06.14
+14.06.14.2005,Sangkir Indah,Desa,28550,14.06.14
+14.06.15.2001,Kepenuhan Hulu,Desa,28564,14.06.15
+14.06.15.2002,Pekan Tebih,Desa,28564,14.06.15
+14.06.15.2003,Kepayang,Desa,28564,14.06.15
+14.06.15.2004,Muara Jaya,Desa,28564,14.06.15
+14.06.15.2005,Kepenuhan Jaya,Desa,28564,14.06.15
+14.06.16.2001,Pendalian,Desa,28555,14.06.16
+14.06.16.2002,Bengkolan Salak,Desa,28555,14.06.16
+14.06.16.2003,Suligi,Desa,28555,14.06.16
+14.06.16.2004,Air Panas,Desa,28555,14.06.16
+14.06.16.2005,Sei Kandis,Desa,28555,14.06.16

@@ -1,0 +1,195 @@
+code,name,type,postal_code,district_code
+14.02.01.1004,Kampung Dagang,Kelurahan,29313,14.02.01
+14.02.01.1006,Pasar Kota,Kelurahan,29311,14.02.01
+14.02.01.1007,Kampung Besar Kota,Kelurahan,29312,14.02.01
+14.02.01.1008,Sekip Hulu,Kelurahan,29319,14.02.01
+14.02.01.1011,Kampung Besar Seberang,Kelurahan,29312,14.02.01
+14.02.01.1018,Sekip Hilir,Kelurahan,29318,14.02.01
+14.02.01.2001,Sungai Guntung Tengah,Desa,29319,14.02.01
+14.02.01.2002,Sungai Guntung Hilir,Desa,29319,14.02.01
+14.02.01.2003,Kuantan Babu,Desa,29314,14.02.01
+14.02.01.2005,Kampung Pulau,Desa,29314,14.02.01
+14.02.01.2009,Sungai Beringin,Desa,29317,14.02.01
+14.02.01.2010,Pasir Kemilu,Desa,29316,14.02.01
+14.02.01.2012,Rantau Mapesai,Desa,29319,14.02.01
+14.02.01.2013,Pulau Gajah,Desa,29313,14.02.01
+14.02.01.2014,Sungai Raya,Desa,29319,14.02.01
+14.02.01.2023,Rawa Bangun,Desa,29319,14.02.01
+14.02.02.1009,Pematang Reba,Kelurahan,29351,14.02.02
+14.02.02.2001,Barangan,Desa,29351,14.02.02
+14.02.02.2002,Alang Kepayang,Desa,29351,14.02.02
+14.02.02.2003,Kota Lama,Desa,29351,14.02.02
+14.02.02.2004,Redang,Desa,29351,14.02.02
+14.02.02.2005,Pekan Heran,Desa,29351,14.02.02
+14.02.02.2006,Rantau Bakung,Desa,29345,14.02.02
+14.02.02.2007,Talang Jerinjing,Desa,29351,14.02.02
+14.02.02.2008,Sialang Dua Dahan,Desa,29344,14.02.02
+14.02.02.2010,Sungai Dawu,Desa,29351,14.02.02
+14.02.02.2011,Bukit Petaling,Desa,29351,14.02.02
+14.02.02.2012,Pematang Jaya,Desa,29351,14.02.02
+14.02.02.2013,Danau Baru,Desa,29351,14.02.02
+14.02.02.2014,Tanah Datar,Desa,29351,14.02.02
+14.02.02.2015,Tani Makmur,Desa,29351,14.02.02
+14.02.02.2016,Sungai Baung,Desa,29351,14.02.02
+14.02.02.2017,Danau Tiga,Desa,29351,14.02.02
+14.02.02.2018,Air Jernih,Desa,29351,14.02.02
+14.02.03.1019,Simpang Kelayang,Kelurahan,29352,14.02.03
+14.02.03.2007,Pulau Sengkilo,Desa,29352,14.02.03
+14.02.03.2008,Kota Medan,Desa,29352,14.02.03
+14.02.03.2009,Simpang Kota Medan,Desa,29352,14.02.03
+14.02.03.2010,Polak Pisang,Desa,29352,14.02.03
+14.02.03.2018,Pelangko,Desa,29352,14.02.03
+14.02.03.2020,Teluk Sejuah,Desa,29352,14.02.03
+14.02.03.2021,Bongkal Malang,Desa,29352,14.02.03
+14.02.03.2022,Dusun Tua,Desa,29352,14.02.03
+14.02.03.2024,Sungai Banyak Ikan,Desa,29352,14.02.03
+14.02.03.2025,Tanjung Beludu,Desa,29352,14.02.03
+14.02.03.2026,Sungai Pasir Putih,Desa,29352,14.02.03
+14.02.03.2027,Sungai Golang,Desa,29352,14.02.03
+14.02.03.2028,Pasir Beringin,Desa,29352,14.02.03
+14.02.03.2029,Sungai Kuning Benio,Desa,29352,14.02.03
+14.02.03.2030,Bukit Selanjut,Desa,29352,14.02.03
+14.02.03.2031,Dusun Tua Pelang,Desa,29352,14.02.03
+14.02.04.1007,Air Molek I,Kelurahan,29358,14.02.04
+14.02.04.1020,Kembang Harum,Kelurahan,29358,14.02.04
+14.02.04.1031,Tanjung Gading,Kelurahan,29358,14.02.04
+14.02.04.1032,Sekar Mawar,Kelurahan,29358,14.02.04
+14.02.04.1033,Tanah Merah,Kelurahan,29358,14.02.04
+14.02.04.2006,Petalongan,Desa,29358,14.02.04
+14.02.04.2008,Air Molek II,Desa,29358,14.02.04
+14.02.04.2009,Pasir Keranji,Desa,29358,14.02.04
+14.02.04.2016,Jati Rejo,Desa,29358,14.02.04
+14.02.04.2017,Batu Gajah,Desa,29358,14.02.04
+14.02.04.2018,Candi Rejo,Desa,29358,14.02.04
+14.02.04.2019,Lembah Dusun Gading,Desa,29358,14.02.04
+14.02.04.2030,Serumpun Jaya,Desa,29358,14.02.04
+14.02.05.1005,Peranap,Kelurahan,29357,14.02.05
+14.02.05.1008,Batu Rijal Hilir,Kelurahan,29357,14.02.05
+14.02.05.2003,Semelinang Tebing,Desa,29357,14.02.05
+14.02.05.2004,Gumanti,Desa,29357,14.02.05
+14.02.05.2007,Batu Rijal Hulu,Desa,29357,14.02.05
+14.02.05.2009,Semelinang Darat,Desa,29357,14.02.05
+14.02.05.2010,Pauh Ranap,Desa,29357,14.02.05
+14.02.05.2012,Serai Wangi,Desa,29357,14.02.05
+14.02.05.2013,Pandan Wangi,Desa,29357,14.02.05
+14.02.05.2017,Katipo Pura,Desa,29357,14.02.05
+14.02.05.2019,Batu Rijal Barat,Desa,29357,14.02.05
+14.02.05.2020,Setako Raya,Desa,29357,14.02.05
+14.02.06.1001,Pangkalan Kasai,Kelurahan,29371,14.02.06
+14.02.06.2002,Kelesa,Desa,29371,14.02.06
+14.02.06.2003,Beligan,Desa,29371,14.02.06
+14.02.06.2004,Seresam,Desa,29371,14.02.06
+14.02.06.2005,Paya Rumbai,Desa,29371,14.02.06
+14.02.06.2006,Bukit Meranti,Desa,29371,14.02.06
+14.02.06.2007,Buluh Rampai,Desa,29371,14.02.06
+14.02.06.2008,Titian Resak,Desa,29371,14.02.06
+14.02.06.2009,Petala Bumi,Desa,29371,14.02.06
+14.02.06.2010,Sibabat,Desa,29371,14.02.06
+14.02.06.2011,Bandar Padang,Desa,29371,14.02.06
+14.02.07.2002,Anak Talang,Desa,29355,14.02.07
+14.02.07.2004,Bukit Lingkar,Desa,29355,14.02.07
+14.02.07.2005,Bukit Lipai,Desa,29355,14.02.07
+14.02.07.2006,Kuala Gading,Desa,29355,14.02.07
+14.02.07.2007,Kuala Kilan,Desa,29355,14.02.07
+14.02.07.2008,Kerubung Jaya,Desa,29355,14.02.07
+14.02.07.2009,Pejangki,Desa,29355,14.02.07
+14.02.07.2010,Pematang Manggis,Desa,29355,14.02.07
+14.02.07.2011,Sipang,Desa,29355,14.02.07
+14.02.07.2012,Talang Bersemi,Desa,29355,14.02.07
+14.02.07.2013,Talang Mulya,Desa,29355,14.02.07
+14.02.07.2014,Punti Anai,Desa,29355,14.02.07
+14.02.07.2015,Petaling Jaya,Desa,29355,14.02.07
+14.02.07.2017,Cenaku Kecil,Desa,29355,14.02.07
+14.02.07.2018,Alim,Desa,29355,14.02.07
+14.02.07.2019,Aur Cina,Desa,29355,14.02.07
+14.02.07.2020,Lahai Kemuning,Desa,29355,14.02.07
+14.02.07.2021,Kepayang Sari,Desa,29355,14.02.07
+14.02.07.2022,Batu Papan,Desa,29355,14.02.07
+14.02.07.2023,Sanglap,Desa,29355,14.02.07
+14.02.08.2001,Siambul,Desa,29356,14.02.08
+14.02.08.2002,Rantau Langsat,Desa,29356,14.02.08
+14.02.08.2003,Sungai Akar,Desa,29356,14.02.08
+14.02.08.2004,Usul,Desa,29356,14.02.08
+14.02.08.2005,Seberida,Desa,29356,14.02.08
+14.02.08.2006,Talang Lakat,Desa,29356,14.02.08
+14.02.08.2007,Belimbing,Desa,29356,14.02.08
+14.02.08.2008,Ringin,Desa,29356,14.02.08
+14.02.08.2010,Penyaguan,Desa,29356,14.02.08
+14.02.08.2011,Danau Rambai,Desa,29356,14.02.08
+14.02.09.2001,Japura,Desa,29353,14.02.09
+14.02.09.2002,Sidomulyo,Desa,29353,14.02.09
+14.02.09.2003,Pasir Ringgit,Desa,29353,14.02.09
+14.02.09.2004,Gudang Batu,Desa,29353,14.02.09
+14.02.09.2005,Sungai Sagu,Desa,29353,14.02.09
+14.02.09.2006,Lirik Area,Desa,29353,14.02.09
+14.02.09.2007,Rejosari,Desa,29353,14.02.09
+14.02.09.2008,Lambang Sari V,Desa,29353,14.02.09
+14.02.09.2009,Lambang Sari IV,Desa,29353,14.02.09
+14.02.09.2010,"Lambang Sari I, II, III",Desa,29353,14.02.09
+14.02.09.2011,Wonosari,Desa,29353,14.02.09
+14.02.09.2012,Seko Lubuk Tigo,Desa,29353,14.02.09
+14.02.09.2013,Banjar Balam,Desa,29353,14.02.09
+14.02.09.2014,Redang Seko,Desa,29353,14.02.09
+14.02.09.2015,Sukajadi,Desa,29353,14.02.09
+14.02.09.2016,Mekar Sari,Desa,29353,14.02.09
+14.02.09.2017,Pasir Sialang Jaya,Desa,29353,14.02.09
+14.02.10.2001,Tambak,Desa,29335,14.02.10
+14.02.10.2002,Kuala Cenaku,Desa,29335,14.02.10
+14.02.10.2003,Pulau Gelang,Desa,29335,14.02.10
+14.02.10.2004,Kuala Mulya,Desa,29335,14.02.10
+14.02.10.2005,Tanjung Sari,Desa,29335,14.02.10
+14.02.10.2006,Rawa Sekip,Desa,29335,14.02.10
+14.02.10.2007,Rawa Asri,Desa,29335,14.02.10
+14.02.10.2008,Suka Jadi,Desa,29335,14.02.10
+14.02.10.2009,Teluk Sungkai,Desa,29335,14.02.10
+14.02.10.2010,Pulau Jum'at,Desa,29335,14.02.10
+14.02.11.2001,Morong,Desa,29363,14.02.11
+14.02.11.2002,Pasir Bongkal,Desa,29363,14.02.11
+14.02.11.2003,Pasir Selabau,Desa,29363,14.02.11
+14.02.11.2004,Pasir Batu Mandi,Desa,29363,14.02.11
+14.02.11.2005,Pasir Kelampaian,Desa,29363,14.02.11
+14.02.11.2006,Kuala Lala,Desa,29363,14.02.11
+14.02.11.2007,Sungai Lala,Desa,29363,14.02.11
+14.02.11.2008,Kelawat,Desa,29363,14.02.11
+14.02.11.2009,Perkebunan Sungai Parit,Desa,29363,14.02.11
+14.02.11.2010,Perkebunan Sungai Lala,Desa,29363,14.02.11
+14.02.11.2011,Tanjung Danau,Desa,29363,14.02.11
+14.02.11.2012,Sungai Air Putih,Desa,29363,14.02.11
+14.02.12.2001,Rimpian,Desa,29350,14.02.12
+14.02.12.2002,Pondok Gelugur,Desa,29350,14.02.12
+14.02.12.2003,Lubuk Batu Tinggal,Desa,29350,14.02.12
+14.02.12.2004,Sungai Beras Hilir,Desa,29350,14.02.12
+14.02.12.2005,Kulim Jaya,Desa,29350,14.02.12
+14.02.12.2006,Sungai Beras Beras,Desa,29350,14.02.12
+14.02.12.2007,Tasik Juang,Desa,29350,14.02.12
+14.02.12.2008,Pontian Mekar,Desa,29350,14.02.12
+14.02.12.2009,Air Putih,Desa,29350,14.02.12
+14.02.13.2001,Talang Tujuh Buah Tangga,Desa,29359,14.02.13
+14.02.13.2002,Talang Durian Cacar,Desa,29359,14.02.13
+14.02.13.2003,Talang Selantai,Desa,29359,14.02.13
+14.02.13.2004,Talang Perigi,Desa,29359,14.02.13
+14.02.13.2005,Kuantan Tenang,Desa,29359,14.02.13
+14.02.13.2006,Kota Baru,Desa,29359,14.02.13
+14.02.13.2007,Rimba Seminai,Desa,29359,14.02.13
+14.02.13.2008,Kelayang,Desa,29359,14.02.13
+14.02.13.2009,Talang Gedabu,Desa,29359,14.02.13
+14.02.13.2010,Talang Sungai Limau,Desa,29359,14.02.13
+14.02.13.2011,Talang Sungai Parit,Desa,29359,14.02.13
+14.02.13.2012,Batu Sawar,Desa,29359,14.02.13
+14.02.13.2013,Petonggan,Desa,29359,14.02.13
+14.02.13.2014,Lubuk Sitarak,Desa,29359,14.02.13
+14.02.13.2015,Bukit Indah,Desa,29359,14.02.13
+14.02.13.2016,Sungai Ekok,Desa,29359,14.02.13
+14.02.13.2017,Talang Suka Maju,Desa,29359,14.02.13
+14.02.13.2018,Kampung Bunga,Desa,29359,14.02.13
+14.02.13.2019,Talang Pring Jaya,Desa,29359,14.02.13
+14.02.14.2001,Pesajian,Desa,29354,14.02.14
+14.02.14.2002,Punti Kayu,Desa,29354,14.02.14
+14.02.14.2003,Pematang,Desa,29354,14.02.14
+14.02.14.2004,Selunak,Desa,29354,14.02.14
+14.02.14.2005,Suka Maju,Desa,29354,14.02.14
+14.02.14.2006,Pematang Benteng,Desa,29354,14.02.14
+14.02.14.2007,Sencano Jaya,Desa,29354,14.02.14
+14.02.14.2008,Sungai Aur,Desa,29354,14.02.14
+14.02.14.2009,Peladangan,Desa,29354,14.02.14
+14.02.14.2010,Koto Tuo,Desa,29354,14.02.14

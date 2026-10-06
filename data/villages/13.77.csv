@@ -1,0 +1,72 @@
+code,name,type,postal_code,district_code
+13.77.01.1001,Karan Aur,Kelurahan,25514,13.77.01
+13.77.01.1002,Kampung Perak,Kelurahan,25513,13.77.01
+13.77.01.1003,Lohong,Kelurahan,25513,13.77.01
+13.77.01.1004,Pasir,Kelurahan,25513,13.77.01
+13.77.01.1005,Kampung Pondok,Kelurahan,25512,13.77.01
+13.77.01.1006,Pondok II,Kelurahan,25512,13.77.01
+13.77.01.1007,Kampung Jawa I,Kelurahan,25511,13.77.01
+13.77.01.1008,Kampung Jawa II,Kelurahan,25511,13.77.01
+13.77.01.1009,Alai Gelombang,Kelurahan,25519,13.77.01
+13.77.01.1010,Jawi Jawi I,Kelurahan,25518,13.77.01
+13.77.01.1011,Jawi Jawi II,Kelurahan,25518,13.77.01
+13.77.01.1012,Jalan Baru,Kelurahan,25515,13.77.01
+13.77.01.1013,Taratak,Kelurahan,25517,13.77.01
+13.77.01.1014,Jalan Kereta Api,Kelurahan,25515,13.77.01
+13.77.01.1015,Ujung Batung,Kelurahan,25516,13.77.01
+13.77.01.1016,Jati Hilir,Kelurahan,25519,13.77.01
+13.77.01.2017,Pauh Barat,Desa,25512,13.77.01
+13.77.01.2018,Pauh Timur,Desa,25512,13.77.01
+13.77.01.2019,Rawang,Desa,25511,13.77.01
+13.77.01.2020,Kampung Baru,Desa,25514,13.77.01
+13.77.01.2021,Cimparuh,Desa,25511,13.77.01
+13.77.01.2025,Jati Mudik,Desa,25517,13.77.01
+13.77.02.2005,Ampalu,Desa,25522,13.77.02
+13.77.02.2006,Apar,Desa,25522,13.77.02
+13.77.02.2007,Tanjung Sabar,Desa,25523,13.77.02
+13.77.02.2008,Cubadak Air Selatan,Desa,25524,13.77.02
+13.77.02.2009,Sikapak Barat,Desa,25526,13.77.02
+13.77.02.2010,Sikapak Timur,Desa,25526,13.77.02
+13.77.02.2011,Manggung,Desa,25522,13.77.02
+13.77.02.2012,Cubadak Air Utara,Desa,25524,13.77.02
+13.77.02.2013,Tungkal Selatan,Desa,25521,13.77.02
+13.77.02.2014,Naras Hilir,Desa,25522,13.77.02
+13.77.02.2015,Naras I,Desa,25521,13.77.02
+13.77.02.2016,Balai Naras,Desa,25521,13.77.02
+13.77.02.2017,Padang Birik Birik,Desa,25521,13.77.02
+13.77.02.2018,Sintuk,Desa,25521,13.77.02
+13.77.02.2019,Sungai Rambai,Desa,25529,13.77.02
+13.77.02.2020,Tungkal Utara,Desa,25521,13.77.02
+13.77.02.2021,Cubadak Air,Desa,25524,13.77.02
+13.77.03.2006,Pasir Sunur,Desa,25538,13.77.03
+13.77.03.2007,Balai Kurai Taji,Desa,25531,13.77.03
+13.77.03.2008,Pauh Kurai Taji,Desa,25532,13.77.03
+13.77.03.2009,Simpang,Desa,25532,13.77.03
+13.77.03.2010,Toboh Palabah,Desa,25536,13.77.03
+13.77.03.2011,Marabau,Desa,25537,13.77.03
+13.77.03.2012,Batang Tajongkek,Desa,25531,13.77.03
+13.77.03.2013,Sikabu,Desa,25539,13.77.03
+13.77.03.2014,Sungai Kasai,Desa,25537,13.77.03
+13.77.03.2015,Palak Aneh,Desa,25539,13.77.03
+13.77.03.2016,Kampung Apar,Desa,25539,13.77.03
+13.77.03.2017,Marunggi,Desa,25538,13.77.03
+13.77.03.2018,Taluk,Desa,25538,13.77.03
+13.77.03.2019,Padang Cakur,Desa,25537,13.77.03
+13.77.03.2020,Punggung Lading,Desa,25533,13.77.03
+13.77.03.2021,Rambai,Desa,25533,13.77.03
+13.77.04.2001,Talago Sarik,Desa,25523,13.77.04
+13.77.04.2002,Pakasai,Desa,25524,13.77.04
+13.77.04.2003,Kampung Baru Padusunan,Desa,25524,13.77.04
+13.77.04.2004,Kampung Gadang,Desa,25523,13.77.04
+13.77.04.2005,Koto Marapak,Desa,25519,13.77.04
+13.77.04.2006,Batang Kabung,Desa,25519,13.77.04
+13.77.04.2007,Bato,Desa,25519,13.77.04
+13.77.04.2008,Air Santok,Desa,25531,13.77.04
+13.77.04.2009,Cubadak Mentawai,Desa,25516,13.77.04
+13.77.04.2010,Sungai Sirah,Desa,25516,13.77.04
+13.77.04.2011,Sungai Pasak,Desa,25516,13.77.04
+13.77.04.2012,Bungo Tanjung,Desa,25535,13.77.04
+13.77.04.2013,Kampung Tangah,Desa,25535,13.77.04
+13.77.04.2014,Kampung Kandang,Desa,25536,13.77.04
+13.77.04.2015,Kaluat,Desa,25534,13.77.04
+13.77.04.2016,Kajai,Desa,25534,13.77.04
